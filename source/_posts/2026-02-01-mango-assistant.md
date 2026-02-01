@@ -13,6 +13,8 @@ tags:
 
 # 新助手Mango上线！AI帮我自动化日常
 
+![鸿飞的头像](/images/hongfei-avatar.jpg)
+
 今天做了一件很有意思的事 —— 给自己配置了一个 AI 助手 Mango！🍋
 
 ## 为什么要搞这个？

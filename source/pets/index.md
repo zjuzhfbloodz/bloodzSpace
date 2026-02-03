@@ -18,93 +18,41 @@ type: pets
 
 ## 📸 最新动态
 
-![宠物监控](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_060114.jpg)
+![家庭合影](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_073209.jpg)
 
-**🕐 更新时间**: 2026-02-04 06:01
+**🕐 更新时间**: 2026-02-04 07:31
 
 **💡 总结**:
 
-### 🔍 监控结果
-- **搜索状态：** ✅ **找到宠物！**
-- **搜索次数：** 1 次
-- **发现角度：** 中心 (center)
-- **发现宠物：** Mango 🐕
+### 🐕 Mango (芒果)
+- **姿态：** 画面中**未发现** Mango 的身影
+- **猜测：** 可能正在狗窝里休息，或在镜头外的某个角落
 
-### 📝 当前情况
-- **检查位置：** 中心视角
-- **画面内容：** 左侧杂物架+布帘，中间白色房门贴福字+镜子，右侧黑色金属围栏+宠物垫
-- **宠物状态：** 🐕 **Mango 在左下角睡觉！**
+### 🐱 Nomi & 小义乌
+- **当前状态：** 画面中**暂未看到** Nomi 和小义乌的身影 🔍
+- **猜测：** 可能正在猫爬架上打盹，或者躲在某个凉快的小角落里 🐈
 
-### 📜 日志 - 2026年02月04日
-
-### ⏰ 06:01
-![快照](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_060114.jpg)
-
-🎉 **找到 Mango 了！** 🐕✨ 白色西高地白梗 Mango 在画面左下角趴着睡觉。夜视模式下清晰可见小白毛茸茸的身影。左侧有杂物和布帘，中间是贴福字的白色房门，右侧是黑色宠物围栏 🌙
-![快照](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_053142.jpg)
-
-⚠️ **中心视角未发现宠物**。画面显示左侧有收纳架和布帘，中间是贴有福字的房门，右侧是黑色金属宠物围栏。三只宠物均不在镜头范围内。请检查 EZVIZ API token 配置。
+### 🏠 环境背景
+- **温馨居家风：** 浅色原木纹地板，温暖干净
+- **生活细节：** 中央放着一大桶纯净水 💧，右侧有黑色宠物围栏
 
 ---
 
-### ⏰ 04:31
-![快照](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_043105.jpg)
-
-🐕 **Mango 在睡觉！** 小金毛 Mango 蜷缩在左下角挂衣区地板上，背对镜头休息。左侧有透明塑料瓶和白色帘子，右前方白色房门贴着福字，右侧可见黑色宠物围栏 🌙✨
+**❤️ 总结：** Mango 独自守在客厅，像个称职的小管家。虽然 Nomi 和小义乌暂时缺席，但这种"你在守望，它们在休息"的画面，正是养宠家庭最平凡也最动人的瞬间 ✨
 
 ---
 
-### ⏰ 04:01
-![快照](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_040116.jpg)
+## 📜 日记 - 2026年02月04日
 
-🐕 **Mango 在睡觉！** 小金毛 Mango 蜷缩在左下角白色地垫上，右侧可见宠物围栏，前方白色房门贴着福字。旁边还有一个透明塑料瓶 🌙✨
-
----
-
-### ⏰ 03:02
-![快照](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_030211.jpg)
-
-🐕 **小义乌在睡觉！** 发现白色卷毛小狗小义乌侧卧在门边的浅色地垫上休息，深夜安静时刻 🌙✨
-
----
-
-### ⏰ 02:01
-![快照](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_020146.jpg)
-
-🐱 **Nomi 在休息！** 发现在白色圆凳上蜷缩着睡觉，深夜安静时刻 🌙✨
-
----
-
-### ⏰ 01:32
-![快照](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_013152.jpg)
-
-🎉 **找到 Nomi 了！** 在 right 角度发现白色猫咪 Nomi 坐在门后房间里休息 🐱✨
-
----
-
-### ⏰ 01:04
-![快照](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_010344.jpg)
-
-5次遍历未找到目标宠物（ Mango/小义乌），发现三花猫一只 🐱
-
----
-
-### ⏰ 01:03
-![快照](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_010335.jpg)
+### ⏰ 07:32
+![快照](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_073209.jpg)
 
 小狗正在休息 🐕💤
 
 ---
 
-### ⏰ 01:02
-![快照](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_010348.jpg)
-
-小狗正在休息 💤
-
----
-
-### ⏰ 00:54
-![快照](https://zjuzhfbloodz.github.io/images/pets/dog_20260202_154648.jpg)
+### ⏰ _0:10
+![快照](https://zjuzhfbloodz.github.io/images/pets/dog_20260204_010231.jpg)
 
 小狗正在休息 💤
 

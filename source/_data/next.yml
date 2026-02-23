@@ -1,0 +1,8 @@
+custom_file_path:
+  style: source/_data/styles.styl
+
+menu:
+  home: / || fa fa-home
+  ideas: /ideas/ || fa fa-lightbulb
+  pets: /pets/ || fa fa-paw
+  archives: /archives/ || fa fa-archive

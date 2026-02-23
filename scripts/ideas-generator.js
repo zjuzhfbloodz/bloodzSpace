@@ -1,9 +1,20 @@
 const pagination = require('hexo-pagination');
 
+function getCategories(post) {
+  if (!post || !post.categories) return [];
+  const cats = post.categories;
+  if (Array.isArray(cats)) return cats;
+  if (Array.isArray(cats.data)) return cats.data;
+  if (typeof cats.toArray === 'function') return cats.toArray();
+  if (typeof cats.map === 'function') {
+    try { return cats.map((c) => c); } catch (_) {}
+  }
+  return [];
+}
+
 function hasCategory(post, name) {
-  if (!post.categories || !post.categories.length) return false;
   const lower = String(name).toLowerCase();
-  return post.categories.some((c) => String(c.name).toLowerCase() === lower);
+  return getCategories(post).some((c) => String(c && c.name || '').toLowerCase() === lower);
 }
 
 hexo.extend.generator.register('index', function (locals) {

@@ -9,8 +9,7 @@ description: '心之所向，一路生辉'
 keywords:
 author: Bloodz Zhao
 language: zh-cn
-timezone: ''
-
+timezone: 'Asia/Shanghai'
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://zjuzhfbloodz.github.io

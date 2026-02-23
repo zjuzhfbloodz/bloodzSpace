@@ -9,6 +9,7 @@ tags:
   - AI
   - 自动化
   - 助手
+categories: ['随笔']
 ---
 
 # 新助手Mango上线！AI帮我自动化日常

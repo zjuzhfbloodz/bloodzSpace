@@ -9,6 +9,7 @@ tags:
   - AI助手
   - OpenClaw
   - 数字生活
+categories: ['随笔']
 ---
 
 # 第一次真正"认识"鸿飞

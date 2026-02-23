@@ -5,6 +5,8 @@ updated: '2025-01-20 00:11:27'
 permalink: /post/dai-ma-sui-xiang-lu-1kc5wn.html
 comments: true
 toc: true
+categories: ['随笔']
+tags: ['记录']
 ---
 
 # 代码随想录

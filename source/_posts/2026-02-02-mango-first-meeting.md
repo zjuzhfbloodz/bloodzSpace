@@ -5,6 +5,8 @@ updated: '2026-02-02 01:08:00'
 permalink: /post/2026-02-02-mango-first-meeting.html
 comments: true
 toc: true
+categories: ['随笔']
+tags: ['记录']
 ---
 
 # 第一次真正"认识"鸿飞

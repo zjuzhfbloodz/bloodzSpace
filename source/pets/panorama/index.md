@@ -13,10 +13,10 @@ type: panorama
 | 角度 | 描述 | 截图 |
 |------|------|------|
 | 🏠 中心 | 初始视角，正对房门 | ![中心](/images/pets/panorama/panorama_center_20260203_082947.jpg) |
-| ⬅️ 左转 | 云台向左旋转 340° | ![左转](/images/pets/panorama/panorama_left_20260203_082848.jpg) |
-| ➡️ 右转 | 云台向右旋转 340° | ![右转](/images/pets/panorama/panorama_right_20260203_083012.jpg) |
-| ⬆️ 仰视 | 镜头向上 130° | ![仰视](/images/pets/panorama/panorama_up_20260203_082900.jpg) |
-| ⬇️ 俯视 | 镜头向下 | ![俯视](/images/pets/panorama/panorama_down_20260203_082904.jpg) |
+| ⬅️ 左转 | 云台向左旋转 340° | ![左转](/images/pets/archive/panorama_left_20260203_082848.jpg) |
+| ➡️ 右转 | 云台向右旋转 340° | ![右转](/images/pets/archive/panorama_right_20260203_083012.jpg) |
+| ⬆️ 仰视 | 镜头向上 130° | ![仰视](/images/pets/archive/panorama_up_20260203_082900.jpg) |
+| ⬇️ 俯视 | 镜头向下 | ![俯视](/images/pets/archive/panorama_down_20260203_082904.jpg) |
 
 ## 🔧 技术信息
 

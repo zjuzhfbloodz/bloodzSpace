@@ -1,4 +1,5 @@
     const state = { type: 'all', includeArchive: false, data: null, startDate: null, endDate: null };
+    const DISPLAY_TYPES = ['person', 'cat', 'dog', 'pet'];
 
     function formatDate(iso) {
       const d = new Date(iso);
@@ -21,6 +22,7 @@
       const persons = found.filter(x => x.type === 'person').length;
       const dogs = found.filter(x => x.type === 'dog').length;
       const cats = found.filter(x => x.type === 'cat').length;
+      const pets = found.filter(x => x.type === 'pet').length;
 
       document.getElementById('summary').innerHTML = `
         <div class="chip">识别总图<b>${all.length}</b></div>
@@ -29,6 +31,7 @@
         <div class="chip">🧍 人物<b>${persons}</b></div>
         <div class="chip">🐕 狗狗<b>${dogs}</b></div>
         <div class="chip">🐱 猫咪<b>${cats}</b></div>
+        <div class="chip">🐾 宠物<b>${pets}</b></div>
       `;
     }
 
@@ -51,6 +54,7 @@
       if (type === 'person') return '人物';
       if (type === 'dog') return '狗狗';
       if (type === 'cat') return '猫咪';
+      if (type === 'pet') return '宠物';
       return '其它';
     }
 
@@ -61,7 +65,8 @@
         ['all', '全部'],
         ['person', '人物'],
         ['cat', '猫咪'],
-        ['dog', '狗狗']
+        ['dog', '狗狗'],
+        ['pet', '宠物']
       ];
       opts.forEach(([key, label]) => {
         wrap.appendChild(btn(label, () => {
@@ -88,7 +93,7 @@
         .flatMap(([, arr]) => arr);
 
       const list = inRange
-        .filter(x => state.includeArchive ? true : (x.found && ['person', 'cat', 'dog'].includes(x.type)))
+        .filter(x => state.includeArchive ? true : (x.found && DISPLAY_TYPES.includes(x.type)))
         .filter(x => state.type === 'all' ? true : x.type === state.type)
         .sort((a,b) => `${b.date} ${b.time}`.localeCompare(`${a.date} ${a.time}`));
 

@@ -1,0 +1,453 @@
+[
+  {
+    "word": "Against",
+    "phonetic": "",
+    "meanings": [],
+    "examples": [
+      {
+        "sentence": "Against the backdrop of nonstop positioning with the Department of War (Anthropic refusing terms vs OpenAI doing a deal), OpenAI finally closed the much debated Big Round that had been started since December. In the post, they make several interesting new disclosures:",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:12:21.413Z"
+      }
+    ],
+    "sourceSentence": "Against the backdrop of nonstop positioning with the Department of War (Anthropic refusing terms vs OpenAI doing a deal), OpenAI finally closed the much debated Big Round that had been started since December. In the post, they make several interesting new disclosures:",
+    "translation": "在与战争部持续定位的背景下（Anthropic 拒绝条款，而 OpenAI 达成协议），OpenAI 最终完成了自十二月以来备受争议的大轮融资。在帖子中，他们披露了几项有趣的新信息：",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:12:21.414Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "amortize",
+    "phonetic": "ˈæmərˌtaɪz",
+    "meanings": [
+      "摊销",
+      "分期偿还"
+    ],
+    "examples": [
+      {
+        "sentence": "Hypernetworks for instant LoRA “compilation”: Doc-to-LoRA + Text-to-LoRA\n\nDoc-to-LoRA / Text-to-LoRA (Sakana AI): Sakana introduces two related methods that amortize customization cost by training a hypernetwork to generate LoRA adapters in a single forward pass, turning what would be fine-tuning / distillation / long-context prompting into “instant weight updates.” The core claim: instead of keeping everything in an expensive active context window, you can compile task descriptions or long documents into adapter weights with sub-second latency, enabling rapid adaptation and “durable memory”-like behavior (SakanaAILabs, hardmaru).\nText-to-LoRA: specializes to unseen tasks from just a natural langu",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:16:21.650Z"
+      }
+    ],
+    "sourceSentence": "Hypernetworks for instant LoRA “compilation”: Doc-to-LoRA + Text-to-LoRA\n\nDoc-to-LoRA / Text-to-LoRA (Sakana AI): Sakana introduces two related methods that amortize customization cost by training a hypernetwork to generate LoRA adapters in a single forward pass, turning what would be fine-tuning / distillation / long-context prompting into “instant weight updates.” The core claim: instead of keeping everything in an expensive active context window, you can compile task descriptions or long documents into adapter weights with sub-second latency, enabling rapid adaptation and “durable memory”-like behavior (SakanaAILabs, hardmaru).\nText-to-LoRA: specializes to unseen tasks from just a natural langu",
+    "translation": "用于即时LoRA“编译”的超网络：Doc-to-LoRA + Text-to-LoRA\n\nDoc-to-LoRA / Text-to-LoRA（Sakana AI）：Sakana引入了两种相关方法，通过训练一个超网络来生成LoRA适配器，从而摊销定制成本，只需一次前向传播，将本应是微调/蒸馏/长上下文提示的过程转变为“即时权重更新”。核心主张：你无需将所有内容保存在昂贵的活动上下文窗口中，而是可以将任务描述或长文档编译成适配器权重，延迟低于一秒，实现快速适应和类似“持久记忆”的行为（SakanaAILabs，hardmaru）。\nText-to-LoRA：专门针对仅凭自然语言的未见任务进行适应。",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:16:21.650Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "Anthropic",
+    "phonetic": "ænˈθrɒpɪk",
+    "meanings": [
+      "人类的",
+      "以人为中心的"
+    ],
+    "examples": [
+      {
+        "sentence": "Anthropic draws a line; tech reacts: A central flashpoint is Anthropic’s public refusal to enable mass domestic surveillance and fully autonomous weapons (as characterized by posters reacting to Anthropic’s statement), which drew rare cross-competitor praise and heightened attention to “red lines” in frontier deployment (mmitchell_ai, ilyasut).",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:20:40.026Z"
+      }
+    ],
+    "sourceSentence": "Anthropic draws a line; tech reacts: A central flashpoint is Anthropic’s public refusal to enable mass domestic surveillance and fully autonomous weapons (as characterized by posters reacting to Anthropic’s statement), which drew rare cross-competitor praise and heightened attention to “red lines” in frontier deployment (mmitchell_ai, ilyasut).",
+    "translation": "Anthropic 划定了一条界限；科技做出反应：一个核心争议点是 Anthropic 公开拒绝支持大规模国内监控和完全自主武器（正如对 Anthropic 声明反应的海报所描述的），这引来了罕见的跨竞争者赞扬，并加剧了对前沿部署中“红线”的关注（mmitchell_ai，ilyasut）。",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:20:40.026Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "autonomous",
+    "phonetic": "ɔːˈtɒnəməs",
+    "meanings": [
+      "自主的",
+      "自治的"
+    ],
+    "examples": [
+      {
+        "sentence": "Anthropic draws a line; tech reacts: A central flashpoint is Anthropic’s public refusal to enable mass domestic surveillance and fully autonomous weapons (as characterized by posters reacting to Anthropic’s statement), which drew rare cross-competitor praise and heightened attention to “red lines” in frontier deployment (mmitchell_ai, ilyasut).",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:20:44.989Z"
+      }
+    ],
+    "sourceSentence": "Anthropic draws a line; tech reacts: A central flashpoint is Anthropic’s public refusal to enable mass domestic surveillance and fully autonomous weapons (as characterized by posters reacting to Anthropic’s statement), which drew rare cross-competitor praise and heightened attention to “red lines” in frontier deployment (mmitchell_ai, ilyasut).",
+    "translation": "Anthropic 划定了一条界限；科技做出反应：一个核心争议点是 Anthropic 公开拒绝支持大规模国内监控和完全自主武器（正如对 Anthropic 声明反应的海报所描述的），这引来了罕见的跨竞争者赞扬，并加剧了对前沿部署中“红线”的关注（mmitchell_ai，ilyasut）。",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:20:44.989Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "bewildering",
+    "phonetic": "bɪˈwɪldərɪŋ",
+    "meanings": [
+      "令人困惑的",
+      "使迷惑的",
+      "使糊涂的"
+    ],
+    "examples": [
+      {
+        "sentence": "Tackle any big, bold, bewildering challenge with Claude.",
+        "url": "https://claude.com/product/overview",
+        "addedAt": "2026-02-28T15:51:38.351Z"
+      }
+    ],
+    "sourceSentence": "Tackle any big, bold, bewildering challenge with Claude.",
+    "translation": "与克劳德一起应对任何重大、大胆、令人困惑的挑战。",
+    "url": "https://claude.com/product/overview",
+    "createdAt": "2026-02-28T15:51:38.351Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "challenge",
+    "phonetic": "ˈtʃælɪndʒ",
+    "meanings": [
+      "挑战",
+      "质疑",
+      "难题"
+    ],
+    "examples": [
+      {
+        "sentence": "Tackle any big, bold, bewildering challenge with Claude.",
+        "url": "https://claude.com/product/overview",
+        "addedAt": "2026-02-28T15:51:28.025Z"
+      }
+    ],
+    "sourceSentence": "Tackle any big, bold, bewildering challenge with Claude.",
+    "translation": "与克劳德一起应对任何重大、大胆、令人困惑的挑战。",
+    "url": "https://claude.com/product/overview",
+    "createdAt": "2026-02-28T15:51:28.025Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "Claude",
+    "phonetic": "",
+    "meanings": [],
+    "examples": [
+      {
+        "sentence": "Claude reasons through your code like a skilled security researcher. It understands context, traces data flows, and catches vulnerabilities that pattern-matching tools miss. Then it suggests a proposed fix.\n‍",
+        "url": "https://claude.com/solutions/claude-code-security",
+        "addedAt": "2026-02-28T16:05:56.883Z"
+      },
+      {
+        "sentence": "Claude scans your entire codebase for vulnerabilities, validates each finding to minimize false positives, and suggests patches you can review and approve. Available in research preview for Claude Code.",
+        "url": "https://claude.com/solutions/claude-code-security",
+        "addedAt": "2026-02-28T16:04:34.855Z"
+      }
+    ],
+    "sourceSentence": "Claude scans your entire codebase for vulnerabilities, validates each finding to minimize false positives, and suggests patches you can review and approve. Available in research preview for Claude Code.",
+    "translation": "Claude 扫描您整个代码库中的漏洞，验证每个发现以尽量减少误报，并建议您可以审查和批准的补丁。现已在 Claude Code 的研究预览版中提供。",
+    "url": "https://claude.com/solutions/claude-code-security",
+    "createdAt": "2026-02-28T16:04:34.855Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "designation",
+    "phonetic": "ˌdɛzɪɡˈneɪʃən",
+    "meanings": [
+      "指定",
+      "命名",
+      "指派",
+      "称号"
+    ],
+    "examples": [
+      {
+        "sentence": "Economic/strategic fallout framing: The sharpest critiques argue this would damage US credibility as a business partner and potentially force hyperscalers/investors into impossible tradeoffs (deanwball); others note uncertainty until full details are known but still see a supply-chain designation as ill-fitting (jachiam0).",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:28:05.211Z"
+      },
+      {
+        "sentence": "Designation shock + legal scope debate: Posts circulate a claimed DoW move to designate Anthropic a “Supply-Chain Risk to National Security” and to pressure contractors/partners—sparking arguments about legality, precedent, and chilling effects (kimmonismus, deanwball). One legal clarification: DoD can restrict what contractors do on DoD contract work, but likely can’t legally ban contractors from using Anthropic in their private/commercial work (petereharrell)",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:26:16.409Z"
+      }
+    ],
+    "sourceSentence": "Designation shock + legal scope debate: Posts circulate a claimed DoW move to designate Anthropic a “Supply-Chain Risk to National Security” and to pressure contractors/partners—sparking arguments about legality, precedent, and chilling effects (kimmonismus, deanwball). One legal clarification: DoD can restrict what contractors do on DoD contract work, but likely can’t legally ban contractors from using Anthropic in their private/commercial work (petereharrell)",
+    "translation": "指定冲击 + 法律范围辩论：帖子流传一则声称的撤销声明，意图将Anthropic指定为“国家安全的供应链风险”，并施压承包商/合作伙伴——引发关于合法性、先例和寒蝉效应的争论（kimmonismus，deanwball）。一项法律澄清：国防部可以限制承包商在国防部合同工作中的行为，但可能无法合法禁止承包商在其私人/商业工作中使用Anthropic（petereharrell）。",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:26:16.409Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "disclosures",
+    "phonetic": "dɪsˈkləʊʒərz",
+    "meanings": [
+      "披露",
+      "揭露",
+      "公开",
+      "公开信息"
+    ],
+    "examples": [
+      {
+        "sentence": "Against the backdrop of nonstop positioning with the Department of War (Anthropic refusing terms vs OpenAI doing a deal), OpenAI finally closed the much debated Big Round that had been started since December. In the post, they make several interesting new disclosures:",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:12:17.005Z"
+      }
+    ],
+    "sourceSentence": "Against the backdrop of nonstop positioning with the Department of War (Anthropic refusing terms vs OpenAI doing a deal), OpenAI finally closed the much debated Big Round that had been started since December. In the post, they make several interesting new disclosures:",
+    "translation": "在与战争部持续定位的背景下（Anthropic 拒绝条款，而 OpenAI 达成协议），OpenAI 最终完成了自十二月以来备受争议的大轮融资。在帖子中，他们披露了几项有趣的新信息：",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:12:17.005Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "distillation",
+    "phonetic": "ˌdɪstəˈleɪʃən",
+    "meanings": [
+      "蒸馏",
+      "提炼",
+      "精炼"
+    ],
+    "examples": [
+      {
+        "sentence": "Hypernetworks for instant LoRA “compilation”: Doc-to-LoRA + Text-to-LoRA\n\nDoc-to-LoRA / Text-to-LoRA (Sakana AI): Sakana introduces two related methods that amortize customization cost by training a hypernetwork to generate LoRA adapters in a single forward pass, turning what would be fine-tuning / distillation / long-context prompting into “instant weight updates.” The core claim: instead of keeping everything in an expensive active context window, you can compile task descriptions or long documents into adapter weights with sub-second latency, enabling rapid adaptation and “durable memory”-like behavior (SakanaAILabs, hardmaru).\nText-to-LoRA: specializes to unseen tasks from just a natural langu",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:16:24.997Z"
+      }
+    ],
+    "sourceSentence": "Hypernetworks for instant LoRA “compilation”: Doc-to-LoRA + Text-to-LoRA\n\nDoc-to-LoRA / Text-to-LoRA (Sakana AI): Sakana introduces two related methods that amortize customization cost by training a hypernetwork to generate LoRA adapters in a single forward pass, turning what would be fine-tuning / distillation / long-context prompting into “instant weight updates.” The core claim: instead of keeping everything in an expensive active context window, you can compile task descriptions or long documents into adapter weights with sub-second latency, enabling rapid adaptation and “durable memory”-like behavior (SakanaAILabs, hardmaru).\nText-to-LoRA: specializes to unseen tasks from just a natural langu",
+    "translation": "用于即时LoRA“编译”的超网络：Doc-to-LoRA + Text-to-LoRA\n\nDoc-to-LoRA / Text-to-LoRA（Sakana AI）：Sakana引入了两种相关方法，通过训练一个超网络来生成LoRA适配器，从而摊销定制成本，只需一次前向传播，将本应是微调/蒸馏/长上下文提示的过程转变为“即时权重更新”。核心主张：你无需将所有内容保存在昂贵的活动上下文窗口中，而是可以将任务描述或长文档编译成适配器权重，延迟低于一秒，实现快速适应和类似“持久记忆”的行为（SakanaAILabs，hardmaru）。\nText-to-LoRA：专门针对仅凭自然语言的未见任务进行适应。",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:16:24.997Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "fallout",
+    "phonetic": "ˈfɔːl.aʊt",
+    "meanings": [
+      "后果",
+      "余波"
+    ],
+    "examples": [
+      {
+        "sentence": "Economic/strategic fallout framing: The sharpest critiques argue this would damage US credibility as a business partner and potentially force hyperscalers/investors into impossible tradeoffs (deanwball); others note uncertainty until full details are known but still see a supply-chain designation as ill-fitting (jachiam0).",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:28:00.548Z"
+      }
+    ],
+    "sourceSentence": "Economic/strategic fallout framing: The sharpest critiques argue this would damage US credibility as a business partner and potentially force hyperscalers/investors into impossible tradeoffs (deanwball); others note uncertainty until full details are known but still see a supply-chain designation as ill-fitting (jachiam0).",
+    "translation": "经济/战略后果框架：最尖锐的批评认为这将损害美国作为商业伙伴的信誉，并可能迫使超级规模云服务提供商/投资者做出不可能的权衡（deanwball）；其他人指出在全部细节未知之前存在不确定性，但仍认为供应链的指定不合适（jachiam0）。",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:28:00.549Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "flashpoint",
+    "phonetic": "ˈflæʃpɔɪnt",
+    "meanings": [
+      "导火线",
+      "争论的焦点"
+    ],
+    "examples": [
+      {
+        "sentence": "Anthropic draws a line; tech reacts: A central flashpoint is Anthropic’s public refusal to enable mass domestic surveillance and fully autonomous weapons (as characterized by posters reacting to Anthropic’s statement), which drew rare cross-competitor praise and heightened attention to “red lines” in frontier deployment (mmitchell_ai, ilyasut).",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:20:42.710Z"
+      }
+    ],
+    "sourceSentence": "Anthropic draws a line; tech reacts: A central flashpoint is Anthropic’s public refusal to enable mass domestic surveillance and fully autonomous weapons (as characterized by posters reacting to Anthropic’s statement), which drew rare cross-competitor praise and heightened attention to “red lines” in frontier deployment (mmitchell_ai, ilyasut).",
+    "translation": "Anthropic 划定了一条界限；科技做出反应：一个核心争议点是 Anthropic 公开拒绝支持大规模国内监控和完全自主武器（正如对 Anthropic 声明反应的海报所描述的），这引来了罕见的跨竞争者赞扬，并加剧了对前沿部署中“红线”的关注（mmitchell_ai，ilyasut）。",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:20:42.710Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "Hypernetworks for instant LoRA “compilation”: Doc-to-LoRA + Text-to-LoRA\n\nDoc-to-LoRA / Text-to-LoRA (Sakana AI): Sakana introduces two related methods that amortize customization cost by training a hypernetwork to generate LoRA adapters in a single forward pass, turning what would be fine-tuning / distillation / long-context prompting into “instant weight updates.” The core claim: instead of keeping everything in an expensive active context window, you can compile task descriptions or long documents into adapter weights with sub-second latency, enabling rapid adaptation and “durable memory”-like behavior (SakanaAILabs, hardmaru).\nText-to-LoRA: specializes to unseen tasks from just a natural langu",
+    "phonetic": "",
+    "meanings": [],
+    "examples": [
+      {
+        "sentence": "Hypernetworks for instant LoRA “compilation”: Doc-to-LoRA + Text-to-LoRA\n\nDoc-to-LoRA / Text-to-LoRA (Sakana AI): Sakana introduces two related methods that amortize customization cost by training a hypernetwork to generate LoRA adapters in a single forward pass, turning what would be fine-tuning / distillation / long-context prompting into “instant weight updates.” The core claim: instead of keeping everything in an expensive active context window, you can compile task descriptions or long documents into adapter weights with sub-second latency, enabling rapid adaptation and “durable memory”-like behavior (SakanaAILabs, hardmaru).\nText-to-LoRA: specializes to unseen tasks from just a natural langu",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:16:23.005Z"
+      }
+    ],
+    "sourceSentence": "Hypernetworks for instant LoRA “compilation”: Doc-to-LoRA + Text-to-LoRA\n\nDoc-to-LoRA / Text-to-LoRA (Sakana AI): Sakana introduces two related methods that amortize customization cost by training a hypernetwork to generate LoRA adapters in a single forward pass, turning what would be fine-tuning / distillation / long-context prompting into “instant weight updates.” The core claim: instead of keeping everything in an expensive active context window, you can compile task descriptions or long documents into adapter weights with sub-second latency, enabling rapid adaptation and “durable memory”-like behavior (SakanaAILabs, hardmaru).\nText-to-LoRA: specializes to unseen tasks from just a natural langu",
+    "translation": "用于即时LoRA“编译”的超网络：Doc-to-LoRA + Text-to-LoRA\n\nDoc-to-LoRA / Text-to-LoRA（Sakana AI）：Sakana引入了两种相关方法，通过训练一个超网络来生成LoRA适配器，从而摊销定制成本，只需一次前向传播，将本应是微调/蒸馏/长上下文提示的过程转变为“即时权重更新”。核心主张：你无需将所有内容保存在昂贵的活动上下文窗口中，而是可以将任务描述或长文档编译成适配器权重，延迟低于一秒，实现快速适应和类似“持久记忆”的行为（SakanaAILabs，hardmaru）。\nText-to-LoRA：专门针对仅凭自然语言的未见任务进行适应。",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:16:23.005Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "hyperscalers",
+    "phonetic": "ˈhaɪ.pərˌskeɪ.lərz",
+    "meanings": [
+      "超级规模云服务提供商"
+    ],
+    "examples": [
+      {
+        "sentence": "Economic/strategic fallout framing: The sharpest critiques argue this would damage US credibility as a business partner and potentially force hyperscalers/investors into impossible tradeoffs (deanwball); others note uncertainty until full details are known but still see a supply-chain designation as ill-fitting (jachiam0).",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:28:02.186Z"
+      }
+    ],
+    "sourceSentence": "Economic/strategic fallout framing: The sharpest critiques argue this would damage US credibility as a business partner and potentially force hyperscalers/investors into impossible tradeoffs (deanwball); others note uncertainty until full details are known but still see a supply-chain designation as ill-fitting (jachiam0).",
+    "translation": "经济/战略后果框架：最尖锐的批评认为这将损害美国作为商业伙伴的信誉，并可能迫使超级规模云服务提供商/投资者做出不可能的权衡（deanwball）；其他人指出在全部细节未知之前存在不确定性，但仍认为供应链的指定不合适（jachiam0）。",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:28:02.186Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "interesting",
+    "phonetic": "ˈɪntrəstɪŋ",
+    "meanings": [
+      "有趣的",
+      "引人注意的",
+      "令人感兴趣的"
+    ],
+    "examples": [
+      {
+        "sentence": "Against the backdrop of nonstop positioning with the Department of War (Anthropic refusing terms vs OpenAI doing a deal), OpenAI finally closed the much debated Big Round that had been started since December. In the post, they make several interesting new disclosures",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:34:51.589Z"
+      }
+    ],
+    "sourceSentence": "Against the backdrop of nonstop positioning with the Department of War (Anthropic refusing terms vs OpenAI doing a deal), OpenAI finally closed the much debated Big Round that had been started since December. In the post, they make several interesting new disclosures",
+    "translation": "在与战争部持续定位的背景下（Anthropic 拒绝条款，而 OpenAI 达成协议），OpenAI 最终完成了自十二月以来备受争议的大轮融资。在帖子中，他们披露了几项有趣的新信息。",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:34:51.589Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "pattern-matching",
+    "phonetic": "ˈpætərn ˈmætʃɪŋ",
+    "meanings": [
+      "模式匹配",
+      "模式识别"
+    ],
+    "examples": [
+      {
+        "sentence": "Claude reasons through your code like a skilled security researcher. It understands context, traces data flows, and catches vulnerabilities that pattern-matching tools miss. Then it suggests a proposed fix.\n‍",
+        "url": "https://claude.com/solutions/claude-code-security",
+        "addedAt": "2026-02-28T16:05:54.251Z"
+      }
+    ],
+    "sourceSentence": "Claude reasons through your code like a skilled security researcher. It understands context, traces data flows, and catches vulnerabilities that pattern-matching tools miss. Then it suggests a proposed fix.\n‍",
+    "translation": "Claude像一位熟练的安全研究员一样推理你的代码。它理解上下文，追踪数据流，并捕捉模式匹配工具遗漏的漏洞。然后它提出一个建议的修复方案。",
+    "url": "https://claude.com/solutions/claude-code-security",
+    "createdAt": "2026-02-28T16:05:54.251Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "precedent",
+    "phonetic": "ˈprɛsɪdənt",
+    "meanings": [
+      "先例",
+      "前例",
+      "判例"
+    ],
+    "examples": [
+      {
+        "sentence": "Designation shock + legal scope debate: Posts circulate a claimed DoW move to designate Anthropic a “Supply-Chain Risk to National Security” and to pressure contractors/partners—sparking arguments about legality, precedent, and chilling effects (kimmonismus, deanwball). One legal clarification: DoD can restrict what contractors do on DoD contract work, but likely can’t legally ban contractors from using Anthropic in their private/commercial work (petereharrell)",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:26:18.778Z"
+      }
+    ],
+    "sourceSentence": "Designation shock + legal scope debate: Posts circulate a claimed DoW move to designate Anthropic a “Supply-Chain Risk to National Security” and to pressure contractors/partners—sparking arguments about legality, precedent, and chilling effects (kimmonismus, deanwball). One legal clarification: DoD can restrict what contractors do on DoD contract work, but likely can’t legally ban contractors from using Anthropic in their private/commercial work (petereharrell)",
+    "translation": "指定冲击 + 法律范围辩论：帖子流传一则声称的撤销声明，意图将Anthropic指定为“国家安全的供应链风险”，并施压承包商/合作伙伴——引发关于合法性、先例和寒蝉效应的争论（kimmonismus，deanwball）。一项法律澄清：国防部可以限制承包商在国防部合同工作中的行为，但可能无法合法禁止承包商在其私人/商业工作中使用Anthropic（petereharrell）。",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:26:18.778Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "SoftBank",
+    "phonetic": "",
+    "meanings": [
+      "软银"
+    ],
+    "examples": [
+      {
+        "sentence": "All this justifies $110B in new investment at a $730B pre-money valuation:\n\n$30B from SoftBank (“advancing our own ASI strategy”),\n$30B from NVIDIA (including the use of 3 GW of dedicated inference capacity and 2 GW of training on Vera Rubin systems) - down from “up to $100B”, still with circular funding concerns",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:39:55.448Z"
+      }
+    ],
+    "sourceSentence": "All this justifies $110B in new investment at a $730B pre-money valuation:\n\n$30B from SoftBank (“advancing our own ASI strategy”),\n$30B from NVIDIA (including the use of 3 GW of dedicated inference capacity and 2 GW of training on Vera Rubin systems) - down from “up to $100B”, still with circular funding concerns",
+    "translation": "所有这些都证明了以7300亿美元的投前估值进行1100亿美元的新投资的合理性：\n\n300亿美元来自软银（“推进我们自己的ASI战略”），\n300亿美元来自英伟达（包括使用3GW的专用推理能力和2GW的Vera Rubin系统训练）——低于“高达1000亿美元”的预期，仍存在循环融资的担忧。",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:39:55.448Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "Tackle",
+    "phonetic": "ˈtækəl",
+    "meanings": [
+      "处理",
+      "应对",
+      "抓住"
+    ],
+    "examples": [
+      {
+        "sentence": "Tackle any big, bold, bewildering challenge with Claude.",
+        "url": "https://claude.com/product/overview",
+        "addedAt": "2026-02-28T15:51:39.828Z"
+      }
+    ],
+    "sourceSentence": "Tackle any big, bold, bewildering challenge with Claude.",
+    "translation": "与克劳德一起应对任何重大、大胆、令人困惑的挑战。",
+    "url": "https://claude.com/product/overview",
+    "createdAt": "2026-02-28T15:51:39.828Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "tradeoffs",
+    "phonetic": "ˈtreɪdˌɔːfs",
+    "meanings": [
+      "权衡",
+      "折衷"
+    ],
+    "examples": [
+      {
+        "sentence": "Economic/strategic fallout framing: The sharpest critiques argue this would damage US credibility as a business partner and potentially force hyperscalers/investors into impossible tradeoffs (deanwball); others note uncertainty until full details are known but still see a supply-chain designation as ill-fitting (jachiam0).",
+        "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "addedAt": "2026-02-28T16:28:03.600Z"
+      }
+    ],
+    "sourceSentence": "Economic/strategic fallout framing: The sharpest critiques argue this would damage US credibility as a business partner and potentially force hyperscalers/investors into impossible tradeoffs (deanwball); others note uncertainty until full details are known but still see a supply-chain designation as ill-fitting (jachiam0).",
+    "translation": "经济/战略后果框架：最尖锐的批评认为这将损害美国作为商业伙伴的信誉，并可能迫使超级规模云服务提供商/投资者做出不可能的权衡（deanwball）；其他人指出在全部细节未知之前存在不确定性，但仍认为供应链的指定不合适（jachiam0）。",
+    "url": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+    "createdAt": "2026-02-28T16:28:03.600Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  },
+  {
+    "word": "vulnerabilities",
+    "phonetic": "ˌvʌlnərəˈbɪlɪtiz",
+    "meanings": [
+      "漏洞",
+      "弱点",
+      "易受攻击的地方"
+    ],
+    "examples": [
+      {
+        "sentence": "Claude scans your entire codebase for vulnerabilities, validates each finding to minimize false positives, and suggests patches you can review and approve. Available in research preview for Claude Code.",
+        "url": "https://claude.com/solutions/claude-code-security",
+        "addedAt": "2026-02-28T16:04:25.404Z"
+      }
+    ],
+    "sourceSentence": "Claude scans your entire codebase for vulnerabilities, validates each finding to minimize false positives, and suggests patches you can review and approve. Available in research preview for Claude Code.",
+    "translation": "Claude 扫描您整个代码库中的漏洞，验证每个发现以尽量减少误报，并建议您可以审查和批准的补丁。现已在 Claude Code 的研究预览版中提供。",
+    "url": "https://claude.com/solutions/claude-code-security",
+    "createdAt": "2026-02-28T16:04:25.405Z",
+    "updatedAt": "2026-03-01T09:01:59.330Z",
+    "reviewStatus": "new"
+  }
+]

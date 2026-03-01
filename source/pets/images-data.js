@@ -1,5 +1,6 @@
 const petImagesData = {
   "dates": [
+    "2026-03-02",
     "2026-03-01",
     "2026-02-28",
     "2026-02-27",
@@ -22,6 +23,15 @@ const petImagesData = {
     "2026-02-02"
   ],
   "images": {
+    "2026-03-02": [
+      {
+        "date": "2026-03-02",
+        "time": "00:00",
+        "img": "/images/pets/archive/20260302-000000-BD0673744.jpg",
+        "type": "pet",
+        "found": false
+      }
+    ],
     "2026-02-25": [
       {
         "date": "2026-02-25",
@@ -23710,239 +23720,239 @@ const petImagesData = {
         "date": "2026-03-01",
         "time": "22:30",
         "img": "/images/pets/20260301-223000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "22:00",
         "img": "/images/pets/20260301-220000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "21:04",
         "img": "/images/pets/20260301-210458-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "20:30",
         "img": "/images/pets/20260301-203000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "20:00",
         "img": "/images/pets/20260301-200000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "19:30",
         "img": "/images/pets/20260301-193000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "19:00",
         "img": "/images/pets/20260301-190000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "18:30",
         "img": "/images/pets/20260301-183000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "18:00",
         "img": "/images/pets/20260301-180000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "17:30",
         "img": "/images/pets/20260301-173000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "17:00",
         "img": "/images/pets/20260301-170000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "16:30",
         "img": "/images/pets/20260301-163016-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "16:30",
         "img": "/images/pets/20260301-163056-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "16:30",
         "img": "/images/pets/20260301-163000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "15:00",
         "img": "/images/pets/20260301-150000-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
         "date": "2026-03-01",
         "time": "14:30",
         "img": "/images/pets/20260301-143000-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
         "date": "2026-03-01",
         "time": "14:00",
         "img": "/images/pets/20260301-140000-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
         "date": "2026-03-01",
         "time": "13:30",
         "img": "/images/pets/20260301-133000-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
         "date": "2026-03-01",
         "time": "12:00",
         "img": "/images/pets/20260301-120000-BD0673744.jpg",
-        "type": "pet",
+        "type": "person",
         "found": true
       },
       {
         "date": "2026-03-01",
         "time": "11:00",
         "img": "/images/pets/20260301-110000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "10:00",
         "img": "/images/pets/20260301-100000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "09:30",
         "img": "/images/pets/20260301-093000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "08:30",
         "img": "/images/pets/20260301-083000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "07:30",
         "img": "/images/pets/20260301-073016-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "07:00",
         "img": "/images/pets/20260301-070013-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "06:30",
         "img": "/images/pets/20260301-063000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "05:30",
         "img": "/images/pets/20260301-053000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "04:30",
         "img": "/images/pets/20260301-043000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "04:00",
         "img": "/images/pets/20260301-040000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "03:31",
         "img": "/images/pets/20260301-033100-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "03:30",
         "img": "/images/pets/20260301-033000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "03:30",
         "img": "/images/pets/20260301-033050-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "03:00",
         "img": "/images/pets/20260301-030000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
         "time": "02:00",
         "img": "/images/pets/20260301-020000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-03-01",
@@ -23955,8 +23965,8 @@ const petImagesData = {
         "date": "2026-03-01",
         "time": "00:00",
         "img": "/images/pets/20260301-000000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       }
     ],
     "2026-02-27": [
@@ -23992,8 +24002,8 @@ const petImagesData = {
         "date": "2026-02-27",
         "time": "20:00",
         "img": "/images/pets/20260227-200000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-27",
@@ -24027,22 +24037,22 @@ const petImagesData = {
         "date": "2026-02-27",
         "time": "16:30",
         "img": "/images/pets/20260227-163000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-27",
         "time": "16:00",
         "img": "/images/pets/20260227-160000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-27",
         "time": "15:30",
         "img": "/images/pets/20260227-153010-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-27",
@@ -24062,7 +24072,7 @@ const petImagesData = {
         "date": "2026-02-27",
         "time": "14:00",
         "img": "/images/pets/20260227-140000-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
@@ -24090,14 +24100,14 @@ const petImagesData = {
         "date": "2026-02-27",
         "time": "11:00",
         "img": "/images/pets/20260227-110019-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
         "date": "2026-02-27",
         "time": "09:30",
         "img": "/images/pets/20260227-093000-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
@@ -24125,8 +24135,8 @@ const petImagesData = {
         "date": "2026-02-27",
         "time": "07:30",
         "img": "/images/pets/20260227-073000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-27",
@@ -24146,22 +24156,22 @@ const petImagesData = {
         "date": "2026-02-27",
         "time": "05:30",
         "img": "/images/pets/20260227-053000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-27",
         "time": "04:30",
         "img": "/images/pets/20260227-043018-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-27",
         "time": "04:00",
         "img": "/images/pets/20260227-040000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-27",
@@ -24181,8 +24191,8 @@ const petImagesData = {
         "date": "2026-02-27",
         "time": "02:30",
         "img": "/images/pets/20260227-023000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-27",
@@ -24225,43 +24235,43 @@ const petImagesData = {
         "date": "2026-02-26",
         "time": "19:00",
         "img": "/images/pets/20260226-190030-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-26",
         "time": "19:00",
         "img": "/images/pets/20260226-190017-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-26",
         "time": "17:00",
         "img": "/images/pets/20260226-170000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-26",
         "time": "16:30",
         "img": "/images/pets/20260226-163000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-26",
         "time": "15:00",
         "img": "/images/pets/20260226-150019-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-26",
         "time": "14:01",
         "img": "/images/pets/20260226-140129-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-26",
@@ -24274,8 +24284,8 @@ const petImagesData = {
         "date": "2026-02-26",
         "time": "13:00",
         "img": "/images/pets/20260226-130000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-26",
@@ -24288,7 +24298,7 @@ const petImagesData = {
         "date": "2026-02-26",
         "time": "12:00",
         "img": "/images/pets/20260226-120000-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
@@ -24302,78 +24312,78 @@ const petImagesData = {
         "date": "2026-02-26",
         "time": "11:00",
         "img": "/images/pets/20260226-110000-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
         "date": "2026-02-26",
         "time": "10:30",
         "img": "/images/pets/20260226-103000-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
         "date": "2026-02-26",
         "time": "09:30",
         "img": "/images/pets/20260226-093000-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
         "date": "2026-02-26",
         "time": "09:00",
         "img": "/images/pets/20260226-090016-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
         "date": "2026-02-26",
         "time": "08:33",
         "img": "/images/pets/20260226-083300-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
         "date": "2026-02-26",
         "time": "07:30",
         "img": "/images/pets/20260226-073000-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
         "date": "2026-02-26",
         "time": "05:30",
         "img": "/images/pets/20260226-053000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-26",
         "time": "05:00",
         "img": "/images/pets/20260226-050000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-26",
         "time": "04:30",
         "img": "/images/pets/20260226-043000-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
         "date": "2026-02-26",
         "time": "04:00",
         "img": "/images/pets/20260226-040015-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-26",
         "time": "02:30",
         "img": "/images/pets/20260226-023000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-26",
@@ -24386,8 +24396,8 @@ const petImagesData = {
         "date": "2026-02-26",
         "time": "00:30",
         "img": "/images/pets/20260226-003000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       }
     ],
     "2026-02-28": [
@@ -24395,22 +24405,22 @@ const petImagesData = {
         "date": "2026-02-28",
         "time": "23:30",
         "img": "/images/pets/20260228-233000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
         "time": "22:30",
         "img": "/images/pets/20260228-223000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
         "time": "21:00",
         "img": "/images/pets/20260228-210000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
@@ -24430,7 +24440,7 @@ const petImagesData = {
         "date": "2026-02-28",
         "time": "19:00",
         "img": "/images/pets/20260228-190000-BD0673744.jpg",
-        "type": "pet",
+        "type": "cat",
         "found": true
       },
       {
@@ -24444,8 +24454,8 @@ const petImagesData = {
         "date": "2026-02-28",
         "time": "17:30",
         "img": "/images/pets/20260228-173030-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
@@ -24465,29 +24475,29 @@ const petImagesData = {
         "date": "2026-02-28",
         "time": "16:00",
         "img": "/images/pets/20260228-160000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
         "time": "15:00",
         "img": "/images/pets/20260228-150000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
         "time": "14:00",
         "img": "/images/pets/20260228-140000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
         "time": "13:30",
         "img": "/images/pets/20260228-133046-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
@@ -24500,8 +24510,8 @@ const petImagesData = {
         "date": "2026-02-28",
         "time": "12:00",
         "img": "/images/pets/20260228-120000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
@@ -24521,15 +24531,15 @@ const petImagesData = {
         "date": "2026-02-28",
         "time": "09:00",
         "img": "/images/pets/20260228-090000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
         "time": "08:30",
         "img": "/images/pets/20260228-083000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
@@ -24542,50 +24552,50 @@ const petImagesData = {
         "date": "2026-02-28",
         "time": "07:30",
         "img": "/images/pets/20260228-073000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
         "time": "07:00",
         "img": "/images/pets/20260228-070000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
         "time": "06:30",
         "img": "/images/pets/20260228-063000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
         "time": "06:00",
         "img": "/images/pets/20260228-060000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
         "time": "05:30",
         "img": "/images/pets/20260228-053000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
         "time": "05:00",
         "img": "/images/pets/20260228-050000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
         "time": "04:30",
         "img": "/images/pets/20260228-043000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
@@ -24598,8 +24608,8 @@ const petImagesData = {
         "date": "2026-02-28",
         "time": "03:30",
         "img": "/images/pets/20260228-033018-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
@@ -24612,15 +24622,15 @@ const petImagesData = {
         "date": "2026-02-28",
         "time": "02:00",
         "img": "/images/pets/20260228-020023-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
         "time": "02:00",
         "img": "/images/pets/20260228-020000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-28",
@@ -24671,18 +24681,14 @@ const petImagesData = {
     }
   ],
   "stats": {
-    "totalImages": 3514,
-    "totalDays": 20,
+    "totalImages": 3515,
+    "totalDays": 21,
     "foundCount": 342,
-    "notFoundCount": 3172,
+    "notFoundCount": 3173,
     "personCount": 54,
     "dogCount": 86,
     "catCount": 65,
-    "movedToArchiveCount": 3172
+    "movedToArchiveCount": 3173
   },
   "generatedAt": "2026-03-01T15:03:47.748Z"
 };
-
-if (typeof module !== 'undefined') {
-  module.exports = petImagesData;
-}

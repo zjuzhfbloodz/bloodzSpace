@@ -1,3 +1,11 @@
+:root
+  --brand-ink: #14213d
+  --brand-sky: #3a86ff
+  --brand-sun: #ffb703
+  --brand-surface: #f8fbff
+  --brand-line: #dbe8ff
+  --brand-shadow: 0 14px 32px rgba(20, 33, 61, 0.08)
+
 .post-body img
   max-width: 420px
   width: 100%
@@ -9,9 +17,20 @@
   align-items: flex-start
   margin: 1.2em 0
 
+.post-body .idea-media-images
+  flex: 0 0 auto
+  width: min(32%, 260px)
+  display: flex
+  flex-direction: column
+  gap: 10px
+
 .post-body .idea-media-image
   flex: 0 0 auto
-  width: min(42%, 360px)
+  width: min(32%, 260px)
+  display: block
+
+.post-body .idea-media-images .idea-media-image
+  width: 100%
 
 .post-body .idea-media-image img
   max-width: 100%
@@ -28,6 +47,144 @@
 @media (max-width: 767px)
   .post-body .idea-media
     display: block
+  .post-body .idea-media-images
+    width: 100%
+    margin-bottom: 8px
   .post-body .idea-media-image
     width: 100%
     margin-bottom: 8px
+
+.home-directory
+  display: grid
+  gap: 20px
+
+.home-card
+  border: 1px solid var(--brand-line)
+  border-radius: 16px
+  background: #fff
+  padding: 22px
+  box-shadow: var(--brand-shadow)
+
+.home-card h2
+  margin: 0 0 8px
+  color: var(--brand-ink)
+  font-size: 20px
+
+.home-card p
+  margin: 0 0 8px
+  color: #31415f
+
+.home-card p:last-child
+  margin-bottom: 0
+
+.home-card a
+  color: var(--brand-sky)
+  text-decoration: none
+  border-bottom: 1px solid transparent
+  transition: border-color 140ms ease
+
+.home-card a:hover
+  border-bottom-color: #9cc3ff
+
+.photo-card
+  padding: 10px
+  background: linear-gradient(135deg, #f6faff 0%, #ffffff 42%, #eef5ff 100%)
+
+.home-photo
+  width: 100%
+  max-width: none
+  min-height: 520px
+  max-height: 78vh
+  object-fit: cover
+  border-radius: 12px
+  display: block
+
+@media (max-width: 767px)
+  .home-photo
+    min-height: 360px
+    max-height: 60vh
+
+.menu-item-home a
+  font-size: 0
+
+.menu-item-home a i
+  font-size: 14px
+
+.ideas-feed
+  display: grid
+  gap: 18px
+
+.idea-card
+  border: 1px solid var(--brand-line)
+  border-radius: 16px
+  padding: 18px 18px 14px
+  background: linear-gradient(160deg, #ffffff 0%, var(--brand-surface) 100%)
+  box-shadow: var(--brand-shadow)
+  transition: transform 180ms ease, box-shadow 180ms ease
+
+.idea-card:hover
+  transform: translateY(-2px)
+  box-shadow: 0 18px 40px rgba(20, 33, 61, 0.12)
+
+.idea-card-header
+  display: flex
+  align-items: baseline
+  justify-content: space-between
+  gap: 10px
+  margin-bottom: 10px
+
+.idea-card-title
+  margin: 0
+  font-size: 22px
+  line-height: 1.35
+
+.idea-card-title-link
+  color: var(--brand-ink)
+  text-decoration: none
+  border-bottom: 1px solid transparent
+  transition: border-color 140ms ease
+
+.idea-card-title-link:hover
+  border-bottom-color: #9cc3ff
+
+.idea-card-date
+  color: #64748b
+  font-size: 13px
+  white-space: nowrap
+
+.idea-card-body
+  margin: 0
+  color: #1f2937
+
+// NexT 的 use-motion 默认会把 .post-body 设为 opacity:0。
+// ideas 列表是自定义卡片，不走默认动画钩子，需强制可见。
+.use-motion .ideas-feed .idea-card .post-body
+  opacity: 1
+
+.idea-card-body .idea-media
+  margin: 0.4em 0 0.2em
+
+.idea-card-footer
+  margin-top: 10px
+
+.idea-card-read
+  display: inline-block
+  font-size: 13px
+  color: var(--brand-sky)
+  text-decoration: none
+
+.idea-card-read:hover
+  text-decoration: underline
+
+@media (max-width: 767px)
+  .idea-card
+    border-radius: 14px
+    padding: 14px 12px 12px
+  .idea-card-header
+    display: block
+    margin-bottom: 8px
+  .idea-card-title
+    font-size: 18px
+    margin-bottom: 3px
+  .idea-card-date
+    display: inline-block

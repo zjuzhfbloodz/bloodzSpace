@@ -20,7 +20,6 @@
 - `source/pets/`：宠物相册页面与数据脚本
 - `source/stock/`：A 股看盘静态页面
 - `scripts/ideas-generator.js`：自定义生成器，把 `ideas` 分类从首页流中剥离并生成 `/ideas`
-- `scripts/images-data.js`：宠物图片数据（当前是静态数据文件）
 - `tools/review_pets_full.py`：YOLO 全量复核并生成 `source/pets/images-data.js`
 - `public/`：Hexo 生成结果目录（构建产物）
 - `.deploy_git/`：`hexo-deployer-git` 的部署工作目录（目标仓库工作树）
@@ -108,7 +107,7 @@ npm run pets:review
   - 本地构建/部署状态不会自动进入主仓库提交。
 - 部署依赖 SSH：`git@github.com` 方式要求当前机器 SSH key 可推送。
 - `.deploy_git.bak.20260223193704/` 存在历史备份目录，容易引起“哪个是当前部署树”的混淆。
-- `scripts/images-data.js` 是历史数据文件，当前主链路脚本为 `tools/review_pets_full.py`。
+- 已移除历史遗留脚本 `scripts/images-data.js`，当前主链路脚本为 `tools/review_pets_full.py`。
 - `index_generator.path` 是 `blog`，所以站点文章主列表不在根路径 `/`，后续接手时容易误判。
 
 ## 6. 建议下一步（可执行）

@@ -1,6 +1,20 @@
 custom_file_path:
   style: source/_data/styles.styl
-  postBodyEnd: source/_data/post-body-end.swig
+
+comments:
+  style: tabs
+  active: disqus
+  storage: true
+  lazyload: false
+  nav:
+    disqus:
+      text: 匿名评论
+      order: -1
+
+disqus:
+  enable: true
+  shortname: bloodz
+  count: true
 
 menu:
   home: / || fa fa-compass

@@ -231,7 +231,7 @@
   </div>
 
   <script>
-    const state = { type: 'all', includeArchive: true, data: null, startDate: null, endDate: null };
+    const state = { type: 'all', includeArchive: false, data: null, startDate: null, endDate: null };
 
     function formatDate(iso) {
       const d = new Date(iso);
@@ -294,8 +294,7 @@
         ['all', '全部'],
         ['person', '人物'],
         ['cat', '猫咪'],
-        ['dog', '狗狗'],
-        ['pet', '其它']
+        ['dog', '狗狗']
       ];
       opts.forEach(([key, label]) => {
         wrap.appendChild(btn(label, () => {
@@ -321,7 +320,7 @@
       const list = Object.entries(state.data.images)
         .filter(([d]) => d >= start && d <= end)
         .flatMap(([, arr]) => arr)
-        .filter(x => state.includeArchive ? true : x.found)
+        .filter(x => state.includeArchive ? true : (x.found && ['person', 'cat', 'dog'].includes(x.type)))
         .filter(x => state.type === 'all' ? true : x.type === state.type)
         .sort((a,b) => `${b.date} ${b.time}`.localeCompare(`${a.date} ${a.time}`));
 

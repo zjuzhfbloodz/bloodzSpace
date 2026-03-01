@@ -1,4 +1,4 @@
-    const state = { type: 'all', data: null, startDate: null, endDate: null };
+    const state = { type: 'all', showBox: false, data: null, startDate: null, endDate: null };
     const DISPLAY_TYPES = ['person', 'cat', 'dog'];
 
     function normalizedType(item) {
@@ -76,6 +76,12 @@
         }, state.type === key));
       });
 
+      wrap.appendChild(btn(state.showBox ? '显示原图' : '红框标注', () => {
+        state.showBox = !state.showBox;
+        renderTypeButtons();
+        renderDay();
+      }, state.showBox));
+
     }
 
     function renderDay() {
@@ -105,8 +111,8 @@
         <h2>${start} ~ ${end} · ${typeLabel} · 共 ${list.length} 张</h2>
         <div class="gallery">
           ${list.map(x => `
-            <article class="card" onclick="openModal('${x.img}')">
-              <img src="${x.img}" alt="${x.date} ${x.time}" loading="lazy" />
+            <article class="card" onclick="openModal('${state.showBox && x.boxedImg ? x.boxedImg : x.img}')">
+              <img src="${state.showBox && x.boxedImg ? x.boxedImg : x.img}" alt="${x.date} ${x.time}" loading="lazy" />
               <div class="meta">
                 <div class="time">${x.date} ${x.time}</div>
                 <span class="tag ${normalizedType(x)}">${petTypeLabel(normalizedType(x))}</span>

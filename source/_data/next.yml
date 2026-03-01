@@ -10,11 +10,24 @@ comments:
     disqus:
       text: 匿名评论
       order: -1
+    gitalk:
+      text: GitHub评论
+      order: -2
 
 disqus:
   enable: true
   shortname: bloodz
   count: true
+
+gitalk:
+  enable: true
+  github_id: zjuzhfbloodz
+  repo: zjuzhfbloodz.github.io
+  client_id: Ov23liwXa5PmFLHICFm6
+  client_secret: b2abf76f8d432d5b1296e981c836b4ca6d93ccf5
+  admin_user: zjuzhfbloodz
+  distraction_free_mode: false
+  language: zh-CN
 
 menu:
   home: / || fa fa-compass

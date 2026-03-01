@@ -1,368 +1,381 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🐕🐱 家庭宠物监控中心</title>
-    <script src="images-data.js"></script>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px;
-        }
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-        }
-        header {
-            text-align: center;
-            color: white;
-            padding: 30px 0;
-        }
-        header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-        header p {
-            font-size: 1.1em;
-            opacity: 0.9;
-        }
-        .members {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            flex-wrap: wrap;
-            margin-top: 15px;
-        }
-        .member {
-            background: rgba(255,255,255,0.2);
-            padding: 8px 16px;
-            border-radius: 20px;
-            font-size: 0.95em;
-        }
-        .date-selector {
-            background: white;
-            border-radius: 15px;
-            padding: 25px;
-            margin-bottom: 25px;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
-        }
-        .date-selector h3 {
-            margin-bottom: 15px;
-            color: #333;
-        }
-        .date-buttons {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        .date-btn {
-            padding: 12px 24px;
-            border: none;
-            border-radius: 8px;
-            cursor: pointer;
-            font-size: 1em;
-            transition: all 0.3s;
-            background: #f0f0f0;
-            color: #333;
-        }
-        .date-btn:hover {
-            background: #667eea;
-            color: white;
-            transform: translateY(-2px);
-        }
-        .date-btn.active {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
-        }
-        .day-section {
-            display: none;
-            animation: fadeIn 0.5s ease;
-        }
-        .day-section.active {
-            display: block;
-        }
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-        .day-header {
-            background: white;
-            border-radius: 15px;
-            padding: 25px;
-            margin-bottom: 25px;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
-        }
-        .day-header h2 {
-            color: #333;
-            margin-bottom: 15px;
-            font-size: 1.5em;
-        }
-        .day-header .stats {
-            display: flex;
-            gap: 15px;
-            flex-wrap: wrap;
-        }
-        .day-header .stat {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 10px 20px;
-            border-radius: 25px;
-            font-size: 0.95em;
-        }
-        .gallery {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 20px;
-        }
-        .photo-card {
-            background: white;
-            border-radius: 15px;
-            overflow: hidden;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
-            transition: all 0.3s;
-            cursor: pointer;
-        }
-        .photo-card:hover {
-            transform: translateY(-8px);
-            box-shadow: 0 15px 40px rgba(0,0,0,0.25);
-        }
-        .photo-card img {
-            width: 100%;
-            height: 220-fit: cover;
-px;
-            object        }
-        .photo-card .info {
-            padding: 18px;
-        }
-        .photo-card .time {
-            font-size: 1.2em;
-            font-weight: bold;
-            color: #333;
-            margin-bottom: 8px;
-        }
-        .photo-card .status {
-            font-size: 0.95em;
-            color: #666;
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
-        .status.found {
-            color: #27ae60;
-        }
-        .status.not-found {
-            color: #e74c3c;
-        }
-        .pet-type {
-            display: inline-block;
-            padding: 3px 10px;
-            border-radius: 12px;
-            font-size: 0.8em;
-            margin-left: 10px;
-        }
-        .pet-type.dog { background: #ffd93d; color: #333; }
-        .pet-type.cat { background: #6bcb77; color: white; }
-        .pet-type.pet { background: #4d96ff; color: white; }
-        .footer {
-            text-align: center;
-            color: white;
-            padding: 40px 20px;
-            opacity: 0.8;
-        }
-        .modal {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0,0,0,0.95);
-            z-index: 1000;
-            justify-content: center;
-            align-items: center;
-            padding: 20px;
-        }
-        .modal.active {
-            display: flex;
-        }
-        .modal img {
-            max-width: 95%;
-            max-height: 90vh;
-            border-radius: 10px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.5);
-        }
-        .modal-close {
-            position: absolute;
-            top: 25px;
-            right: 35px;
-            color: white;
-            font-size: 45px;
-            cursor: pointer;
-            transition: transform 0.3s;
-        }
-        .modal-close:hover {
-            transform: rotate(90deg);
-        }
-        .loading {
-            text-align: center;
-            color: white;
-            padding: 50px;
-            font-size: 1.2em;
-        }
-        @media (max-width: 768px) {
-            header h1 { font-size: 1.8em; }
-            .gallery { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
-            .date-btn { padding: 10px 16px; font-size: 0.9em; }
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>宠物相册 | Bloodz's Space</title>
+  <script src="images-data.js"></script>
+  <style>
+    :root {
+      --bg: #f7f9fc;
+      --card: #ffffff;
+      --text: #222831;
+      --muted: #6b7280;
+      --line: #e5e7eb;
+      --primary: #2563eb;
+      --ok: #0f766e;
+      --warn: #b45309;
+      --shadow: 0 10px 24px rgba(15, 23, 42, 0.06);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Helvetica Neue", "PingFang SC", "Noto Sans SC", sans-serif;
+      line-height: 1.65;
+    }
+
+    .wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 28px 16px 42px;
+    }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 14px;
+      font-size: 14px;
+    }
+
+    .topbar a {
+      color: #4b5563;
+      text-decoration: none;
+    }
+
+    .hero,
+    .panel,
+    .day,
+    .empty {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      box-shadow: var(--shadow);
+    }
+
+    .hero { padding: 18px; margin-bottom: 14px; }
+    .hero h1 { margin: 0; font-size: 24px; }
+    .hero p { margin: 8px 0 0; color: var(--muted); font-size: 14px; }
+
+    .panel { padding: 14px; margin-bottom: 14px; }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 8px 12px;
+      border-radius: 10px;
+      border: 1px solid var(--line);
+      background: #fff;
+      color: #111827;
+      text-decoration: none;
+      font-size: 13px;
+      cursor: pointer;
+    }
+
+    .btn.active {
+      color: #fff;
+      border-color: var(--primary);
+      background: var(--primary);
+    }
+
+    .btn-link {
+      border-color: #c7d2fe;
+      color: #1d4ed8;
+      font-weight: 600;
+    }
+
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: 10px;
+    }
+
+    .chip {
+      border: 1px solid var(--line);
+      background: #fbfdff;
+      border-radius: 10px;
+      padding: 10px 12px;
+      font-size: 13px;
+    }
+
+    .chip b {
+      display: block;
+      font-size: 18px;
+      margin-top: 2px;
+    }
+
+    .day { padding: 14px; }
+    .day h2 { margin: 0 0 12px; font-size: 18px; }
+
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 12px;
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      overflow: hidden;
+      background: #fff;
+      cursor: pointer;
+    }
+
+    .card img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      display: block;
+    }
+
+    .meta { padding: 10px; display: grid; gap: 4px; }
+    .time { font-size: 14px; font-weight: 600; }
+
+    .tag {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 999px;
+      font-size: 12px;
+      width: fit-content;
+      border: 1px solid var(--line);
+      background: #f8fafc;
+      color: #334155;
+    }
+
+    .tag.person { color: #075985; background: #f0f9ff; border-color: #7dd3fc; }
+    .tag.dog { color: #92400e; background: #fffbeb; border-color: #fcd34d; }
+    .tag.cat { color: #14532d; background: #f0fdf4; border-color: #86efac; }
+
+    .empty {
+      margin-top: 14px;
+      padding: 20px;
+      text-align: center;
+      color: var(--muted);
+    }
+
+    .modal {
+      position: fixed;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.88);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 999;
+      padding: 16px;
+    }
+
+    .modal.active { display: flex; }
+
+    .modal img {
+      max-width: 95vw;
+      max-height: 88vh;
+      border-radius: 10px;
+    }
+
+    .close {
+      position: absolute;
+      right: 20px;
+      top: 14px;
+      color: #fff;
+      font-size: 36px;
+      cursor: pointer;
+      user-select: none;
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>🐕🐱 家庭宠物监控中心</h1>
-            <p>🤖 自动由 OpenClaw 家庭监控生成</p>
-            <div class="members">
-                <span class="member">🐕 Mango - 西高地白梗</span>
-                <span class="member">🐱 Nomi - 三花猫</span>
-                <span class="member">🐱 小义乌 - 英短乳白</span>
-            </div>
-        </header>
-        
-        <div class="date-selector">
-            <h3>📅 选择日期查看</h3>
-            <div class="date-buttons" id="dateButtons"></div>
-        </div>
-        
-        <div id="galleryContainer">
-            <div class="loading">加载中...</div>
-        </div>
-        
-        <div class="footer">
-            <p>💡 每 30 分钟自动更新 | 数据自动同步</p>
-        </div>
-    </div>
-    
-    <div class="modal" id="modal" onclick="closeModal()">
-        <span class="modal-close" onclick="event.stopPropagation(); closeModal()">&times;</span>
-        <img id="modalImg" src="" alt="图片" onclick="event.stopPropagation()">
+  <main class="wrap">
+    <div class="topbar">
+      <a href="/">← 返回首页</a>
+      <a href="/pets/panorama/">全景视角</a>
     </div>
 
-    <script>
-        let currentDate = null;
-        
-        function initPage() {
-            if (typeof petImagesData === 'undefined') {
-                document.getElementById('galleryContainer').innerHTML = '<div class="loading">⚠️ 数据加载失败，请刷新页面</div>';
-                return;
-            }
-            
-            const dates = petImagesData.dates;
-            if (dates.length === 0) {
-                document.getElementById('galleryContainer').innerHTML = '<div class="loading">暂无监控数据</div>';
-                return;
-            }
-            
-            currentDate = dates[0];
-            const dateButtons = document.getElementById('dateButtons');
-            
-            dates.forEach((date, index) => {
-                const btn = document.createElement('button');
-                btn.className = 'date-btn' + (index === 0 ? ' active' : '');
-                btn.textContent = formatDate(date);
-                btn.onclick = () => selectDate(date, btn);
-                dateButtons.appendChild(btn);
-            });
-            
-            renderGallery(currentDate);
-        }
-        
-        function formatDate(dateStr) {
-            const date = new Date(dateStr);
-            const weekDays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
-            return `${date.getMonth() + 1}月${date.getDate()}日 ${weekDays[date.getDay()]}`;
-        }
-        
-        function selectDate(date, btn) {
-            currentDate = date;
-            document.querySelectorAll('.date-btn').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            renderGallery(date);
-        }
-        
-        function renderGallery(date) {
-            const container = document.getElementById('galleryContainer');
-            const images = petImagesData.images[date] || [];
-            
-            const foundCount = images.filter(i => i.found).length;
-            const notFoundCount = images.filter(i => !i.found).length;
-            const dogCount = images.filter(i => i.type === 'dog').length;
-            const catCount = images.filter(i => i.type === 'cat').length;
-            
-            container.innerHTML = `
-                <div class="day-section active">
-                    <div class="day-header">
-                        <h2>📅 ${formatDate(date)} 的监控记录</h2>
-                        <div class="stats">
-                            <span class="stat">✅ 找到: ${foundCount} 次</span>
-                            <span class="stat">❌ 未找到: ${notFoundCount} 次</span>
-                            <span class="stat">🐕 ${dogCount} 次</span>
-                            <span class="stat">🐱 ${catCount} 次</span>
-                            <span class="stat">📸 共 ${images.length} 张</span>
-                        </div>
-                    </div>
-                    <div class="gallery">
-                        ${images.map(img => `
-                            <div class="photo-card" onclick="openModal('${img.img}')">
-                                <img src="${img.img}" alt="${img.time}" loading="lazy">
-                                <div class="info">
-                                    <div class="time">🕐 ${img.time}</div>
-                                    <div class="status ${img.found ? 'found' : 'not-found'}">
-                                        ${img.found ? '✅ ' : '❌ '}
-                                        ${img.found ? getPetName(img.type) : '未找到宠物'}
-                                        ${img.found ? `<span class="pet-type ${img.type}">${getPetTypeName(img.type)}</span>` : ''}
-                                    </div>
-                                </div>
-                            </div>
-                        `).join('')}
-                    </div>
-                </div>
-            `;
-        }
-        
-        function getPetName(type) {
-            const names = { dog: '🐕', cat: '🐱', pet: '🐾' };
-            return names[type] || '🐾';
-        }
-        
-        function getPetTypeName(type) {
-            const names = { dog: '小狗', cat: '猫咪', pet: '宠物' };
-            return names[type] || '宠物';
-        }
-        
-        function openModal(src) {
-            document.getElementById('modalImg').src = src;
-            document.getElementById('modal').classList.add('active');
-        }
-        
-        function closeModal() {
-            document.getElementById('modal').classList.remove('active');
-        }
-        
-        document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape') closeModal();
-        });
-        
-        // 页面加载完成后初始化
-        document.addEventListener('DOMContentLoaded', initPage);
-    </script>
+    <section class="hero">
+      <h1>Pets 相册</h1>
+      <p>自动识别并仅展示含人 / 猫 / 狗的图片，其余图片会自动进入 Archive。</p>
+    </section>
+
+    <section class="panel">
+      <div class="actions" id="rangeFilters">
+        <label>开始：<input type="date" id="startDate" /></label>
+        <label>结束：<input type="date" id="endDate" /></label>
+        <button class="btn" id="applyRangeBtn">应用范围</button>
+      </div>
+      <div class="actions" id="typeButtons" style="margin-top:4px;"></div>
+      <div class="summary" id="summary"></div>
+      <div style="margin-top:10px;">
+        <a class="btn btn-link" href="/pets/archive/">查看 Archive（未识别到人/猫/狗）</a>
+      </div>
+    </section>
+
+    <section class="day" id="day"></section>
+    <section class="empty" id="empty" style="display:none;"></section>
+  </main>
+
+  <div class="modal" id="modal" onclick="closeModal()">
+    <span class="close" onclick="event.stopPropagation();closeModal()">&times;</span>
+    <img id="modalImg" alt="preview" onclick="event.stopPropagation()" />
+  </div>
+
+  <script>
+    const state = { type: 'all', includeArchive: true, data: null, startDate: null, endDate: null };
+
+    function formatDate(iso) {
+      const d = new Date(iso);
+      const w = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+      return `${d.getMonth() + 1}月${d.getDate()}日 ${w[d.getDay()]}`;
+    }
+
+    function btn(text, onClick, active) {
+      const b = document.createElement('button');
+      b.className = `btn ${active ? 'active' : ''}`;
+      b.textContent = text;
+      b.onclick = onClick;
+      return b;
+    }
+
+    function renderSummary() {
+      const all = Object.values(state.data.images).flat();
+      const found = all.filter(x => x.found);
+      const archived = all.length - found.length;
+      const persons = found.filter(x => x.type === 'person').length;
+      const dogs = found.filter(x => x.type === 'dog').length;
+      const cats = found.filter(x => x.type === 'cat').length;
+
+      document.getElementById('summary').innerHTML = `
+        <div class="chip">识别总图<b>${all.length}</b></div>
+        <div class="chip" style="color:var(--ok);">展示中（人/猫/狗）<b>${found.length}</b></div>
+        <div class="chip" style="color:var(--warn);">Archive（其它）<b>${archived}</b></div>
+        <div class="chip">🧍 人物<b>${persons}</b></div>
+        <div class="chip">🐕 狗狗<b>${dogs}</b></div>
+        <div class="chip">🐱 猫咪<b>${cats}</b></div>
+      `;
+    }
+
+    function initRangeFilters() {
+      const dates = [...state.data.dates].sort();
+      state.startDate = dates[0] || null;
+      state.endDate = dates[dates.length - 1] || null;
+      const s = document.getElementById('startDate');
+      const e = document.getElementById('endDate');
+      s.value = state.startDate || '';
+      e.value = state.endDate || '';
+      document.getElementById('applyRangeBtn').onclick = () => {
+        state.startDate = s.value || state.startDate;
+        state.endDate = e.value || state.endDate;
+        renderDay();
+      };
+    }
+
+    function petTypeLabel(type) {
+      if (type === 'person') return '人物';
+      if (type === 'dog') return '狗狗';
+      if (type === 'cat') return '猫咪';
+      return '其它';
+    }
+
+    function renderTypeButtons() {
+      const wrap = document.getElementById('typeButtons');
+      wrap.innerHTML = '';
+      const opts = [
+        ['all', '全部'],
+        ['person', '人物'],
+        ['cat', '猫咪'],
+        ['dog', '狗狗'],
+        ['pet', '其它']
+      ];
+      opts.forEach(([key, label]) => {
+        wrap.appendChild(btn(label, () => {
+          state.type = key;
+          renderTypeButtons();
+          renderDay();
+        }, state.type === key));
+      });
+
+      wrap.appendChild(btn(state.includeArchive ? '含 Archive' : '仅识别图', () => {
+        state.includeArchive = !state.includeArchive;
+        renderTypeButtons();
+        renderDay();
+      }, state.includeArchive));
+    }
+
+    function renderDay() {
+      const day = document.getElementById('day');
+      const empty = document.getElementById('empty');
+      const start = state.startDate || '0000-01-01';
+      const end = state.endDate || '9999-12-31';
+
+      const list = Object.entries(state.data.images)
+        .filter(([d]) => d >= start && d <= end)
+        .flatMap(([, arr]) => arr)
+        .filter(x => state.includeArchive ? true : x.found)
+        .filter(x => state.type === 'all' ? true : x.type === state.type)
+        .sort((a,b) => `${b.date} ${b.time}`.localeCompare(`${a.date} ${a.time}`));
+
+      if (!list.length) {
+        day.style.display = 'none';
+        empty.style.display = 'block';
+        empty.textContent = '所选筛选条件下没有图片。';
+        return;
+      }
+
+      day.style.display = 'block';
+      empty.style.display = 'none';
+      const typeLabel = state.type === 'all' ? '全部' : petTypeLabel(state.type);
+      day.innerHTML = `
+        <h2>${start} ~ ${end} · ${typeLabel} · 共 ${list.length} 张</h2>
+        <div class="gallery">
+          ${list.map(x => `
+            <article class="card" onclick="openModal('${x.img}')">
+              <img src="${x.img}" alt="${x.date} ${x.time}" loading="lazy" />
+              <div class="meta">
+                <div class="time">${x.date} ${x.time}</div>
+                <span class="tag ${x.type}">${petTypeLabel(x.type)}</span>
+              </div>
+            </article>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    function openModal(src) {
+      document.getElementById('modalImg').src = src;
+      document.getElementById('modal').classList.add('active');
+    }
+
+    function closeModal() {
+      document.getElementById('modal').classList.remove('active');
+    }
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeModal();
+    });
+
+    (function init() {
+      if (typeof petImagesData === 'undefined') {
+        document.getElementById('empty').style.display = 'block';
+        document.getElementById('empty').textContent = '数据加载失败';
+        return;
+      }
+      state.data = petImagesData;
+      renderSummary();
+      initRangeFilters();
+      renderTypeButtons();
+      renderDay();
+    })();
+  </script>
 </body>
 </html>

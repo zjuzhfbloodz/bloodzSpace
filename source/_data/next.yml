@@ -1,8 +1,11 @@
 custom_file_path:
   style: source/_data/styles.styl
+  postBodyEnd: source/_data/post-body-end.swig
 
 menu:
-  home: / || fa fa-home
+  home: / || fa fa-compass
   ideas: /ideas/ || fa fa-lightbulb
   pets: /pets/ || fa fa-paw
+  words: /words/ || fa fa-language
+  blog: /blog/ || fa fa-book-open
   archives: /archives/ || fa fa-archive

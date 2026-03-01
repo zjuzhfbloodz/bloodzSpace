@@ -1,5 +1,9 @@
-    const state = { type: 'all', includeArchive: false, data: null, startDate: null, endDate: null };
-    const DISPLAY_TYPES = ['person', 'cat', 'dog', 'pet'];
+    const state = { type: 'all', data: null, startDate: null, endDate: null };
+    const DISPLAY_TYPES = ['person', 'cat', 'dog'];
+
+    function normalizedType(item) {
+      return DISPLAY_TYPES.includes(item.type) ? item.type : 'other';
+    }
 
     function formatDate(iso) {
       const d = new Date(iso);
@@ -17,21 +21,17 @@
 
     function renderSummary() {
       const all = Object.values(state.data.images).flat();
-      const found = all.filter(x => x.found);
-      const archived = all.length - found.length;
-      const persons = found.filter(x => x.type === 'person').length;
-      const dogs = found.filter(x => x.type === 'dog').length;
-      const cats = found.filter(x => x.type === 'cat').length;
-      const pets = found.filter(x => x.type === 'pet').length;
+      const persons = all.filter(x => normalizedType(x) === 'person').length;
+      const dogs = all.filter(x => normalizedType(x) === 'dog').length;
+      const cats = all.filter(x => normalizedType(x) === 'cat').length;
+      const others = all.filter(x => normalizedType(x) === 'other').length;
 
       document.getElementById('summary').innerHTML = `
-        <div class="chip">识别总图<b>${all.length}</b></div>
-        <div class="chip" style="color:var(--ok);">展示中（人/猫/狗）<b>${found.length}</b></div>
-        <div class="chip" style="color:var(--warn);">Archive（其它）<b>${archived}</b></div>
+        <div class="chip">总图<b>${all.length}</b></div>
         <div class="chip">🧍 人物<b>${persons}</b></div>
         <div class="chip">🐕 狗狗<b>${dogs}</b></div>
         <div class="chip">🐱 猫咪<b>${cats}</b></div>
-        <div class="chip">🐾 宠物<b>${pets}</b></div>
+        <div class="chip">🗂 其他<b>${others}</b></div>
       `;
     }
 
@@ -54,8 +54,8 @@
       if (type === 'person') return '人物';
       if (type === 'dog') return '狗狗';
       if (type === 'cat') return '猫咪';
-      if (type === 'pet') return '宠物';
-      return '其它';
+      if (type === 'other') return '其他';
+      return '其他';
     }
 
     function renderTypeButtons() {
@@ -66,7 +66,7 @@
         ['person', '人物'],
         ['cat', '猫咪'],
         ['dog', '狗狗'],
-        ['pet', '宠物']
+        ['other', '其他']
       ];
       opts.forEach(([key, label]) => {
         wrap.appendChild(btn(label, () => {
@@ -76,11 +76,6 @@
         }, state.type === key));
       });
 
-      wrap.appendChild(btn(state.includeArchive ? '含 Archive' : '仅识别图', () => {
-        state.includeArchive = !state.includeArchive;
-        renderTypeButtons();
-        renderDay();
-      }, state.includeArchive));
     }
 
     function renderDay() {
@@ -93,16 +88,8 @@
         .flatMap(([, arr]) => arr);
 
       const list = inRange
-        .filter(x => state.includeArchive ? true : (x.found && DISPLAY_TYPES.includes(x.type)))
-        .filter(x => state.type === 'all' ? true : x.type === state.type)
+        .filter(x => state.type === 'all' ? true : normalizedType(x) === state.type)
         .sort((a,b) => `${b.date} ${b.time}`.localeCompare(`${a.date} ${a.time}`));
-
-      if (!list.length && !state.includeArchive && inRange.length) {
-        state.includeArchive = true;
-        renderTypeButtons();
-        renderDay();
-        return;
-      }
 
       if (!list.length) {
         day.style.display = 'none';
@@ -122,7 +109,7 @@
               <img src="${x.img}" alt="${x.date} ${x.time}" loading="lazy" />
               <div class="meta">
                 <div class="time">${x.date} ${x.time}</div>
-                <span class="tag ${x.type}">${petTypeLabel(x.type)}</span>
+                <span class="tag ${normalizedType(x)}">${petTypeLabel(normalizedType(x))}</span>
               </div>
             </article>
           `).join('')}

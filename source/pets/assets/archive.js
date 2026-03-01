@@ -1,4 +1,4 @@
-const DISPLAY_TYPES = ['person', 'cat', 'dog', 'pet'];
+const DISPLAY_TYPES = ['person', 'cat', 'dog'];
 
 function formatDate(iso) {
   const d = new Date(iso);
@@ -7,7 +7,7 @@ function formatDate(iso) {
 }
 
 function isArchived(item) {
-  return !item.found || !DISPLAY_TYPES.includes(item.type);
+  return !DISPLAY_TYPES.includes(item.type);
 }
 
 function render() {

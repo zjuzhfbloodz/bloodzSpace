@@ -28,7 +28,7 @@ const petImagesData = {
         "date": "2026-03-02",
         "time": "00:00",
         "img": "/images/pets/archive/20260302-000000-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -37,29 +37,29 @@ const petImagesData = {
         "date": "2026-02-25",
         "time": "23:00",
         "img": "/images/pets/20260225-230000-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-25",
         "time": "23:00",
         "img": "/images/pets/pet_20260225_230000.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-25",
         "time": "22:43",
         "img": "/images/pets/20260225-224311-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-25",
         "time": "09:30",
         "img": "/images/pets/20260225-093014-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       },
       {
         "date": "2026-02-25",
@@ -72,7 +72,7 @@ const petImagesData = {
         "date": "2026-02-25",
         "time": "07:03",
         "img": "/images/pets/archive/20260225-070000-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -93,21 +93,21 @@ const petImagesData = {
         "date": "2026-02-25",
         "time": "05:02",
         "img": "/images/pets/archive/20260225-050000-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-25",
         "time": "02:32",
         "img": "/images/pets/archive/20260225-023000-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-25",
         "time": "00:40",
         "img": "/images/pets/archive/pet_20260225_004000.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -116,77 +116,77 @@ const petImagesData = {
         "date": "2026-02-24",
         "time": "21:30",
         "img": "/images/pets/archive/20260224-213044-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "21:01",
         "img": "/images/pets/archive/20260224-210107-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "20:00",
         "img": "/images/pets/archive/20260224-200041-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "19:32",
         "img": "/images/pets/archive/20260224-193229-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "19:01",
         "img": "/images/pets/archive/20260224-190105-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "18:01",
         "img": "/images/pets/archive/20260224-180103-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "17:30",
         "img": "/images/pets/archive/20260224-173042-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "17:00",
         "img": "/images/pets/archive/20260224-170036-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "16:00",
         "img": "/images/pets/archive/20260224-160040-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "15:00",
         "img": "/images/pets/archive/20260224-150028-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "14:30",
         "img": "/images/pets/archive/20260224-143034-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -200,147 +200,147 @@ const petImagesData = {
         "date": "2026-02-24",
         "time": "12:01",
         "img": "/images/pets/archive/20260224-120107-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "11:30",
         "img": "/images/pets/archive/20260224-113026-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "11:00",
         "img": "/images/pets/archive/20260224-110050-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "10:31",
         "img": "/images/pets/archive/20260224-103104-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "10:01",
         "img": "/images/pets/archive/20260224-100126-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "09:30",
         "img": "/images/pets/archive/20260224-093038-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "09:02",
         "img": "/images/pets/archive/20260224-090208-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "09:00",
         "img": "/images/pets/archive/20260224-090055-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "08:01",
         "img": "/images/pets/archive/20260224-080057-BD0673744-1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "08:01",
         "img": "/images/pets/archive/20260224-080057-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "07:30",
         "img": "/images/pets/archive/20260224-073047-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "07:01",
         "img": "/images/pets/archive/20260224-070117-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "06:30",
         "img": "/images/pets/archive/20260224-063032-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "05:01",
         "img": "/images/pets/archive/20260224-050108-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "04:30",
         "img": "/images/pets/archive/20260224-043033-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "04:00",
         "img": "/images/pets/archive/20260224-040049-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "03:30",
         "img": "/images/pets/archive/20260224-033027-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "03:00",
         "img": "/images/pets/archive/20260224-030047-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "02:30",
         "img": "/images/pets/archive/20260224-023048-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "02:00",
         "img": "/images/pets/archive/20260224-020033-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-24",
         "time": "01:30",
         "img": "/images/pets/archive/20260224-013038-BD0673744.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -349,56 +349,56 @@ const petImagesData = {
         "date": "2026-02-14",
         "time": "01:06",
         "img": "/images/pets/archive/pet_20260214_010604_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-14",
         "time": "01:06",
         "img": "/images/pets/archive/pet_20260214_010604__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-14",
         "time": "00:53",
         "img": "/images/pets/archive/pet_20260214_005336_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-14",
         "time": "00:53",
         "img": "/images/pets/archive/pet_20260214_005336__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-14",
         "time": "00:53",
         "img": "/images/pets/archive/pet_20260214_005336_annotated_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-14",
         "time": "00:53",
         "img": "/images/pets/archive/pet_20260214_005336_annotated__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-14",
         "time": "00:41",
         "img": "/images/pets/archive/pet_20260214_004156_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-14",
         "time": "00:41",
         "img": "/images/pets/archive/pet_20260214_004156__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -449,287 +449,287 @@ const petImagesData = {
         "date": "2026-02-13",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260213_220107_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260213_220107__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260213_213034_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260213_213034__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "21:00",
         "img": "/images/pets/archive/pet_20260213_210056_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "21:00",
         "img": "/images/pets/archive/pet_20260213_210056__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260213_203057_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260213_203057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260213_200047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260213_193040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260213_190041__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "18:31",
         "img": "/images/pets/archive/pet_20260213_183142__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260213_180051_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260213_180051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "17:30",
         "img": "/images/pets/archive/pet_20260213_173055_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "17:30",
         "img": "/images/pets/archive/pet_20260213_173055__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "17:01",
         "img": "/images/pets/archive/pet_20260213_170102_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "17:01",
         "img": "/images/pets/archive/pet_20260213_170102__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "16:30",
         "img": "/images/pets/archive/pet_20260213_163045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "16:30",
         "img": "/images/pets/archive/pet_20260213_163045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "16:01",
         "img": "/images/pets/archive/pet_20260213_160111__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "15:30",
         "img": "/images/pets/archive/pet_20260213_153057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "15:01",
         "img": "/images/pets/archive/pet_20260213_150117_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "15:01",
         "img": "/images/pets/archive/pet_20260213_150117__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "14:31",
         "img": "/images/pets/archive/pet_20260213_143114_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "14:31",
         "img": "/images/pets/archive/pet_20260213_143114__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "14:00",
         "img": "/images/pets/archive/pet_20260213_140040_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "14:00",
         "img": "/images/pets/archive/pet_20260213_140040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260213_133051_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260213_133051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260213_130048_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260213_130048__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "12:31",
         "img": "/images/pets/archive/pet_20260213_123103_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "12:31",
         "img": "/images/pets/archive/pet_20260213_123103__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "12:01",
         "img": "/images/pets/archive/pet_20260213_120107_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "12:01",
         "img": "/images/pets/archive/pet_20260213_120107__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "11:31",
         "img": "/images/pets/archive/pet_20260213_113120__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "11:00",
         "img": "/images/pets/archive/pet_20260213_110050_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "11:00",
         "img": "/images/pets/archive/pet_20260213_110050__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "10:30",
         "img": "/images/pets/archive/pet_20260213_103044_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "10:30",
         "img": "/images/pets/archive/pet_20260213_103044__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -743,245 +743,245 @@ const petImagesData = {
         "date": "2026-02-13",
         "time": "09:30",
         "img": "/images/pets/archive/pet_20260213_093048__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "09:01",
         "img": "/images/pets/archive/pet_20260213_090100__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "08:30",
         "img": "/images/pets/archive/pet_20260213_083042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "08:05",
         "img": "/images/pets/archive/pet_20260213_080528__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260213_073033_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260213_073033__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260213_070122_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260213_070122__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "06:30",
         "img": "/images/pets/archive/pet_20260213_063056_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "06:30",
         "img": "/images/pets/archive/pet_20260213_063056__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "06:01",
         "img": "/images/pets/archive/pet_20260213_060113_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "06:01",
         "img": "/images/pets/archive/pet_20260213_060113__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260213_053041_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260213_053041__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "05:00",
         "img": "/images/pets/archive/pet_20260213_050056_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "05:00",
         "img": "/images/pets/archive/pet_20260213_050056__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260213_043055_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260213_043055__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "04:01",
         "img": "/images/pets/archive/pet_20260213_040103_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "04:01",
         "img": "/images/pets/archive/pet_20260213_040103__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260213_033038_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260213_033038__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260213_030055_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260213_030055__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260213_023047_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260213_023047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260213_020054_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260213_020054__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260213_013043_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260213_013043__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260213_010053_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260213_010053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260213_003045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260213_003045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-13",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260213_000117__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -990,161 +990,161 @@ const petImagesData = {
         "date": "2026-02-12",
         "time": "23:30",
         "img": "/images/pets/archive/pet_20260212_233046_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "23:30",
         "img": "/images/pets/archive/pet_20260212_233046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "23:01",
         "img": "/images/pets/archive/pet_20260212_230101_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "23:01",
         "img": "/images/pets/archive/pet_20260212_230101__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260212_223055_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260212_223055__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260212_220118_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260212_220118__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "21:31",
         "img": "/images/pets/archive/pet_20260212_213100_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "21:31",
         "img": "/images/pets/archive/pet_20260212_213100__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "21:00",
         "img": "/images/pets/archive/pet_20260212_210051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260212_203047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260212_200058__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260212_193041__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260212_190050_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260212_190050__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "18:31",
         "img": "/images/pets/archive/pet_20260212_183106__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260212_180056__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "17:30",
         "img": "/images/pets/archive/pet_20260212_173057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "17:01",
         "img": "/images/pets/archive/pet_20260212_170104__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "16:31",
         "img": "/images/pets/archive/pet_20260212_163114_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "16:31",
         "img": "/images/pets/archive/pet_20260212_163114__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260212_160050__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -1158,182 +1158,182 @@ const petImagesData = {
         "date": "2026-02-12",
         "time": "15:00",
         "img": "/images/pets/archive/pet_20260212_150041_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "15:00",
         "img": "/images/pets/archive/pet_20260212_150041__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "14:31",
         "img": "/images/pets/archive/pet_20260212_143134_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "14:31",
         "img": "/images/pets/archive/pet_20260212_143134__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "14:00",
         "img": "/images/pets/archive/pet_20260212_140048_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "14:00",
         "img": "/images/pets/archive/pet_20260212_140048__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260212_133047_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260212_133047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260212_130034_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260212_130034__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "12:30",
         "img": "/images/pets/archive/pet_20260212_123045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "12:30",
         "img": "/images/pets/archive/pet_20260212_123045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "12:00",
         "img": "/images/pets/archive/pet_20260212_120046_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "12:00",
         "img": "/images/pets/archive/pet_20260212_120046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "11:30",
         "img": "/images/pets/archive/pet_20260212_113030_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "11:30",
         "img": "/images/pets/archive/pet_20260212_113030__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "11:00",
         "img": "/images/pets/archive/pet_20260212_110051_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "11:00",
         "img": "/images/pets/archive/pet_20260212_110051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "10:30",
         "img": "/images/pets/archive/pet_20260212_103053_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "10:30",
         "img": "/images/pets/archive/pet_20260212_103053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "10:01",
         "img": "/images/pets/archive/pet_20260212_100117_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "10:01",
         "img": "/images/pets/archive/pet_20260212_100117__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "09:30",
         "img": "/images/pets/archive/pet_20260212_093037_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "09:30",
         "img": "/images/pets/archive/pet_20260212_093037__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "09:01",
         "img": "/images/pets/archive/pet_20260212_090124_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "09:01",
         "img": "/images/pets/archive/pet_20260212_090124__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -1347,175 +1347,175 @@ const petImagesData = {
         "date": "2026-02-12",
         "time": "08:07",
         "img": "/images/pets/archive/pet_20260212_080752_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "08:07",
         "img": "/images/pets/archive/pet_20260212_080752__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260212_073052_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260212_073052__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "07:02",
         "img": "/images/pets/archive/pet_20260212_070201__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "06:30",
         "img": "/images/pets/archive/pet_20260212_063033__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "06:01",
         "img": "/images/pets/archive/pet_20260212_060110__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260212_053049__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "05:00",
         "img": "/images/pets/archive/pet_20260212_050041__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "04:31",
         "img": "/images/pets/archive/pet_20260212_043111_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "04:31",
         "img": "/images/pets/archive/pet_20260212_043111__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "04:01",
         "img": "/images/pets/archive/pet_20260212_040110__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "03:31",
         "img": "/images/pets/archive/pet_20260212_033104__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "03:01",
         "img": "/images/pets/archive/pet_20260212_030108_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "03:01",
         "img": "/images/pets/archive/pet_20260212_030108__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "02:31",
         "img": "/images/pets/archive/pet_20260212_023101__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260212_020047_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260212_020047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260212_013045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260212_010047_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260212_010047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260212_003038_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260212_003038__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260212_000130_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-12",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260212_000130__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -1524,70 +1524,70 @@ const petImagesData = {
         "date": "2026-02-11",
         "time": "23:30",
         "img": "/images/pets/archive/pet_20260211_233057_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "23:30",
         "img": "/images/pets/archive/pet_20260211_233057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "23:00",
         "img": "/images/pets/archive/pet_20260211_230057_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "23:00",
         "img": "/images/pets/archive/pet_20260211_230057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260211_223052_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260211_223052__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "22:00",
         "img": "/images/pets/archive/pet_20260211_220052_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "22:00",
         "img": "/images/pets/archive/pet_20260211_220052__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260211_213050_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260211_213050__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -1601,140 +1601,140 @@ const petImagesData = {
         "date": "2026-02-11",
         "time": "20:31",
         "img": "/images/pets/archive/pet_20260211_203104_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "20:31",
         "img": "/images/pets/archive/pet_20260211_203104__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260211_200053_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260211_200053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260211_193040_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260211_193040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260211_190056_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260211_190056__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "18:30",
         "img": "/images/pets/archive/pet_20260211_183053_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "18:30",
         "img": "/images/pets/archive/pet_20260211_183053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260211_180028_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260211_180028__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "17:30",
         "img": "/images/pets/archive/pet_20260211_173026_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "17:30",
         "img": "/images/pets/archive/pet_20260211_173026__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "17:01",
         "img": "/images/pets/archive/pet_20260211_170119_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "17:01",
         "img": "/images/pets/archive/pet_20260211_170119__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "16:30",
         "img": "/images/pets/archive/pet_20260211_163040_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "16:30",
         "img": "/images/pets/archive/pet_20260211_163040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260211_160048_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260211_160048__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -1748,119 +1748,119 @@ const petImagesData = {
         "date": "2026-02-11",
         "time": "15:00",
         "img": "/images/pets/archive/pet_20260211_150031_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "15:00",
         "img": "/images/pets/archive/pet_20260211_150031__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "14:30",
         "img": "/images/pets/archive/pet_20260211_143058_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "14:30",
         "img": "/images/pets/archive/pet_20260211_143058__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "14:01",
         "img": "/images/pets/archive/pet_20260211_140100_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "14:01",
         "img": "/images/pets/archive/pet_20260211_140100__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260211_133047_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260211_133047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260211_130050_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260211_130050__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "12:30",
         "img": "/images/pets/archive/pet_20260211_123043_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "12:30",
         "img": "/images/pets/archive/pet_20260211_123043__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "12:00",
         "img": "/images/pets/archive/pet_20260211_120025_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "12:00",
         "img": "/images/pets/archive/pet_20260211_120025__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "11:31",
         "img": "/images/pets/archive/pet_20260211_113112__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "11:00",
         "img": "/images/pets/archive/pet_20260211_110038__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "10:30",
         "img": "/images/pets/archive/pet_20260211_103028__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -1874,294 +1874,294 @@ const petImagesData = {
         "date": "2026-02-11",
         "time": "09:30",
         "img": "/images/pets/archive/pet_20260211_093033_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "09:30",
         "img": "/images/pets/archive/pet_20260211_093033__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "09:00",
         "img": "/images/pets/archive/pet_20260211_090041_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "09:00",
         "img": "/images/pets/archive/pet_20260211_090041__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "08:30",
         "img": "/images/pets/archive/pet_20260211_083038_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "08:30",
         "img": "/images/pets/archive/pet_20260211_083038__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "08:02",
         "img": "/images/pets/archive/pet_20260211_080248_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "08:02",
         "img": "/images/pets/archive/pet_20260211_080248__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260211_073042_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260211_073042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260211_070122_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260211_070122__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "06:31",
         "img": "/images/pets/archive/pet_20260211_063100_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "06:31",
         "img": "/images/pets/archive/pet_20260211_063100__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "06:01",
         "img": "/images/pets/archive/pet_20260211_060105_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "06:01",
         "img": "/images/pets/archive/pet_20260211_060105__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260211_053034_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260211_053034__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "05:01",
         "img": "/images/pets/archive/pet_20260211_050121_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "05:01",
         "img": "/images/pets/archive/pet_20260211_050121__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260211_043035_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260211_043035__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "04:00",
         "img": "/images/pets/archive/pet_20260211_040034_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "04:00",
         "img": "/images/pets/archive/pet_20260211_040034__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260211_033035_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260211_033035__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260211_030034_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260211_030034__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260211_023046_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260211_023046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260211_020029_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260211_020029__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260211_013050_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260211_013050__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "01:01",
         "img": "/images/pets/archive/pet_20260211_010110_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "01:01",
         "img": "/images/pets/archive/pet_20260211_010110__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260211_003027_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260211_003027__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260211_000126_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260211_000126__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260211_000149_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-11",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260211_000149__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -2170,49 +2170,49 @@ const petImagesData = {
         "date": "2026-02-10",
         "time": "23:31",
         "img": "/images/pets/archive/pet_20260210_233102_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "23:31",
         "img": "/images/pets/archive/pet_20260210_233102__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "23:01",
         "img": "/images/pets/archive/pet_20260210_230103__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260210_223057_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260210_223057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "22:00",
         "img": "/images/pets/archive/pet_20260210_220054_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "22:00",
         "img": "/images/pets/archive/pet_20260210_220054__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -2226,168 +2226,168 @@ const petImagesData = {
         "date": "2026-02-10",
         "time": "21:01",
         "img": "/images/pets/archive/pet_20260210_210123_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "21:01",
         "img": "/images/pets/archive/pet_20260210_210123__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260210_203057_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260210_203057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "20:01",
         "img": "/images/pets/archive/pet_20260210_200106_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "20:01",
         "img": "/images/pets/archive/pet_20260210_200106__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260210_193058_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260210_193058__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260210_190053_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260210_190053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "18:30",
         "img": "/images/pets/archive/pet_20260210_183054_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "18:30",
         "img": "/images/pets/archive/pet_20260210_183054__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260210_180040_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260210_180040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260210_180047_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260210_180047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "17:30",
         "img": "/images/pets/archive/pet_20260210_173033_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "17:30",
         "img": "/images/pets/archive/pet_20260210_173033__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "17:00",
         "img": "/images/pets/archive/pet_20260210_170048_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "17:00",
         "img": "/images/pets/archive/pet_20260210_170048__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "16:30",
         "img": "/images/pets/archive/pet_20260210_163042_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "16:30",
         "img": "/images/pets/archive/pet_20260210_163042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260210_160048_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260210_160048__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -2401,154 +2401,154 @@ const petImagesData = {
         "date": "2026-02-10",
         "time": "15:00",
         "img": "/images/pets/archive/pet_20260210_150046_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "15:00",
         "img": "/images/pets/archive/pet_20260210_150046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "14:30",
         "img": "/images/pets/archive/pet_20260210_143052_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "14:30",
         "img": "/images/pets/archive/pet_20260210_143052__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "14:00",
         "img": "/images/pets/archive/pet_20260210_140030_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "14:00",
         "img": "/images/pets/archive/pet_20260210_140030__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260210_133053_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260210_133053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260210_130042_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260210_130042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "12:30",
         "img": "/images/pets/archive/pet_20260210_123030_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "12:30",
         "img": "/images/pets/archive/pet_20260210_123030__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "12:00",
         "img": "/images/pets/archive/pet_20260210_120041_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "12:00",
         "img": "/images/pets/archive/pet_20260210_120041__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "11:31",
         "img": "/images/pets/archive/pet_20260210_113101_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "11:31",
         "img": "/images/pets/archive/pet_20260210_113101__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "11:00",
         "img": "/images/pets/archive/pet_20260210_110035_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "11:00",
         "img": "/images/pets/archive/pet_20260210_110035__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "10:30",
         "img": "/images/pets/archive/pet_20260210_103037_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "10:30",
         "img": "/images/pets/archive/pet_20260210_103037__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "10:00",
         "img": "/images/pets/archive/pet_20260210_100041_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "10:00",
         "img": "/images/pets/archive/pet_20260210_100041__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -2562,238 +2562,238 @@ const petImagesData = {
         "date": "2026-02-10",
         "time": "09:01",
         "img": "/images/pets/archive/pet_20260210_090100_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "09:01",
         "img": "/images/pets/archive/pet_20260210_090100__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "08:30",
         "img": "/images/pets/archive/pet_20260210_083038__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "08:02",
         "img": "/images/pets/archive/pet_20260210_080212_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "08:02",
         "img": "/images/pets/archive/pet_20260210_080212__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260210_073026_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260210_073026__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260210_070129_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260210_070129__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "06:30",
         "img": "/images/pets/archive/pet_20260210_063029_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "06:30",
         "img": "/images/pets/archive/pet_20260210_063029__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "06:00",
         "img": "/images/pets/archive/pet_20260210_060037_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "06:00",
         "img": "/images/pets/archive/pet_20260210_060037__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260210_053031_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260210_053031__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "05:00",
         "img": "/images/pets/archive/pet_20260210_050033_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "05:00",
         "img": "/images/pets/archive/pet_20260210_050033__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260210_043036_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260210_043036__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "04:00",
         "img": "/images/pets/archive/pet_20260210_040057_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "04:00",
         "img": "/images/pets/archive/pet_20260210_040057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260210_033043_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260210_033043__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "03:01",
         "img": "/images/pets/archive/pet_20260210_030109_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "03:01",
         "img": "/images/pets/archive/pet_20260210_030109__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260210_023051_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260210_023051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260210_020055_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260210_020055__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "01:31",
         "img": "/images/pets/archive/pet_20260210_013100_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "01:31",
         "img": "/images/pets/archive/pet_20260210_013100__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "01:02",
         "img": "/images/pets/archive/pet_20260210_010213_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "01:02",
         "img": "/images/pets/archive/pet_20260210_010213__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "01:02",
         "img": "/images/pets/archive/pet_20260210_010231__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -2807,14 +2807,14 @@ const petImagesData = {
         "date": "2026-02-10",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260210_000045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-10",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260210_000045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -2823,413 +2823,413 @@ const petImagesData = {
         "date": "2026-02-09",
         "time": "23:30",
         "img": "/images/pets/archive/pet_20260209_233057_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "23:30",
         "img": "/images/pets/archive/pet_20260209_233057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "23:00",
         "img": "/images/pets/archive/pet_20260209_230044_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "23:00",
         "img": "/images/pets/archive/pet_20260209_230044__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260209_223039_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260209_223039__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "22:00",
         "img": "/images/pets/archive/pet_20260209_220047_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "22:00",
         "img": "/images/pets/archive/pet_20260209_220047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260209_213031_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260209_213031__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "21:00",
         "img": "/images/pets/archive/pet_20260209_210039__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260209_203044_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260209_203044__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260209_200033_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260209_200033__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260209_193032_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260209_193032__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260209_190040_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260209_190040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "18:30",
         "img": "/images/pets/archive/pet_20260209_183024_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "18:30",
         "img": "/images/pets/archive/pet_20260209_183024__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260209_180049_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260209_180049__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "17:30",
         "img": "/images/pets/archive/pet_20260209_173049_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "17:30",
         "img": "/images/pets/archive/pet_20260209_173049__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "17:00",
         "img": "/images/pets/archive/pet_20260209_170036_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "17:00",
         "img": "/images/pets/archive/pet_20260209_170036__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "16:30",
         "img": "/images/pets/archive/pet_20260209_163043_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "16:30",
         "img": "/images/pets/archive/pet_20260209_163043__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260209_160051_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260209_160051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "15:30",
         "img": "/images/pets/archive/pet_20260209_153054_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "15:30",
         "img": "/images/pets/archive/pet_20260209_153054__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "15:00",
         "img": "/images/pets/archive/pet_20260209_150046_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "15:00",
         "img": "/images/pets/archive/pet_20260209_150046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "14:30",
         "img": "/images/pets/archive/pet_20260209_143038_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "14:30",
         "img": "/images/pets/archive/pet_20260209_143038__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "14:01",
         "img": "/images/pets/archive/pet_20260209_140104_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "14:01",
         "img": "/images/pets/archive/pet_20260209_140104__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260209_133050_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260209_133050__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260209_130043_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260209_130043__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "12:30",
         "img": "/images/pets/archive/pet_20260209_123043_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "12:30",
         "img": "/images/pets/archive/pet_20260209_123043__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "12:00",
         "img": "/images/pets/archive/pet_20260209_120022_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "12:00",
         "img": "/images/pets/archive/pet_20260209_120022__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "11:30",
         "img": "/images/pets/archive/pet_20260209_113046_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "11:30",
         "img": "/images/pets/archive/pet_20260209_113046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "11:00",
         "img": "/images/pets/archive/pet_20260209_110054_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "11:00",
         "img": "/images/pets/archive/pet_20260209_110054__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "10:30",
         "img": "/images/pets/archive/pet_20260209_103049_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "10:30",
         "img": "/images/pets/archive/pet_20260209_103049__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "10:00",
         "img": "/images/pets/archive/pet_20260209_100043_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "10:00",
         "img": "/images/pets/archive/pet_20260209_100043__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "09:30",
         "img": "/images/pets/archive/pet_20260209_093055_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "09:30",
         "img": "/images/pets/archive/pet_20260209_093055__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "09:30",
         "img": "/images/pets/archive/pet_20260209_093058_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "09:30",
         "img": "/images/pets/archive/pet_20260209_093058__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -3243,252 +3243,252 @@ const petImagesData = {
         "date": "2026-02-09",
         "time": "08:31",
         "img": "/images/pets/archive/pet_20260209_083103_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "08:31",
         "img": "/images/pets/archive/pet_20260209_083103__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "08:04",
         "img": "/images/pets/archive/pet_20260209_080400_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "08:04",
         "img": "/images/pets/archive/pet_20260209_080400__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260209_073037_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260209_073037__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260209_070122_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260209_070122__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "06:30",
         "img": "/images/pets/archive/pet_20260209_063042_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "06:30",
         "img": "/images/pets/archive/pet_20260209_063042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "06:00",
         "img": "/images/pets/archive/pet_20260209_060042_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "06:00",
         "img": "/images/pets/archive/pet_20260209_060042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260209_053042_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260209_053042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "05:00",
         "img": "/images/pets/archive/pet_20260209_050046_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "05:00",
         "img": "/images/pets/archive/pet_20260209_050046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260209_043042_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260209_043042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "04:01",
         "img": "/images/pets/archive/pet_20260209_040100_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "04:01",
         "img": "/images/pets/archive/pet_20260209_040100__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260209_033045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260209_033045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260209_030050_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260209_030050__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260209_023043_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260209_023043__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260209_020032_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260209_020032__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260209_013034_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260209_013034__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260209_010026_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260209_010026__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260209_003034_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260209_003034__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260209_000055_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-09",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260209_000055__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -3497,665 +3497,665 @@ const petImagesData = {
         "date": "2026-02-08",
         "time": "23:30",
         "img": "/images/pets/archive/pet_20260208_233038_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "23:30",
         "img": "/images/pets/archive/pet_20260208_233038__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "23:00",
         "img": "/images/pets/archive/pet_20260208_230042_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "23:00",
         "img": "/images/pets/archive/pet_20260208_230042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260208_223044_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260208_223044__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260208_220104_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260208_220104__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260208_213042_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260208_213042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "21:00",
         "img": "/images/pets/archive/pet_20260208_210046_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "21:00",
         "img": "/images/pets/archive/pet_20260208_210046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260208_203043_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260208_203043__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260208_200038_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260208_200038__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260208_193038_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260208_193038__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260208_190026_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260208_190026__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "18:30",
         "img": "/images/pets/archive/pet_20260208_183025_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "18:30",
         "img": "/images/pets/archive/pet_20260208_183025__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260208_180046_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260208_180046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "17:30",
         "img": "/images/pets/archive/pet_20260208_173046_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "17:30",
         "img": "/images/pets/archive/pet_20260208_173046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "17:00",
         "img": "/images/pets/archive/pet_20260208_170058_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "17:00",
         "img": "/images/pets/archive/pet_20260208_170058__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "16:31",
         "img": "/images/pets/archive/pet_20260208_163112_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "16:31",
         "img": "/images/pets/archive/pet_20260208_163112__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260208_160042_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260208_160042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "15:31",
         "img": "/images/pets/archive/pet_20260208_153114_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "15:31",
         "img": "/images/pets/archive/pet_20260208_153114__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "15:00",
         "img": "/images/pets/archive/pet_20260208_150051_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "15:00",
         "img": "/images/pets/archive/pet_20260208_150051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "14:30",
         "img": "/images/pets/archive/pet_20260208_143045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "14:30",
         "img": "/images/pets/archive/pet_20260208_143045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "14:01",
         "img": "/images/pets/archive/pet_20260208_140101_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "14:01",
         "img": "/images/pets/archive/pet_20260208_140101__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260208_133035_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260208_133035__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260208_130036_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260208_130036__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "12:30",
         "img": "/images/pets/archive/pet_20260208_123034_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "12:30",
         "img": "/images/pets/archive/pet_20260208_123034__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "12:00",
         "img": "/images/pets/archive/pet_20260208_120050_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "12:00",
         "img": "/images/pets/archive/pet_20260208_120050__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "11:30",
         "img": "/images/pets/archive/pet_20260208_113045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "11:30",
         "img": "/images/pets/archive/pet_20260208_113045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "11:00",
         "img": "/images/pets/archive/pet_20260208_110043_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "11:00",
         "img": "/images/pets/archive/pet_20260208_110043__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "10:30",
         "img": "/images/pets/archive/pet_20260208_103042_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "10:30",
         "img": "/images/pets/archive/pet_20260208_103042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "10:00",
         "img": "/images/pets/archive/pet_20260208_100048_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "10:00",
         "img": "/images/pets/archive/pet_20260208_100048__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "09:31",
         "img": "/images/pets/archive/pet_20260208_093113_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "09:31",
         "img": "/images/pets/archive/pet_20260208_093113__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "09:00",
         "img": "/images/pets/archive/pet_20260208_090054_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "09:00",
         "img": "/images/pets/archive/pet_20260208_090054__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "08:30",
         "img": "/images/pets/archive/pet_20260208_083044_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "08:30",
         "img": "/images/pets/archive/pet_20260208_083044__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "08:07",
         "img": "/images/pets/archive/pet_20260208_080717_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "08:07",
         "img": "/images/pets/archive/pet_20260208_080717__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260208_073046_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260208_073046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260208_070131_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260208_070131__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "06:31",
         "img": "/images/pets/archive/pet_20260208_063103_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "06:31",
         "img": "/images/pets/archive/pet_20260208_063103__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "06:00",
         "img": "/images/pets/archive/pet_20260208_060047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260208_053051_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260208_053051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "05:00",
         "img": "/images/pets/archive/pet_20260208_050051_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "05:00",
         "img": "/images/pets/archive/pet_20260208_050051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260208_043052_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260208_043052__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "04:00",
         "img": "/images/pets/archive/pet_20260208_040039_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "04:00",
         "img": "/images/pets/archive/pet_20260208_040039__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260208_033058_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260208_033058__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260208_030036_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260208_030036__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260208_023030_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260208_023030__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260208_020053_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260208_020053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260208_013033_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260208_013033__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260208_010044_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260208_010044__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260208_003051_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260208_003051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260208_000102_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-08",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260208_000102__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -4164,658 +4164,658 @@ const petImagesData = {
         "date": "2026-02-07",
         "time": "23:30",
         "img": "/images/pets/archive/pet_20260207_233031_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "23:30",
         "img": "/images/pets/archive/pet_20260207_233031__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "23:00",
         "img": "/images/pets/archive/pet_20260207_230052_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "23:00",
         "img": "/images/pets/archive/pet_20260207_230052__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260207_223025_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260207_223025__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "22:00",
         "img": "/images/pets/archive/pet_20260207_220044_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "22:00",
         "img": "/images/pets/archive/pet_20260207_220044__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260207_213053_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260207_213053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "21:00",
         "img": "/images/pets/archive/pet_20260207_210051_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "21:00",
         "img": "/images/pets/archive/pet_20260207_210051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260207_203031_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260207_203031__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260207_200051_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260207_200051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260207_193036_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260207_193036__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260207_190040_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260207_190040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "18:30",
         "img": "/images/pets/archive/pet_20260207_183040_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "18:30",
         "img": "/images/pets/archive/pet_20260207_183040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260207_180041_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "18:00",
         "img": "/images/pets/archive/pet_20260207_180041__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "17:31",
         "img": "/images/pets/archive/pet_20260207_173104_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "17:31",
         "img": "/images/pets/archive/pet_20260207_173104__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "17:01",
         "img": "/images/pets/archive/pet_20260207_170131_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "17:01",
         "img": "/images/pets/archive/pet_20260207_170131__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "16:31",
         "img": "/images/pets/archive/pet_20260207_163120_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "16:31",
         "img": "/images/pets/archive/pet_20260207_163120__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260207_160047_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260207_160047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "15:30",
         "img": "/images/pets/archive/pet_20260207_153035_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "15:30",
         "img": "/images/pets/archive/pet_20260207_153035__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "15:01",
         "img": "/images/pets/archive/pet_20260207_150130_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "15:01",
         "img": "/images/pets/archive/pet_20260207_150130__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "14:30",
         "img": "/images/pets/archive/pet_20260207_143040_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "14:30",
         "img": "/images/pets/archive/pet_20260207_143040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "14:01",
         "img": "/images/pets/archive/pet_20260207_140113_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "14:01",
         "img": "/images/pets/archive/pet_20260207_140113__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260207_133045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260207_133045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260207_130057_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "13:00",
         "img": "/images/pets/archive/pet_20260207_130057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "12:31",
         "img": "/images/pets/archive/pet_20260207_123119_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "12:31",
         "img": "/images/pets/archive/pet_20260207_123119__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "12:02",
         "img": "/images/pets/archive/pet_20260207_120224_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "12:02",
         "img": "/images/pets/archive/pet_20260207_120224__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "11:31",
         "img": "/images/pets/archive/pet_20260207_113114_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "11:31",
         "img": "/images/pets/archive/pet_20260207_113114__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "11:01",
         "img": "/images/pets/archive/pet_20260207_110119_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "11:01",
         "img": "/images/pets/archive/pet_20260207_110119__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "10:01",
         "img": "/images/pets/archive/pet_20260207_100121_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "10:01",
         "img": "/images/pets/archive/pet_20260207_100121__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "09:32",
         "img": "/images/pets/archive/pet_20260207_093204_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "09:32",
         "img": "/images/pets/archive/pet_20260207_093204__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "09:01",
         "img": "/images/pets/archive/pet_20260207_090132_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "09:01",
         "img": "/images/pets/archive/pet_20260207_090132__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "08:31",
         "img": "/images/pets/archive/pet_20260207_083137_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "08:31",
         "img": "/images/pets/archive/pet_20260207_083137__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "08:07",
         "img": "/images/pets/archive/pet_20260207_080726_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "08:07",
         "img": "/images/pets/archive/pet_20260207_080726__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "07:31",
         "img": "/images/pets/archive/pet_20260207_073109_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "07:31",
         "img": "/images/pets/archive/pet_20260207_073109__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "07:03",
         "img": "/images/pets/archive/pet_20260207_070340_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "07:03",
         "img": "/images/pets/archive/pet_20260207_070340__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "06:30",
         "img": "/images/pets/archive/pet_20260207_063044_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "06:30",
         "img": "/images/pets/archive/pet_20260207_063044__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "06:01",
         "img": "/images/pets/archive/pet_20260207_060102_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "06:01",
         "img": "/images/pets/archive/pet_20260207_060102__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260207_053025_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260207_053025__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "05:01",
         "img": "/images/pets/archive/pet_20260207_050156_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "05:01",
         "img": "/images/pets/archive/pet_20260207_050156__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "04:32",
         "img": "/images/pets/archive/pet_20260207_043222_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "04:32",
         "img": "/images/pets/archive/pet_20260207_043222__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "04:01",
         "img": "/images/pets/archive/pet_20260207_040106_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "04:01",
         "img": "/images/pets/archive/pet_20260207_040106__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "03:31",
         "img": "/images/pets/archive/pet_20260207_033122_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "03:31",
         "img": "/images/pets/archive/pet_20260207_033122__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260207_030047_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260207_030047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "02:31",
         "img": "/images/pets/archive/pet_20260207_023140_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "02:31",
         "img": "/images/pets/archive/pet_20260207_023140__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "02:01",
         "img": "/images/pets/archive/pet_20260207_020107_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "02:01",
         "img": "/images/pets/archive/pet_20260207_020107__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "01:31",
         "img": "/images/pets/archive/pet_20260207_013121_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "01:31",
         "img": "/images/pets/archive/pet_20260207_013121__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260207_010037_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260207_010037__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260207_003058_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260207_003058__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260207_000135_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-07",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260207_000135__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -4824,203 +4824,203 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "07:31",
         "img": "/images/pets/archive/pet_20260206_073107_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:31",
         "img": "/images/pets/archive/pet_20260206_073107__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260206_073003_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260206_073003__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260206_073023_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260206_073023__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:28",
         "img": "/images/pets/archive/pet_20260206_072858_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:28",
         "img": "/images/pets/archive/pet_20260206_072858__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:27",
         "img": "/images/pets/archive/pet_20260206_072753_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:27",
         "img": "/images/pets/archive/pet_20260206_072753__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:26",
         "img": "/images/pets/archive/pet_20260206_072648_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:26",
         "img": "/images/pets/archive/pet_20260206_072648__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:25",
         "img": "/images/pets/archive/pet_20260206_072543_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:25",
         "img": "/images/pets/archive/pet_20260206_072543__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:24",
         "img": "/images/pets/archive/pet_20260206_072439_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:24",
         "img": "/images/pets/archive/pet_20260206_072439__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:23",
         "img": "/images/pets/archive/pet_20260206_072334_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:23",
         "img": "/images/pets/archive/pet_20260206_072334__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:22",
         "img": "/images/pets/archive/pet_20260206_072229_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:22",
         "img": "/images/pets/archive/pet_20260206_072229__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:21",
         "img": "/images/pets/archive/pet_20260206_072124_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:21",
         "img": "/images/pets/archive/pet_20260206_072124__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:20",
         "img": "/images/pets/archive/pet_20260206_072019__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:19",
         "img": "/images/pets/archive/pet_20260206_071914_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:19",
         "img": "/images/pets/archive/pet_20260206_071914__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:18",
         "img": "/images/pets/archive/pet_20260206_071810_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:18",
         "img": "/images/pets/archive/pet_20260206_071810__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:17",
         "img": "/images/pets/archive/pet_20260206_071705_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:17",
         "img": "/images/pets/archive/pet_20260206_071705__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -5034,28 +5034,28 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "07:14",
         "img": "/images/pets/archive/pet_20260206_071455_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:14",
         "img": "/images/pets/archive/pet_20260206_071455__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:13",
         "img": "/images/pets/archive/pet_20260206_071351_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:13",
         "img": "/images/pets/archive/pet_20260206_071351__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -5069,56 +5069,56 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "07:11",
         "img": "/images/pets/archive/pet_20260206_071141_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:11",
         "img": "/images/pets/archive/pet_20260206_071141__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:10",
         "img": "/images/pets/archive/pet_20260206_071036_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:10",
         "img": "/images/pets/archive/pet_20260206_071036__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:09",
         "img": "/images/pets/archive/pet_20260206_070931_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:09",
         "img": "/images/pets/archive/pet_20260206_070931__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:08",
         "img": "/images/pets/archive/pet_20260206_070827_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:08",
         "img": "/images/pets/archive/pet_20260206_070827__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -5139,672 +5139,672 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "07:05",
         "img": "/images/pets/archive/pet_20260206_070512_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:05",
         "img": "/images/pets/archive/pet_20260206_070512__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:04",
         "img": "/images/pets/archive/pet_20260206_070407_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:04",
         "img": "/images/pets/archive/pet_20260206_070407__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:03",
         "img": "/images/pets/archive/pet_20260206_070302_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:03",
         "img": "/images/pets/archive/pet_20260206_070302__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:03",
         "img": "/images/pets/archive/pet_20260206_070344_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:03",
         "img": "/images/pets/archive/pet_20260206_070344__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260206_070157_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260206_070157__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:00",
         "img": "/images/pets/archive/pet_20260206_070053_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "07:00",
         "img": "/images/pets/archive/pet_20260206_070053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:59",
         "img": "/images/pets/archive/pet_20260206_065948_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:59",
         "img": "/images/pets/archive/pet_20260206_065948__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:58",
         "img": "/images/pets/archive/pet_20260206_065843_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:58",
         "img": "/images/pets/archive/pet_20260206_065843__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:57",
         "img": "/images/pets/archive/pet_20260206_065738_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:57",
         "img": "/images/pets/archive/pet_20260206_065738__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:56",
         "img": "/images/pets/archive/pet_20260206_065633_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:56",
         "img": "/images/pets/archive/pet_20260206_065633__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:55",
         "img": "/images/pets/archive/pet_20260206_065529_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:55",
         "img": "/images/pets/archive/pet_20260206_065529__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:54",
         "img": "/images/pets/archive/pet_20260206_065424_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:54",
         "img": "/images/pets/archive/pet_20260206_065424__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:53",
         "img": "/images/pets/archive/pet_20260206_065319_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:53",
         "img": "/images/pets/archive/pet_20260206_065319__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:52",
         "img": "/images/pets/archive/pet_20260206_065215_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:52",
         "img": "/images/pets/archive/pet_20260206_065215__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:51",
         "img": "/images/pets/archive/pet_20260206_065110_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:51",
         "img": "/images/pets/archive/pet_20260206_065110__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:50",
         "img": "/images/pets/archive/pet_20260206_065005_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:50",
         "img": "/images/pets/archive/pet_20260206_065005__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:49",
         "img": "/images/pets/archive/pet_20260206_064900_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:49",
         "img": "/images/pets/archive/pet_20260206_064900__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:47",
         "img": "/images/pets/archive/pet_20260206_064756_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:47",
         "img": "/images/pets/archive/pet_20260206_064756__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:46",
         "img": "/images/pets/archive/pet_20260206_064651_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:46",
         "img": "/images/pets/archive/pet_20260206_064651__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:45",
         "img": "/images/pets/archive/pet_20260206_064546_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:45",
         "img": "/images/pets/archive/pet_20260206_064546__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:44",
         "img": "/images/pets/archive/pet_20260206_064442_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:44",
         "img": "/images/pets/archive/pet_20260206_064442__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:43",
         "img": "/images/pets/archive/pet_20260206_064337_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:43",
         "img": "/images/pets/archive/pet_20260206_064337__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:42",
         "img": "/images/pets/archive/pet_20260206_064232_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:42",
         "img": "/images/pets/archive/pet_20260206_064232__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:41",
         "img": "/images/pets/archive/pet_20260206_064128_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:41",
         "img": "/images/pets/archive/pet_20260206_064128__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:40",
         "img": "/images/pets/archive/pet_20260206_064023_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:40",
         "img": "/images/pets/archive/pet_20260206_064023__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:39",
         "img": "/images/pets/archive/pet_20260206_063918_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:39",
         "img": "/images/pets/archive/pet_20260206_063918__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:38",
         "img": "/images/pets/archive/pet_20260206_063813_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:38",
         "img": "/images/pets/archive/pet_20260206_063813__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:37",
         "img": "/images/pets/archive/pet_20260206_063708_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:37",
         "img": "/images/pets/archive/pet_20260206_063708__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:36",
         "img": "/images/pets/archive/pet_20260206_063604_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:36",
         "img": "/images/pets/archive/pet_20260206_063604__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:34",
         "img": "/images/pets/archive/pet_20260206_063459_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:34",
         "img": "/images/pets/archive/pet_20260206_063459__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:33",
         "img": "/images/pets/archive/pet_20260206_063354_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:33",
         "img": "/images/pets/archive/pet_20260206_063354__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:32",
         "img": "/images/pets/archive/pet_20260206_063249_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:32",
         "img": "/images/pets/archive/pet_20260206_063249__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:31",
         "img": "/images/pets/archive/pet_20260206_063142_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:31",
         "img": "/images/pets/archive/pet_20260206_063142__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:31",
         "img": "/images/pets/archive/pet_20260206_063145_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:31",
         "img": "/images/pets/archive/pet_20260206_063145__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:30",
         "img": "/images/pets/archive/pet_20260206_063040_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:30",
         "img": "/images/pets/archive/pet_20260206_063040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:29",
         "img": "/images/pets/archive/pet_20260206_062935_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:29",
         "img": "/images/pets/archive/pet_20260206_062935__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:28",
         "img": "/images/pets/archive/pet_20260206_062830_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:28",
         "img": "/images/pets/archive/pet_20260206_062830__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:27",
         "img": "/images/pets/archive/pet_20260206_062725_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:27",
         "img": "/images/pets/archive/pet_20260206_062725__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:26",
         "img": "/images/pets/archive/pet_20260206_062621_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:26",
         "img": "/images/pets/archive/pet_20260206_062621__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:25",
         "img": "/images/pets/archive/pet_20260206_062516_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:25",
         "img": "/images/pets/archive/pet_20260206_062516__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:24",
         "img": "/images/pets/archive/pet_20260206_062411_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:24",
         "img": "/images/pets/archive/pet_20260206_062411__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:23",
         "img": "/images/pets/archive/pet_20260206_062306_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:23",
         "img": "/images/pets/archive/pet_20260206_062306__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:22",
         "img": "/images/pets/archive/pet_20260206_062202_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:22",
         "img": "/images/pets/archive/pet_20260206_062202__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:20",
         "img": "/images/pets/archive/pet_20260206_062057_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:20",
         "img": "/images/pets/archive/pet_20260206_062057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:19",
         "img": "/images/pets/archive/pet_20260206_061952_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:19",
         "img": "/images/pets/archive/pet_20260206_061952__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:18",
         "img": "/images/pets/archive/pet_20260206_061848_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:18",
         "img": "/images/pets/archive/pet_20260206_061848__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:17",
         "img": "/images/pets/archive/pet_20260206_061743_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:17",
         "img": "/images/pets/archive/pet_20260206_061743__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:16",
         "img": "/images/pets/archive/pet_20260206_061638_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:16",
         "img": "/images/pets/archive/pet_20260206_061638__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -5818,14 +5818,14 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "06:14",
         "img": "/images/pets/archive/pet_20260206_061428_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:14",
         "img": "/images/pets/archive/pet_20260206_061428__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -5839,182 +5839,182 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "06:12",
         "img": "/images/pets/archive/pet_20260206_061219_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:12",
         "img": "/images/pets/archive/pet_20260206_061219__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:11",
         "img": "/images/pets/archive/pet_20260206_061114_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:11",
         "img": "/images/pets/archive/pet_20260206_061114__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:10",
         "img": "/images/pets/archive/pet_20260206_061010_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:10",
         "img": "/images/pets/archive/pet_20260206_061010__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:09",
         "img": "/images/pets/archive/pet_20260206_060905_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:09",
         "img": "/images/pets/archive/pet_20260206_060905__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:08",
         "img": "/images/pets/archive/pet_20260206_060800_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:08",
         "img": "/images/pets/archive/pet_20260206_060800__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:06",
         "img": "/images/pets/archive/pet_20260206_060655_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:06",
         "img": "/images/pets/archive/pet_20260206_060655__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:05",
         "img": "/images/pets/archive/pet_20260206_060551_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:05",
         "img": "/images/pets/archive/pet_20260206_060551__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:04",
         "img": "/images/pets/archive/pet_20260206_060446_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:04",
         "img": "/images/pets/archive/pet_20260206_060446__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:03",
         "img": "/images/pets/archive/pet_20260206_060341_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:03",
         "img": "/images/pets/archive/pet_20260206_060341__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:02",
         "img": "/images/pets/archive/pet_20260206_060237_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:02",
         "img": "/images/pets/archive/pet_20260206_060237__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:01",
         "img": "/images/pets/archive/pet_20260206_060115_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:01",
         "img": "/images/pets/archive/pet_20260206_060115__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:01",
         "img": "/images/pets/archive/pet_20260206_060132_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:01",
         "img": "/images/pets/archive/pet_20260206_060132__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:00",
         "img": "/images/pets/archive/pet_20260206_060027_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "06:00",
         "img": "/images/pets/archive/pet_20260206_060027__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -6028,2520 +6028,2520 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "05:58",
         "img": "/images/pets/archive/pet_20260206_055818_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:58",
         "img": "/images/pets/archive/pet_20260206_055818__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:57",
         "img": "/images/pets/archive/pet_20260206_055713_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:57",
         "img": "/images/pets/archive/pet_20260206_055713__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:56",
         "img": "/images/pets/archive/pet_20260206_055608_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:56",
         "img": "/images/pets/archive/pet_20260206_055608__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:55",
         "img": "/images/pets/archive/pet_20260206_055503_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:55",
         "img": "/images/pets/archive/pet_20260206_055503__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:53",
         "img": "/images/pets/archive/pet_20260206_055358_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:53",
         "img": "/images/pets/archive/pet_20260206_055358__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:52",
         "img": "/images/pets/archive/pet_20260206_055254_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:52",
         "img": "/images/pets/archive/pet_20260206_055254__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:51",
         "img": "/images/pets/archive/pet_20260206_055149_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:51",
         "img": "/images/pets/archive/pet_20260206_055149__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:50",
         "img": "/images/pets/archive/pet_20260206_055044_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:50",
         "img": "/images/pets/archive/pet_20260206_055044__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:49",
         "img": "/images/pets/archive/pet_20260206_054939_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:49",
         "img": "/images/pets/archive/pet_20260206_054939__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:48",
         "img": "/images/pets/archive/pet_20260206_054835_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:48",
         "img": "/images/pets/archive/pet_20260206_054835__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:47",
         "img": "/images/pets/archive/pet_20260206_054730_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:47",
         "img": "/images/pets/archive/pet_20260206_054730__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:46",
         "img": "/images/pets/archive/pet_20260206_054625_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:46",
         "img": "/images/pets/archive/pet_20260206_054625__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:45",
         "img": "/images/pets/archive/pet_20260206_054520_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:45",
         "img": "/images/pets/archive/pet_20260206_054520__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:44",
         "img": "/images/pets/archive/pet_20260206_054416_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:44",
         "img": "/images/pets/archive/pet_20260206_054416__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:43",
         "img": "/images/pets/archive/pet_20260206_054311_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:43",
         "img": "/images/pets/archive/pet_20260206_054311__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:42",
         "img": "/images/pets/archive/pet_20260206_054206_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:42",
         "img": "/images/pets/archive/pet_20260206_054206__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:41",
         "img": "/images/pets/archive/pet_20260206_054101_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:41",
         "img": "/images/pets/archive/pet_20260206_054101__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:39",
         "img": "/images/pets/archive/pet_20260206_053957_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:39",
         "img": "/images/pets/archive/pet_20260206_053957__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:38",
         "img": "/images/pets/archive/pet_20260206_053852_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:38",
         "img": "/images/pets/archive/pet_20260206_053852__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:37",
         "img": "/images/pets/archive/pet_20260206_053747_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:37",
         "img": "/images/pets/archive/pet_20260206_053747__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:36",
         "img": "/images/pets/archive/pet_20260206_053642_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:36",
         "img": "/images/pets/archive/pet_20260206_053642__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:35",
         "img": "/images/pets/archive/pet_20260206_053538_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:35",
         "img": "/images/pets/archive/pet_20260206_053538__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:34",
         "img": "/images/pets/archive/pet_20260206_053433_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:34",
         "img": "/images/pets/archive/pet_20260206_053433__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:33",
         "img": "/images/pets/archive/pet_20260206_053328_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:33",
         "img": "/images/pets/archive/pet_20260206_053328__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:32",
         "img": "/images/pets/archive/pet_20260206_053224_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:32",
         "img": "/images/pets/archive/pet_20260206_053224__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:31",
         "img": "/images/pets/archive/pet_20260206_053119_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:31",
         "img": "/images/pets/archive/pet_20260206_053119__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:31",
         "img": "/images/pets/archive/pet_20260206_053122_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:31",
         "img": "/images/pets/archive/pet_20260206_053122__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260206_053015_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:30",
         "img": "/images/pets/archive/pet_20260206_053015__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:29",
         "img": "/images/pets/archive/pet_20260206_052910_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:29",
         "img": "/images/pets/archive/pet_20260206_052910__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:28",
         "img": "/images/pets/archive/pet_20260206_052805_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:28",
         "img": "/images/pets/archive/pet_20260206_052805__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:27",
         "img": "/images/pets/archive/pet_20260206_052700_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:27",
         "img": "/images/pets/archive/pet_20260206_052700__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:25",
         "img": "/images/pets/archive/pet_20260206_052555_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:25",
         "img": "/images/pets/archive/pet_20260206_052555__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:24",
         "img": "/images/pets/archive/pet_20260206_052450_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:24",
         "img": "/images/pets/archive/pet_20260206_052450__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:23",
         "img": "/images/pets/archive/pet_20260206_052345_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:23",
         "img": "/images/pets/archive/pet_20260206_052345__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:22",
         "img": "/images/pets/archive/pet_20260206_052241_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:22",
         "img": "/images/pets/archive/pet_20260206_052241__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:21",
         "img": "/images/pets/archive/pet_20260206_052136_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:21",
         "img": "/images/pets/archive/pet_20260206_052136__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:20",
         "img": "/images/pets/archive/pet_20260206_052031_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:20",
         "img": "/images/pets/archive/pet_20260206_052031__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:19",
         "img": "/images/pets/archive/pet_20260206_051927_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:19",
         "img": "/images/pets/archive/pet_20260206_051927__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:18",
         "img": "/images/pets/archive/pet_20260206_051822_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:18",
         "img": "/images/pets/archive/pet_20260206_051822__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:17",
         "img": "/images/pets/archive/pet_20260206_051717_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:17",
         "img": "/images/pets/archive/pet_20260206_051717__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:16",
         "img": "/images/pets/archive/pet_20260206_051612_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:16",
         "img": "/images/pets/archive/pet_20260206_051612__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:15",
         "img": "/images/pets/archive/pet_20260206_051508_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:15",
         "img": "/images/pets/archive/pet_20260206_051508__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:14",
         "img": "/images/pets/archive/pet_20260206_051403_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:14",
         "img": "/images/pets/archive/pet_20260206_051403__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:12",
         "img": "/images/pets/archive/pet_20260206_051258_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:12",
         "img": "/images/pets/archive/pet_20260206_051258__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:11",
         "img": "/images/pets/archive/pet_20260206_051153_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:11",
         "img": "/images/pets/archive/pet_20260206_051153__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:10",
         "img": "/images/pets/archive/pet_20260206_051049_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:10",
         "img": "/images/pets/archive/pet_20260206_051049__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:09",
         "img": "/images/pets/archive/pet_20260206_050944_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:09",
         "img": "/images/pets/archive/pet_20260206_050944__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:08",
         "img": "/images/pets/archive/pet_20260206_050839_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:08",
         "img": "/images/pets/archive/pet_20260206_050839__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:07",
         "img": "/images/pets/archive/pet_20260206_050734_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:07",
         "img": "/images/pets/archive/pet_20260206_050734__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:06",
         "img": "/images/pets/archive/pet_20260206_050630_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:06",
         "img": "/images/pets/archive/pet_20260206_050630__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:05",
         "img": "/images/pets/archive/pet_20260206_050525_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:05",
         "img": "/images/pets/archive/pet_20260206_050525__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:04",
         "img": "/images/pets/archive/pet_20260206_050420_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:04",
         "img": "/images/pets/archive/pet_20260206_050420__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:03",
         "img": "/images/pets/archive/pet_20260206_050315_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:03",
         "img": "/images/pets/archive/pet_20260206_050315__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:02",
         "img": "/images/pets/archive/pet_20260206_050210_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:02",
         "img": "/images/pets/archive/pet_20260206_050210__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:01",
         "img": "/images/pets/archive/pet_20260206_050101_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:01",
         "img": "/images/pets/archive/pet_20260206_050101__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:01",
         "img": "/images/pets/archive/pet_20260206_050106_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:01",
         "img": "/images/pets/archive/pet_20260206_050106__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:00",
         "img": "/images/pets/archive/pet_20260206_050001_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "05:00",
         "img": "/images/pets/archive/pet_20260206_050001__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:58",
         "img": "/images/pets/archive/pet_20260206_045856_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:58",
         "img": "/images/pets/archive/pet_20260206_045856__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:57",
         "img": "/images/pets/archive/pet_20260206_045752_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:57",
         "img": "/images/pets/archive/pet_20260206_045752__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:56",
         "img": "/images/pets/archive/pet_20260206_045647_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:56",
         "img": "/images/pets/archive/pet_20260206_045647__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:55",
         "img": "/images/pets/archive/pet_20260206_045542_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:55",
         "img": "/images/pets/archive/pet_20260206_045542__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:54",
         "img": "/images/pets/archive/pet_20260206_045438_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:54",
         "img": "/images/pets/archive/pet_20260206_045438__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:53",
         "img": "/images/pets/archive/pet_20260206_045333_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:53",
         "img": "/images/pets/archive/pet_20260206_045333__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:52",
         "img": "/images/pets/archive/pet_20260206_045228_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:52",
         "img": "/images/pets/archive/pet_20260206_045228__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:51",
         "img": "/images/pets/archive/pet_20260206_045123_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:51",
         "img": "/images/pets/archive/pet_20260206_045123__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:50",
         "img": "/images/pets/archive/pet_20260206_045019_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:50",
         "img": "/images/pets/archive/pet_20260206_045019__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:49",
         "img": "/images/pets/archive/pet_20260206_044914_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:49",
         "img": "/images/pets/archive/pet_20260206_044914__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:48",
         "img": "/images/pets/archive/pet_20260206_044810_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:48",
         "img": "/images/pets/archive/pet_20260206_044810__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:47",
         "img": "/images/pets/archive/pet_20260206_044705_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:47",
         "img": "/images/pets/archive/pet_20260206_044705__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:46",
         "img": "/images/pets/archive/pet_20260206_044600_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:46",
         "img": "/images/pets/archive/pet_20260206_044600__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:44",
         "img": "/images/pets/archive/pet_20260206_044456_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:44",
         "img": "/images/pets/archive/pet_20260206_044456__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:43",
         "img": "/images/pets/archive/pet_20260206_044351_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:43",
         "img": "/images/pets/archive/pet_20260206_044351__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:42",
         "img": "/images/pets/archive/pet_20260206_044246_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:42",
         "img": "/images/pets/archive/pet_20260206_044246__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:41",
         "img": "/images/pets/archive/pet_20260206_044142_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:41",
         "img": "/images/pets/archive/pet_20260206_044142__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:40",
         "img": "/images/pets/archive/pet_20260206_044037_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:40",
         "img": "/images/pets/archive/pet_20260206_044037__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:39",
         "img": "/images/pets/archive/pet_20260206_043932_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:39",
         "img": "/images/pets/archive/pet_20260206_043932__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:38",
         "img": "/images/pets/archive/pet_20260206_043828_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:38",
         "img": "/images/pets/archive/pet_20260206_043828__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:37",
         "img": "/images/pets/archive/pet_20260206_043723_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:37",
         "img": "/images/pets/archive/pet_20260206_043723__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:36",
         "img": "/images/pets/archive/pet_20260206_043618_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:36",
         "img": "/images/pets/archive/pet_20260206_043618__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:35",
         "img": "/images/pets/archive/pet_20260206_043513_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:35",
         "img": "/images/pets/archive/pet_20260206_043513__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:34",
         "img": "/images/pets/archive/pet_20260206_043409_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:34",
         "img": "/images/pets/archive/pet_20260206_043409__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:33",
         "img": "/images/pets/archive/pet_20260206_043304_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:33",
         "img": "/images/pets/archive/pet_20260206_043304__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:31",
         "img": "/images/pets/archive/pet_20260206_043105_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:31",
         "img": "/images/pets/archive/pet_20260206_043105__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:31",
         "img": "/images/pets/archive/pet_20260206_043159_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:31",
         "img": "/images/pets/archive/pet_20260206_043159__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260206_043054_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260206_043054__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:29",
         "img": "/images/pets/archive/pet_20260206_042950_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:29",
         "img": "/images/pets/archive/pet_20260206_042950__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:28",
         "img": "/images/pets/archive/pet_20260206_042845_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:28",
         "img": "/images/pets/archive/pet_20260206_042845__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:27",
         "img": "/images/pets/archive/pet_20260206_042740_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:27",
         "img": "/images/pets/archive/pet_20260206_042740__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:26",
         "img": "/images/pets/archive/pet_20260206_042635_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:26",
         "img": "/images/pets/archive/pet_20260206_042635__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:25",
         "img": "/images/pets/archive/pet_20260206_042531_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:25",
         "img": "/images/pets/archive/pet_20260206_042531__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:24",
         "img": "/images/pets/archive/pet_20260206_042426_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:24",
         "img": "/images/pets/archive/pet_20260206_042426__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:23",
         "img": "/images/pets/archive/pet_20260206_042321_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:23",
         "img": "/images/pets/archive/pet_20260206_042321__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:22",
         "img": "/images/pets/archive/pet_20260206_042217_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:22",
         "img": "/images/pets/archive/pet_20260206_042217__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:21",
         "img": "/images/pets/archive/pet_20260206_042112_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:21",
         "img": "/images/pets/archive/pet_20260206_042112__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:20",
         "img": "/images/pets/archive/pet_20260206_042007_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:20",
         "img": "/images/pets/archive/pet_20260206_042007__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:19",
         "img": "/images/pets/archive/pet_20260206_041903_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:19",
         "img": "/images/pets/archive/pet_20260206_041903__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:17",
         "img": "/images/pets/archive/pet_20260206_041758_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:17",
         "img": "/images/pets/archive/pet_20260206_041758__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:16",
         "img": "/images/pets/archive/pet_20260206_041653_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:16",
         "img": "/images/pets/archive/pet_20260206_041653__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:15",
         "img": "/images/pets/archive/pet_20260206_041549_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:15",
         "img": "/images/pets/archive/pet_20260206_041549__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:14",
         "img": "/images/pets/archive/pet_20260206_041444_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:14",
         "img": "/images/pets/archive/pet_20260206_041444__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:13",
         "img": "/images/pets/archive/pet_20260206_041339_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:13",
         "img": "/images/pets/archive/pet_20260206_041339__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:12",
         "img": "/images/pets/archive/pet_20260206_041234_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:12",
         "img": "/images/pets/archive/pet_20260206_041234__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:11",
         "img": "/images/pets/archive/pet_20260206_041129_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:11",
         "img": "/images/pets/archive/pet_20260206_041129__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:10",
         "img": "/images/pets/archive/pet_20260206_041025_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:10",
         "img": "/images/pets/archive/pet_20260206_041025__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:09",
         "img": "/images/pets/archive/pet_20260206_040920_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:09",
         "img": "/images/pets/archive/pet_20260206_040920__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:08",
         "img": "/images/pets/archive/pet_20260206_040815_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:08",
         "img": "/images/pets/archive/pet_20260206_040815__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:07",
         "img": "/images/pets/archive/pet_20260206_040711_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:07",
         "img": "/images/pets/archive/pet_20260206_040711__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:06",
         "img": "/images/pets/archive/pet_20260206_040606_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:06",
         "img": "/images/pets/archive/pet_20260206_040606__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:05",
         "img": "/images/pets/archive/pet_20260206_040501_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:05",
         "img": "/images/pets/archive/pet_20260206_040501__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:03",
         "img": "/images/pets/archive/pet_20260206_040356_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:03",
         "img": "/images/pets/archive/pet_20260206_040356__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:02",
         "img": "/images/pets/archive/pet_20260206_040252_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:02",
         "img": "/images/pets/archive/pet_20260206_040252__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:01",
         "img": "/images/pets/archive/pet_20260206_040105_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:01",
         "img": "/images/pets/archive/pet_20260206_040105__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:01",
         "img": "/images/pets/archive/pet_20260206_040147_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:01",
         "img": "/images/pets/archive/pet_20260206_040147__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:00",
         "img": "/images/pets/archive/pet_20260206_040042_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "04:00",
         "img": "/images/pets/archive/pet_20260206_040042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:59",
         "img": "/images/pets/archive/pet_20260206_035937_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:59",
         "img": "/images/pets/archive/pet_20260206_035937__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:58",
         "img": "/images/pets/archive/pet_20260206_035832_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:58",
         "img": "/images/pets/archive/pet_20260206_035832__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:57",
         "img": "/images/pets/archive/pet_20260206_035727_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:57",
         "img": "/images/pets/archive/pet_20260206_035727__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:56",
         "img": "/images/pets/archive/pet_20260206_035623_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:56",
         "img": "/images/pets/archive/pet_20260206_035623__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:55",
         "img": "/images/pets/archive/pet_20260206_035518_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:55",
         "img": "/images/pets/archive/pet_20260206_035518__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:54",
         "img": "/images/pets/archive/pet_20260206_035413_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:54",
         "img": "/images/pets/archive/pet_20260206_035413__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:53",
         "img": "/images/pets/archive/pet_20260206_035308_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:53",
         "img": "/images/pets/archive/pet_20260206_035308__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:52",
         "img": "/images/pets/archive/pet_20260206_035204_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:52",
         "img": "/images/pets/archive/pet_20260206_035204__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:50",
         "img": "/images/pets/archive/pet_20260206_035059_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:50",
         "img": "/images/pets/archive/pet_20260206_035059__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:49",
         "img": "/images/pets/archive/pet_20260206_034954_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:49",
         "img": "/images/pets/archive/pet_20260206_034954__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:48",
         "img": "/images/pets/archive/pet_20260206_034849_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:48",
         "img": "/images/pets/archive/pet_20260206_034849__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:47",
         "img": "/images/pets/archive/pet_20260206_034745_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:47",
         "img": "/images/pets/archive/pet_20260206_034745__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:46",
         "img": "/images/pets/archive/pet_20260206_034640_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:46",
         "img": "/images/pets/archive/pet_20260206_034640__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:45",
         "img": "/images/pets/archive/pet_20260206_034535_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:45",
         "img": "/images/pets/archive/pet_20260206_034535__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:44",
         "img": "/images/pets/archive/pet_20260206_034431_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:44",
         "img": "/images/pets/archive/pet_20260206_034431__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:43",
         "img": "/images/pets/archive/pet_20260206_034326_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:43",
         "img": "/images/pets/archive/pet_20260206_034326__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:42",
         "img": "/images/pets/archive/pet_20260206_034221_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:42",
         "img": "/images/pets/archive/pet_20260206_034221__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:41",
         "img": "/images/pets/archive/pet_20260206_034116_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:41",
         "img": "/images/pets/archive/pet_20260206_034116__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:40",
         "img": "/images/pets/archive/pet_20260206_034011_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:40",
         "img": "/images/pets/archive/pet_20260206_034011__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:39",
         "img": "/images/pets/archive/pet_20260206_033907_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:39",
         "img": "/images/pets/archive/pet_20260206_033907__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:38",
         "img": "/images/pets/archive/pet_20260206_033802_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:38",
         "img": "/images/pets/archive/pet_20260206_033802__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:36",
         "img": "/images/pets/archive/pet_20260206_033657_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:36",
         "img": "/images/pets/archive/pet_20260206_033657__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:35",
         "img": "/images/pets/archive/pet_20260206_033552_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:35",
         "img": "/images/pets/archive/pet_20260206_033552__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:34",
         "img": "/images/pets/archive/pet_20260206_033448_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:34",
         "img": "/images/pets/archive/pet_20260206_033448__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:33",
         "img": "/images/pets/archive/pet_20260206_033343_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:33",
         "img": "/images/pets/archive/pet_20260206_033343__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:32",
         "img": "/images/pets/archive/pet_20260206_033238_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:32",
         "img": "/images/pets/archive/pet_20260206_033238__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:31",
         "img": "/images/pets/archive/pet_20260206_033133_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:31",
         "img": "/images/pets/archive/pet_20260206_033133__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260206_033028_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260206_033028__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260206_033056_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260206_033056__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:29",
         "img": "/images/pets/archive/pet_20260206_032923_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:29",
         "img": "/images/pets/archive/pet_20260206_032923__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:28",
         "img": "/images/pets/archive/pet_20260206_032818_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:28",
         "img": "/images/pets/archive/pet_20260206_032818__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:27",
         "img": "/images/pets/archive/pet_20260206_032714_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:27",
         "img": "/images/pets/archive/pet_20260206_032714__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:26",
         "img": "/images/pets/archive/pet_20260206_032609_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:26",
         "img": "/images/pets/archive/pet_20260206_032609__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:25",
         "img": "/images/pets/archive/pet_20260206_032504_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:25",
         "img": "/images/pets/archive/pet_20260206_032504__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:23",
         "img": "/images/pets/archive/pet_20260206_032359_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:23",
         "img": "/images/pets/archive/pet_20260206_032359__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:22",
         "img": "/images/pets/archive/pet_20260206_032254_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:22",
         "img": "/images/pets/archive/pet_20260206_032254__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:21",
         "img": "/images/pets/archive/pet_20260206_032150_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:21",
         "img": "/images/pets/archive/pet_20260206_032150__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:20",
         "img": "/images/pets/archive/pet_20260206_032045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:20",
         "img": "/images/pets/archive/pet_20260206_032045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:19",
         "img": "/images/pets/archive/pet_20260206_031940_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:19",
         "img": "/images/pets/archive/pet_20260206_031940__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:18",
         "img": "/images/pets/archive/pet_20260206_031836_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:18",
         "img": "/images/pets/archive/pet_20260206_031836__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:17",
         "img": "/images/pets/archive/pet_20260206_031731_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:17",
         "img": "/images/pets/archive/pet_20260206_031731__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:16",
         "img": "/images/pets/archive/pet_20260206_031626_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:16",
         "img": "/images/pets/archive/pet_20260206_031626__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:15",
         "img": "/images/pets/archive/pet_20260206_031521_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:15",
         "img": "/images/pets/archive/pet_20260206_031521__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:14",
         "img": "/images/pets/archive/pet_20260206_031417_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:14",
         "img": "/images/pets/archive/pet_20260206_031417__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:13",
         "img": "/images/pets/archive/pet_20260206_031312_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:13",
         "img": "/images/pets/archive/pet_20260206_031312__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:12",
         "img": "/images/pets/archive/pet_20260206_031207_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:12",
         "img": "/images/pets/archive/pet_20260206_031207__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:11",
         "img": "/images/pets/archive/pet_20260206_031102_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:11",
         "img": "/images/pets/archive/pet_20260206_031102__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:09",
         "img": "/images/pets/archive/pet_20260206_030958_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:09",
         "img": "/images/pets/archive/pet_20260206_030958__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:08",
         "img": "/images/pets/archive/pet_20260206_030853_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:08",
         "img": "/images/pets/archive/pet_20260206_030853__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:07",
         "img": "/images/pets/archive/pet_20260206_030748_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:07",
         "img": "/images/pets/archive/pet_20260206_030748__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:06",
         "img": "/images/pets/archive/pet_20260206_030644_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:06",
         "img": "/images/pets/archive/pet_20260206_030644__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:05",
         "img": "/images/pets/archive/pet_20260206_030539_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:05",
         "img": "/images/pets/archive/pet_20260206_030539__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:04",
         "img": "/images/pets/archive/pet_20260206_030434_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:04",
         "img": "/images/pets/archive/pet_20260206_030434__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:03",
         "img": "/images/pets/archive/pet_20260206_030329_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:03",
         "img": "/images/pets/archive/pet_20260206_030329__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:03",
         "img": "/images/pets/archive/pet_20260206_030337_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:03",
         "img": "/images/pets/archive/pet_20260206_030337__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:02",
         "img": "/images/pets/archive/pet_20260206_030225_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:02",
         "img": "/images/pets/archive/pet_20260206_030225__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:01",
         "img": "/images/pets/archive/pet_20260206_030120_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:01",
         "img": "/images/pets/archive/pet_20260206_030120__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260206_030015_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260206_030015__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:59",
         "img": "/images/pets/archive/pet_20260206_025910_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:59",
         "img": "/images/pets/archive/pet_20260206_025910__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:58",
         "img": "/images/pets/archive/pet_20260206_025805_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:58",
         "img": "/images/pets/archive/pet_20260206_025805__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:57",
         "img": "/images/pets/archive/pet_20260206_025701_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:57",
         "img": "/images/pets/archive/pet_20260206_025701__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:55",
         "img": "/images/pets/archive/pet_20260206_025556_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:55",
         "img": "/images/pets/archive/pet_20260206_025556__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:54",
         "img": "/images/pets/archive/pet_20260206_025451_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:54",
         "img": "/images/pets/archive/pet_20260206_025451__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:53",
         "img": "/images/pets/archive/pet_20260206_025346_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:53",
         "img": "/images/pets/archive/pet_20260206_025346__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:52",
         "img": "/images/pets/archive/pet_20260206_025242_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:52",
         "img": "/images/pets/archive/pet_20260206_025242__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:51",
         "img": "/images/pets/archive/pet_20260206_025137_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:51",
         "img": "/images/pets/archive/pet_20260206_025137__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -8555,70 +8555,70 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "02:49",
         "img": "/images/pets/archive/pet_20260206_024927_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:49",
         "img": "/images/pets/archive/pet_20260206_024927__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:48",
         "img": "/images/pets/archive/pet_20260206_024822_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:48",
         "img": "/images/pets/archive/pet_20260206_024822__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:47",
         "img": "/images/pets/archive/pet_20260206_024718_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:47",
         "img": "/images/pets/archive/pet_20260206_024718__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:46",
         "img": "/images/pets/archive/pet_20260206_024613_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:46",
         "img": "/images/pets/archive/pet_20260206_024613__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:45",
         "img": "/images/pets/archive/pet_20260206_024509_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:45",
         "img": "/images/pets/archive/pet_20260206_024509__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -8632,490 +8632,490 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "02:42",
         "img": "/images/pets/archive/pet_20260206_024259_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:42",
         "img": "/images/pets/archive/pet_20260206_024259__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:41",
         "img": "/images/pets/archive/pet_20260206_024154_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:41",
         "img": "/images/pets/archive/pet_20260206_024154__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:40",
         "img": "/images/pets/archive/pet_20260206_024050_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:40",
         "img": "/images/pets/archive/pet_20260206_024050__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:39",
         "img": "/images/pets/archive/pet_20260206_023945_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:39",
         "img": "/images/pets/archive/pet_20260206_023945__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:38",
         "img": "/images/pets/archive/pet_20260206_023840_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:38",
         "img": "/images/pets/archive/pet_20260206_023840__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:37",
         "img": "/images/pets/archive/pet_20260206_023735_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:37",
         "img": "/images/pets/archive/pet_20260206_023735__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:36",
         "img": "/images/pets/archive/pet_20260206_023603_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:36",
         "img": "/images/pets/archive/pet_20260206_023603__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:36",
         "img": "/images/pets/archive/pet_20260206_023610_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:36",
         "img": "/images/pets/archive/pet_20260206_023610__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:36",
         "img": "/images/pets/archive/pet_20260206_023631_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:36",
         "img": "/images/pets/archive/pet_20260206_023631__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:35",
         "img": "/images/pets/archive/pet_20260206_023510_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:35",
         "img": "/images/pets/archive/pet_20260206_023510__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:35",
         "img": "/images/pets/archive/pet_20260206_023527_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:35",
         "img": "/images/pets/archive/pet_20260206_023527__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:35",
         "img": "/images/pets/archive/pet_20260206_023544_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:35",
         "img": "/images/pets/archive/pet_20260206_023544__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:34",
         "img": "/images/pets/archive/pet_20260206_023405_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:34",
         "img": "/images/pets/archive/pet_20260206_023405__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:34",
         "img": "/images/pets/archive/pet_20260206_023422_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:34",
         "img": "/images/pets/archive/pet_20260206_023422__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:34",
         "img": "/images/pets/archive/pet_20260206_023439_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:34",
         "img": "/images/pets/archive/pet_20260206_023439__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:34",
         "img": "/images/pets/archive/pet_20260206_023458_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:34",
         "img": "/images/pets/archive/pet_20260206_023458__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:33",
         "img": "/images/pets/archive/pet_20260206_023300_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:33",
         "img": "/images/pets/archive/pet_20260206_023300__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:33",
         "img": "/images/pets/archive/pet_20260206_023317_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:33",
         "img": "/images/pets/archive/pet_20260206_023317__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:33",
         "img": "/images/pets/archive/pet_20260206_023334_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:33",
         "img": "/images/pets/archive/pet_20260206_023334__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:33",
         "img": "/images/pets/archive/pet_20260206_023354_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:33",
         "img": "/images/pets/archive/pet_20260206_023354__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:32",
         "img": "/images/pets/archive/pet_20260206_023212_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:32",
         "img": "/images/pets/archive/pet_20260206_023212__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:32",
         "img": "/images/pets/archive/pet_20260206_023230_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:32",
         "img": "/images/pets/archive/pet_20260206_023230__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:32",
         "img": "/images/pets/archive/pet_20260206_023249_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:32",
         "img": "/images/pets/archive/pet_20260206_023249__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:31",
         "img": "/images/pets/archive/pet_20260206_023108_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:31",
         "img": "/images/pets/archive/pet_20260206_023108__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:31",
         "img": "/images/pets/archive/pet_20260206_023125_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:31",
         "img": "/images/pets/archive/pet_20260206_023125__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:31",
         "img": "/images/pets/archive/pet_20260206_023144_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:31",
         "img": "/images/pets/archive/pet_20260206_023144__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:31",
         "img": "/images/pets/archive/pet_20260206_023156_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:31",
         "img": "/images/pets/archive/pet_20260206_023156__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260206_023003_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260206_023003__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260206_023020_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260206_023020__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260206_023040_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260206_023040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260206_023051_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260206_023051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260206_023056_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260206_023056__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:29",
         "img": "/images/pets/archive/pet_20260206_022915_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:29",
         "img": "/images/pets/archive/pet_20260206_022915__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:29",
         "img": "/images/pets/archive/pet_20260206_022935_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:29",
         "img": "/images/pets/archive/pet_20260206_022935__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:29",
         "img": "/images/pets/archive/pet_20260206_022946_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:29",
         "img": "/images/pets/archive/pet_20260206_022946__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -9129,42 +9129,42 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "02:28",
         "img": "/images/pets/archive/pet_20260206_022811_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:28",
         "img": "/images/pets/archive/pet_20260206_022811__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:28",
         "img": "/images/pets/archive/pet_20260206_022841_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:28",
         "img": "/images/pets/archive/pet_20260206_022841__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:28",
         "img": "/images/pets/archive/pet_20260206_022858_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:28",
         "img": "/images/pets/archive/pet_20260206_022858__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -9185,392 +9185,392 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "02:27",
         "img": "/images/pets/archive/pet_20260206_022725__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:27",
         "img": "/images/pets/archive/pet_20260206_022737__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:26",
         "img": "/images/pets/archive/pet_20260206_022601_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:26",
         "img": "/images/pets/archive/pet_20260206_022601__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:26",
         "img": "/images/pets/archive/pet_20260206_022620_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:26",
         "img": "/images/pets/archive/pet_20260206_022620__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:26",
         "img": "/images/pets/archive/pet_20260206_022632_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:26",
         "img": "/images/pets/archive/pet_20260206_022632__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:26",
         "img": "/images/pets/archive/pet_20260206_022649_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:26",
         "img": "/images/pets/archive/pet_20260206_022649__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:25",
         "img": "/images/pets/archive/pet_20260206_022516_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:25",
         "img": "/images/pets/archive/pet_20260206_022516__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:25",
         "img": "/images/pets/archive/pet_20260206_022527_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:25",
         "img": "/images/pets/archive/pet_20260206_022527__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:25",
         "img": "/images/pets/archive/pet_20260206_022544_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:25",
         "img": "/images/pets/archive/pet_20260206_022544__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:24",
         "img": "/images/pets/archive/pet_20260206_022411_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:24",
         "img": "/images/pets/archive/pet_20260206_022411__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:24",
         "img": "/images/pets/archive/pet_20260206_022422_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:24",
         "img": "/images/pets/archive/pet_20260206_022422__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:24",
         "img": "/images/pets/archive/pet_20260206_022439_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:24",
         "img": "/images/pets/archive/pet_20260206_022439__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:24",
         "img": "/images/pets/archive/pet_20260206_022457_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:24",
         "img": "/images/pets/archive/pet_20260206_022457__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:23",
         "img": "/images/pets/archive/pet_20260206_022306_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:23",
         "img": "/images/pets/archive/pet_20260206_022306__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:23",
         "img": "/images/pets/archive/pet_20260206_022317_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:23",
         "img": "/images/pets/archive/pet_20260206_022317__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:23",
         "img": "/images/pets/archive/pet_20260206_022330_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:23",
         "img": "/images/pets/archive/pet_20260206_022330__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:23",
         "img": "/images/pets/archive/pet_20260206_022335_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:23",
         "img": "/images/pets/archive/pet_20260206_022335__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:23",
         "img": "/images/pets/archive/pet_20260206_022352_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:23",
         "img": "/images/pets/archive/pet_20260206_022352__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:22",
         "img": "/images/pets/archive/pet_20260206_022202_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:22",
         "img": "/images/pets/archive/pet_20260206_022202__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:22",
         "img": "/images/pets/archive/pet_20260206_022213_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:22",
         "img": "/images/pets/archive/pet_20260206_022213__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:22",
         "img": "/images/pets/archive/pet_20260206_022225_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:22",
         "img": "/images/pets/archive/pet_20260206_022225__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:22",
         "img": "/images/pets/archive/pet_20260206_022230_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:22",
         "img": "/images/pets/archive/pet_20260206_022230__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:22",
         "img": "/images/pets/archive/pet_20260206_022247_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:22",
         "img": "/images/pets/archive/pet_20260206_022247__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:22",
         "img": "/images/pets/archive/pet_20260206_022254_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:22",
         "img": "/images/pets/archive/pet_20260206_022254__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:21",
         "img": "/images/pets/archive/pet_20260206_022108_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:21",
         "img": "/images/pets/archive/pet_20260206_022108__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:21",
         "img": "/images/pets/archive/pet_20260206_022120_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:21",
         "img": "/images/pets/archive/pet_20260206_022120__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:21",
         "img": "/images/pets/archive/pet_20260206_022126_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:21",
         "img": "/images/pets/archive/pet_20260206_022126__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:21",
         "img": "/images/pets/archive/pet_20260206_022142_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:21",
         "img": "/images/pets/archive/pet_20260206_022142__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:21",
         "img": "/images/pets/archive/pet_20260206_022150_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:21",
         "img": "/images/pets/archive/pet_20260206_022150__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -9591,686 +9591,686 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "02:20",
         "img": "/images/pets/archive/pet_20260206_022003_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:20",
         "img": "/images/pets/archive/pet_20260206_022003__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:20",
         "img": "/images/pets/archive/pet_20260206_022038_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:20",
         "img": "/images/pets/archive/pet_20260206_022038__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:20",
         "img": "/images/pets/archive/pet_20260206_022045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:20",
         "img": "/images/pets/archive/pet_20260206_022045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:20",
         "img": "/images/pets/archive/pet_20260206_022057_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:20",
         "img": "/images/pets/archive/pet_20260206_022057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:19",
         "img": "/images/pets/archive/pet_20260206_021911_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:19",
         "img": "/images/pets/archive/pet_20260206_021911__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:19",
         "img": "/images/pets/archive/pet_20260206_021916_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:19",
         "img": "/images/pets/archive/pet_20260206_021916__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:19",
         "img": "/images/pets/archive/pet_20260206_021933_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:19",
         "img": "/images/pets/archive/pet_20260206_021933__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:19",
         "img": "/images/pets/archive/pet_20260206_021940_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:19",
         "img": "/images/pets/archive/pet_20260206_021940__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:19",
         "img": "/images/pets/archive/pet_20260206_021952_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:19",
         "img": "/images/pets/archive/pet_20260206_021952__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:18",
         "img": "/images/pets/archive/pet_20260206_021806_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:18",
         "img": "/images/pets/archive/pet_20260206_021806__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:18",
         "img": "/images/pets/archive/pet_20260206_021811_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:18",
         "img": "/images/pets/archive/pet_20260206_021811__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:18",
         "img": "/images/pets/archive/pet_20260206_021828_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:18",
         "img": "/images/pets/archive/pet_20260206_021828__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:18",
         "img": "/images/pets/archive/pet_20260206_021836_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:18",
         "img": "/images/pets/archive/pet_20260206_021836__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:18",
         "img": "/images/pets/archive/pet_20260206_021848_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:18",
         "img": "/images/pets/archive/pet_20260206_021848__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:18",
         "img": "/images/pets/archive/pet_20260206_021859_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:18",
         "img": "/images/pets/archive/pet_20260206_021859__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:17",
         "img": "/images/pets/archive/pet_20260206_021702_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:17",
         "img": "/images/pets/archive/pet_20260206_021702__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:17",
         "img": "/images/pets/archive/pet_20260206_021707_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:17",
         "img": "/images/pets/archive/pet_20260206_021707__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:17",
         "img": "/images/pets/archive/pet_20260206_021724_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:17",
         "img": "/images/pets/archive/pet_20260206_021724__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:17",
         "img": "/images/pets/archive/pet_20260206_021731_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:17",
         "img": "/images/pets/archive/pet_20260206_021731__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:17",
         "img": "/images/pets/archive/pet_20260206_021743_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:17",
         "img": "/images/pets/archive/pet_20260206_021743__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:17",
         "img": "/images/pets/archive/pet_20260206_021754_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:17",
         "img": "/images/pets/archive/pet_20260206_021754__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:16",
         "img": "/images/pets/archive/pet_20260206_021602_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:16",
         "img": "/images/pets/archive/pet_20260206_021602__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:16",
         "img": "/images/pets/archive/pet_20260206_021619_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:16",
         "img": "/images/pets/archive/pet_20260206_021619__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:16",
         "img": "/images/pets/archive/pet_20260206_021626_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:16",
         "img": "/images/pets/archive/pet_20260206_021626__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:16",
         "img": "/images/pets/archive/pet_20260206_021638_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:16",
         "img": "/images/pets/archive/pet_20260206_021638__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:16",
         "img": "/images/pets/archive/pet_20260206_021649_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:16",
         "img": "/images/pets/archive/pet_20260206_021649__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:15",
         "img": "/images/pets/archive/pet_20260206_021514_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:15",
         "img": "/images/pets/archive/pet_20260206_021514__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:15",
         "img": "/images/pets/archive/pet_20260206_021521_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:15",
         "img": "/images/pets/archive/pet_20260206_021521__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:15",
         "img": "/images/pets/archive/pet_20260206_021533_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:15",
         "img": "/images/pets/archive/pet_20260206_021533__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:15",
         "img": "/images/pets/archive/pet_20260206_021545_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:15",
         "img": "/images/pets/archive/pet_20260206_021545__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:15",
         "img": "/images/pets/archive/pet_20260206_021557_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:15",
         "img": "/images/pets/archive/pet_20260206_021557__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:14",
         "img": "/images/pets/archive/pet_20260206_021409_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:14",
         "img": "/images/pets/archive/pet_20260206_021409__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:14",
         "img": "/images/pets/archive/pet_20260206_021417_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:14",
         "img": "/images/pets/archive/pet_20260206_021417__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:14",
         "img": "/images/pets/archive/pet_20260206_021429_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:14",
         "img": "/images/pets/archive/pet_20260206_021429__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:14",
         "img": "/images/pets/archive/pet_20260206_021440_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:14",
         "img": "/images/pets/archive/pet_20260206_021440__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:14",
         "img": "/images/pets/archive/pet_20260206_021452_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:14",
         "img": "/images/pets/archive/pet_20260206_021452__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:14",
         "img": "/images/pets/archive/pet_20260206_021457_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:14",
         "img": "/images/pets/archive/pet_20260206_021457__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:13",
         "img": "/images/pets/archive/pet_20260206_021304_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:13",
         "img": "/images/pets/archive/pet_20260206_021304__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:13",
         "img": "/images/pets/archive/pet_20260206_021312_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:13",
         "img": "/images/pets/archive/pet_20260206_021312__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:13",
         "img": "/images/pets/archive/pet_20260206_021324_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:13",
         "img": "/images/pets/archive/pet_20260206_021324__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:13",
         "img": "/images/pets/archive/pet_20260206_021335_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:13",
         "img": "/images/pets/archive/pet_20260206_021335__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:13",
         "img": "/images/pets/archive/pet_20260206_021347_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:13",
         "img": "/images/pets/archive/pet_20260206_021347__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:13",
         "img": "/images/pets/archive/pet_20260206_021352_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:13",
         "img": "/images/pets/archive/pet_20260206_021352__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:12",
         "img": "/images/pets/archive/pet_20260206_021200_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:12",
         "img": "/images/pets/archive/pet_20260206_021200__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:12",
         "img": "/images/pets/archive/pet_20260206_021207_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:12",
         "img": "/images/pets/archive/pet_20260206_021207__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:12",
         "img": "/images/pets/archive/pet_20260206_021219_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:12",
         "img": "/images/pets/archive/pet_20260206_021219__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:12",
         "img": "/images/pets/archive/pet_20260206_021231_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:12",
         "img": "/images/pets/archive/pet_20260206_021231__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:12",
         "img": "/images/pets/archive/pet_20260206_021242_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:12",
         "img": "/images/pets/archive/pet_20260206_021242__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:12",
         "img": "/images/pets/archive/pet_20260206_021248_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:12",
         "img": "/images/pets/archive/pet_20260206_021248__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -10298,28 +10298,28 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "02:11",
         "img": "/images/pets/archive/pet_20260206_021126_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:11",
         "img": "/images/pets/archive/pet_20260206_021126__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:11",
         "img": "/images/pets/archive/pet_20260206_021138_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:11",
         "img": "/images/pets/archive/pet_20260206_021138__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -10396,7 +10396,7 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "02:09",
         "img": "/images/pets/archive/pet_20260206_020917__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -10417,1092 +10417,1092 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "02:08",
         "img": "/images/pets/archive/pet_20260206_020800_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:08",
         "img": "/images/pets/archive/pet_20260206_020800__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:08",
         "img": "/images/pets/archive/pet_20260206_020812_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:08",
         "img": "/images/pets/archive/pet_20260206_020812__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:08",
         "img": "/images/pets/archive/pet_20260206_020829_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:08",
         "img": "/images/pets/archive/pet_20260206_020829__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:08",
         "img": "/images/pets/archive/pet_20260206_020845__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:07",
         "img": "/images/pets/archive/pet_20260206_020707_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:07",
         "img": "/images/pets/archive/pet_20260206_020707__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:07",
         "img": "/images/pets/archive/pet_20260206_020719_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:07",
         "img": "/images/pets/archive/pet_20260206_020719__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:07",
         "img": "/images/pets/archive/pet_20260206_020724_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:07",
         "img": "/images/pets/archive/pet_20260206_020724__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:07",
         "img": "/images/pets/archive/pet_20260206_020741_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:07",
         "img": "/images/pets/archive/pet_20260206_020741__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:06",
         "img": "/images/pets/archive/pet_20260206_020602_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:06",
         "img": "/images/pets/archive/pet_20260206_020602__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:06",
         "img": "/images/pets/archive/pet_20260206_020614_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:06",
         "img": "/images/pets/archive/pet_20260206_020614__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:06",
         "img": "/images/pets/archive/pet_20260206_020619_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:06",
         "img": "/images/pets/archive/pet_20260206_020619__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:06",
         "img": "/images/pets/archive/pet_20260206_020636_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:06",
         "img": "/images/pets/archive/pet_20260206_020636__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:06",
         "img": "/images/pets/archive/pet_20260206_020655_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:06",
         "img": "/images/pets/archive/pet_20260206_020655__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:05",
         "img": "/images/pets/archive/pet_20260206_020509_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:05",
         "img": "/images/pets/archive/pet_20260206_020509__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:05",
         "img": "/images/pets/archive/pet_20260206_020514_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:05",
         "img": "/images/pets/archive/pet_20260206_020514__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:05",
         "img": "/images/pets/archive/pet_20260206_020531_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:05",
         "img": "/images/pets/archive/pet_20260206_020531__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:05",
         "img": "/images/pets/archive/pet_20260206_020551_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:05",
         "img": "/images/pets/archive/pet_20260206_020551__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:04",
         "img": "/images/pets/archive/pet_20260206_020405_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:04",
         "img": "/images/pets/archive/pet_20260206_020405__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:04",
         "img": "/images/pets/archive/pet_20260206_020410_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:04",
         "img": "/images/pets/archive/pet_20260206_020410__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:04",
         "img": "/images/pets/archive/pet_20260206_020427_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:04",
         "img": "/images/pets/archive/pet_20260206_020427__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:04",
         "img": "/images/pets/archive/pet_20260206_020446_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:04",
         "img": "/images/pets/archive/pet_20260206_020446__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:04",
         "img": "/images/pets/archive/pet_20260206_020458_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:04",
         "img": "/images/pets/archive/pet_20260206_020458__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:03",
         "img": "/images/pets/archive/pet_20260206_020300_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:03",
         "img": "/images/pets/archive/pet_20260206_020300__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:03",
         "img": "/images/pets/archive/pet_20260206_020305_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:03",
         "img": "/images/pets/archive/pet_20260206_020305__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:03",
         "img": "/images/pets/archive/pet_20260206_020322_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:03",
         "img": "/images/pets/archive/pet_20260206_020322__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:03",
         "img": "/images/pets/archive/pet_20260206_020341_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:03",
         "img": "/images/pets/archive/pet_20260206_020341__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:03",
         "img": "/images/pets/archive/pet_20260206_020353_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:03",
         "img": "/images/pets/archive/pet_20260206_020353__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:02",
         "img": "/images/pets/archive/pet_20260206_020200_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:02",
         "img": "/images/pets/archive/pet_20260206_020200__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:02",
         "img": "/images/pets/archive/pet_20260206_020217_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:02",
         "img": "/images/pets/archive/pet_20260206_020217__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:02",
         "img": "/images/pets/archive/pet_20260206_020236_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:02",
         "img": "/images/pets/archive/pet_20260206_020236__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:02",
         "img": "/images/pets/archive/pet_20260206_020248_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:02",
         "img": "/images/pets/archive/pet_20260206_020248__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:01",
         "img": "/images/pets/archive/pet_20260206_020112_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:01",
         "img": "/images/pets/archive/pet_20260206_020112__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:01",
         "img": "/images/pets/archive/pet_20260206_020118_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:01",
         "img": "/images/pets/archive/pet_20260206_020118__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:01",
         "img": "/images/pets/archive/pet_20260206_020132_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:01",
         "img": "/images/pets/archive/pet_20260206_020132__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:01",
         "img": "/images/pets/archive/pet_20260206_020144_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:01",
         "img": "/images/pets/archive/pet_20260206_020144__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:01",
         "img": "/images/pets/archive/pet_20260206_020155_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:01",
         "img": "/images/pets/archive/pet_20260206_020155__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260206_020007_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260206_020007__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260206_020027_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260206_020027__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260206_020039_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260206_020039__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260206_020050_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260206_020050__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260206_020056_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260206_020056__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:59",
         "img": "/images/pets/archive/pet_20260206_015903_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:59",
         "img": "/images/pets/archive/pet_20260206_015903__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:59",
         "img": "/images/pets/archive/pet_20260206_015922_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:59",
         "img": "/images/pets/archive/pet_20260206_015922__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:59",
         "img": "/images/pets/archive/pet_20260206_015934_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:59",
         "img": "/images/pets/archive/pet_20260206_015934__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:59",
         "img": "/images/pets/archive/pet_20260206_015946_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:59",
         "img": "/images/pets/archive/pet_20260206_015946__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:59",
         "img": "/images/pets/archive/pet_20260206_015951_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:59",
         "img": "/images/pets/archive/pet_20260206_015951__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:58",
         "img": "/images/pets/archive/pet_20260206_015818_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:58",
         "img": "/images/pets/archive/pet_20260206_015818__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:58",
         "img": "/images/pets/archive/pet_20260206_015830_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:58",
         "img": "/images/pets/archive/pet_20260206_015830__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:58",
         "img": "/images/pets/archive/pet_20260206_015841_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:58",
         "img": "/images/pets/archive/pet_20260206_015841__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:58",
         "img": "/images/pets/archive/pet_20260206_015846_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:58",
         "img": "/images/pets/archive/pet_20260206_015846__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:57",
         "img": "/images/pets/archive/pet_20260206_015713_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:57",
         "img": "/images/pets/archive/pet_20260206_015713__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:57",
         "img": "/images/pets/archive/pet_20260206_015725_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:57",
         "img": "/images/pets/archive/pet_20260206_015725__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:57",
         "img": "/images/pets/archive/pet_20260206_015736_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:57",
         "img": "/images/pets/archive/pet_20260206_015736__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:57",
         "img": "/images/pets/archive/pet_20260206_015742_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:57",
         "img": "/images/pets/archive/pet_20260206_015742__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:57",
         "img": "/images/pets/archive/pet_20260206_015758_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:57",
         "img": "/images/pets/archive/pet_20260206_015758__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:56",
         "img": "/images/pets/archive/pet_20260206_015608_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:56",
         "img": "/images/pets/archive/pet_20260206_015608__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:56",
         "img": "/images/pets/archive/pet_20260206_015620_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:56",
         "img": "/images/pets/archive/pet_20260206_015620__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:56",
         "img": "/images/pets/archive/pet_20260206_015631_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:56",
         "img": "/images/pets/archive/pet_20260206_015631__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:56",
         "img": "/images/pets/archive/pet_20260206_015637_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:56",
         "img": "/images/pets/archive/pet_20260206_015637__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:56",
         "img": "/images/pets/archive/pet_20260206_015653_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:56",
         "img": "/images/pets/archive/pet_20260206_015653__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:55",
         "img": "/images/pets/archive/pet_20260206_015503_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:55",
         "img": "/images/pets/archive/pet_20260206_015503__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:55",
         "img": "/images/pets/archive/pet_20260206_015515_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:55",
         "img": "/images/pets/archive/pet_20260206_015515__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:55",
         "img": "/images/pets/archive/pet_20260206_015527_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:55",
         "img": "/images/pets/archive/pet_20260206_015527__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:55",
         "img": "/images/pets/archive/pet_20260206_015533_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:55",
         "img": "/images/pets/archive/pet_20260206_015533__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:55",
         "img": "/images/pets/archive/pet_20260206_015549_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:55",
         "img": "/images/pets/archive/pet_20260206_015549__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:54",
         "img": "/images/pets/archive/pet_20260206_015411__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:54",
         "img": "/images/pets/archive/pet_20260206_015422_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:54",
         "img": "/images/pets/archive/pet_20260206_015422__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:54",
         "img": "/images/pets/archive/pet_20260206_015428_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:54",
         "img": "/images/pets/archive/pet_20260206_015428__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:54",
         "img": "/images/pets/archive/pet_20260206_015444_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:54",
         "img": "/images/pets/archive/pet_20260206_015444__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:53",
         "img": "/images/pets/archive/pet_20260206_015306_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:53",
         "img": "/images/pets/archive/pet_20260206_015306__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:53",
         "img": "/images/pets/archive/pet_20260206_015317_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:53",
         "img": "/images/pets/archive/pet_20260206_015317__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:53",
         "img": "/images/pets/archive/pet_20260206_015323_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:53",
         "img": "/images/pets/archive/pet_20260206_015323__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:53",
         "img": "/images/pets/archive/pet_20260206_015339_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:53",
         "img": "/images/pets/archive/pet_20260206_015339__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:53",
         "img": "/images/pets/archive/pet_20260206_015358_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:53",
         "img": "/images/pets/archive/pet_20260206_015358__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:52",
         "img": "/images/pets/archive/pet_20260206_015201_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:52",
         "img": "/images/pets/archive/pet_20260206_015201__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:52",
         "img": "/images/pets/archive/pet_20260206_015213_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:52",
         "img": "/images/pets/archive/pet_20260206_015213__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:52",
         "img": "/images/pets/archive/pet_20260206_015218_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:52",
         "img": "/images/pets/archive/pet_20260206_015218__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:52",
         "img": "/images/pets/archive/pet_20260206_015235_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:52",
         "img": "/images/pets/archive/pet_20260206_015235__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:52",
         "img": "/images/pets/archive/pet_20260206_015253_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:52",
         "img": "/images/pets/archive/pet_20260206_015253__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -11516,287 +11516,287 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "01:51",
         "img": "/images/pets/archive/pet_20260206_015114_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:51",
         "img": "/images/pets/archive/pet_20260206_015114__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:51",
         "img": "/images/pets/archive/pet_20260206_015130_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:51",
         "img": "/images/pets/archive/pet_20260206_015130__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:51",
         "img": "/images/pets/archive/pet_20260206_015148_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:51",
         "img": "/images/pets/archive/pet_20260206_015148__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:50",
         "img": "/images/pets/archive/pet_20260206_015003_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:50",
         "img": "/images/pets/archive/pet_20260206_015003__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:50",
         "img": "/images/pets/archive/pet_20260206_015009_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:50",
         "img": "/images/pets/archive/pet_20260206_015009__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:50",
         "img": "/images/pets/archive/pet_20260206_015025_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:50",
         "img": "/images/pets/archive/pet_20260206_015025__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:50",
         "img": "/images/pets/archive/pet_20260206_015044__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:50",
         "img": "/images/pets/archive/pet_20260206_015056_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:50",
         "img": "/images/pets/archive/pet_20260206_015056__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:49",
         "img": "/images/pets/archive/pet_20260206_014904_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:49",
         "img": "/images/pets/archive/pet_20260206_014904__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:49",
         "img": "/images/pets/archive/pet_20260206_014920_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:49",
         "img": "/images/pets/archive/pet_20260206_014920__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:49",
         "img": "/images/pets/archive/pet_20260206_014939_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:49",
         "img": "/images/pets/archive/pet_20260206_014939__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:49",
         "img": "/images/pets/archive/pet_20260206_014951_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:49",
         "img": "/images/pets/archive/pet_20260206_014951__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:48",
         "img": "/images/pets/archive/pet_20260206_014816_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:48",
         "img": "/images/pets/archive/pet_20260206_014816__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:48",
         "img": "/images/pets/archive/pet_20260206_014834_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:48",
         "img": "/images/pets/archive/pet_20260206_014834__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:48",
         "img": "/images/pets/archive/pet_20260206_014847_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:48",
         "img": "/images/pets/archive/pet_20260206_014847__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:48",
         "img": "/images/pets/archive/pet_20260206_014858_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:48",
         "img": "/images/pets/archive/pet_20260206_014858__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:47",
         "img": "/images/pets/archive/pet_20260206_014711_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:47",
         "img": "/images/pets/archive/pet_20260206_014711__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:47",
         "img": "/images/pets/archive/pet_20260206_014730_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:47",
         "img": "/images/pets/archive/pet_20260206_014730__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:47",
         "img": "/images/pets/archive/pet_20260206_014742_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:47",
         "img": "/images/pets/archive/pet_20260206_014742__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:47",
         "img": "/images/pets/archive/pet_20260206_014753_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:47",
         "img": "/images/pets/archive/pet_20260206_014753__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:47",
         "img": "/images/pets/archive/pet_20260206_014759_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:47",
         "img": "/images/pets/archive/pet_20260206_014759__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -11810,49 +11810,49 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "01:46",
         "img": "/images/pets/archive/pet_20260206_014625_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:46",
         "img": "/images/pets/archive/pet_20260206_014625__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:46",
         "img": "/images/pets/archive/pet_20260206_014637_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:46",
         "img": "/images/pets/archive/pet_20260206_014637__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:46",
         "img": "/images/pets/archive/pet_20260206_014649_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:46",
         "img": "/images/pets/archive/pet_20260206_014649__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:46",
         "img": "/images/pets/archive/pet_20260206_014655__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -11866,49 +11866,49 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "01:45",
         "img": "/images/pets/archive/pet_20260206_014520__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:45",
         "img": "/images/pets/archive/pet_20260206_014532_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:45",
         "img": "/images/pets/archive/pet_20260206_014532__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:45",
         "img": "/images/pets/archive/pet_20260206_014544_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:45",
         "img": "/images/pets/archive/pet_20260206_014544__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:45",
         "img": "/images/pets/archive/pet_20260206_014550_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:45",
         "img": "/images/pets/archive/pet_20260206_014550__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -11929,28 +11929,28 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "01:44",
         "img": "/images/pets/archive/pet_20260206_014415_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:44",
         "img": "/images/pets/archive/pet_20260206_014415__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:44",
         "img": "/images/pets/archive/pet_20260206_014445_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:44",
         "img": "/images/pets/archive/pet_20260206_014445__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -11978,28 +11978,28 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "01:43",
         "img": "/images/pets/archive/pet_20260206_014311_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:43",
         "img": "/images/pets/archive/pet_20260206_014311__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:43",
         "img": "/images/pets/archive/pet_20260206_014357_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:43",
         "img": "/images/pets/archive/pet_20260206_014357__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -12027,28 +12027,28 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "01:42",
         "img": "/images/pets/archive/pet_20260206_014218_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:42",
         "img": "/images/pets/archive/pet_20260206_014218__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:42",
         "img": "/images/pets/archive/pet_20260206_014230_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:42",
         "img": "/images/pets/archive/pet_20260206_014230__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -12076,21 +12076,21 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "01:41",
         "img": "/images/pets/archive/pet_20260206_014101_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:41",
         "img": "/images/pets/archive/pet_20260206_014101__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:41",
         "img": "/images/pets/archive/pet_20260206_014113__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -12118,14 +12118,14 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "01:40",
         "img": "/images/pets/archive/pet_20260206_014009_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:40",
         "img": "/images/pets/archive/pet_20260206_014009__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -12146,231 +12146,231 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "01:39",
         "img": "/images/pets/archive/pet_20260206_013904_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:39",
         "img": "/images/pets/archive/pet_20260206_013904__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:39",
         "img": "/images/pets/archive/pet_20260206_013916_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:39",
         "img": "/images/pets/archive/pet_20260206_013916__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:39",
         "img": "/images/pets/archive/pet_20260206_013938__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:38",
         "img": "/images/pets/archive/pet_20260206_013811_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:38",
         "img": "/images/pets/archive/pet_20260206_013811__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:38",
         "img": "/images/pets/archive/pet_20260206_013817_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:38",
         "img": "/images/pets/archive/pet_20260206_013817__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:38",
         "img": "/images/pets/archive/pet_20260206_013834_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:38",
         "img": "/images/pets/archive/pet_20260206_013834__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:38",
         "img": "/images/pets/archive/pet_20260206_013852_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:38",
         "img": "/images/pets/archive/pet_20260206_013852__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:37",
         "img": "/images/pets/archive/pet_20260206_013706_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:37",
         "img": "/images/pets/archive/pet_20260206_013706__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:37",
         "img": "/images/pets/archive/pet_20260206_013712_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:37",
         "img": "/images/pets/archive/pet_20260206_013712__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:37",
         "img": "/images/pets/archive/pet_20260206_013729_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:37",
         "img": "/images/pets/archive/pet_20260206_013729__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:37",
         "img": "/images/pets/archive/pet_20260206_013744_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:37",
         "img": "/images/pets/archive/pet_20260206_013744__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:37",
         "img": "/images/pets/archive/pet_20260206_013759_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:37",
         "img": "/images/pets/archive/pet_20260206_013759__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:36",
         "img": "/images/pets/archive/pet_20260206_013601_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:36",
         "img": "/images/pets/archive/pet_20260206_013601__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:36",
         "img": "/images/pets/archive/pet_20260206_013607_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:36",
         "img": "/images/pets/archive/pet_20260206_013607__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:36",
         "img": "/images/pets/archive/pet_20260206_013624_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:36",
         "img": "/images/pets/archive/pet_20260206_013624__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:36",
         "img": "/images/pets/archive/pet_20260206_013640_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:36",
         "img": "/images/pets/archive/pet_20260206_013640__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:36",
         "img": "/images/pets/archive/pet_20260206_013654_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:36",
         "img": "/images/pets/archive/pet_20260206_013654__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -12384,105 +12384,105 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "01:35",
         "img": "/images/pets/archive/pet_20260206_013520_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:35",
         "img": "/images/pets/archive/pet_20260206_013520__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:35",
         "img": "/images/pets/archive/pet_20260206_013535_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:35",
         "img": "/images/pets/archive/pet_20260206_013535__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:35",
         "img": "/images/pets/archive/pet_20260206_013550__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:34",
         "img": "/images/pets/archive/pet_20260206_013415_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:34",
         "img": "/images/pets/archive/pet_20260206_013415__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:34",
         "img": "/images/pets/archive/pet_20260206_013445_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:34",
         "img": "/images/pets/archive/pet_20260206_013445__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:34",
         "img": "/images/pets/archive/pet_20260206_013457__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:33",
         "img": "/images/pets/archive/pet_20260206_013310__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:33",
         "img": "/images/pets/archive/pet_20260206_013340_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:33",
         "img": "/images/pets/archive/pet_20260206_013340__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:33",
         "img": "/images/pets/archive/pet_20260206_013352__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:33",
         "img": "/images/pets/archive/pet_20260206_013358__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -12496,868 +12496,868 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "01:32",
         "img": "/images/pets/archive/pet_20260206_013236__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:32",
         "img": "/images/pets/archive/pet_20260206_013247_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:32",
         "img": "/images/pets/archive/pet_20260206_013247__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:32",
         "img": "/images/pets/archive/pet_20260206_013253_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:32",
         "img": "/images/pets/archive/pet_20260206_013253__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:31",
         "img": "/images/pets/archive/pet_20260206_013101_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:31",
         "img": "/images/pets/archive/pet_20260206_013101__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:31",
         "img": "/images/pets/archive/pet_20260206_013111_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:31",
         "img": "/images/pets/archive/pet_20260206_013111__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:31",
         "img": "/images/pets/archive/pet_20260206_013131_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:31",
         "img": "/images/pets/archive/pet_20260206_013131__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:31",
         "img": "/images/pets/archive/pet_20260206_013142_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:31",
         "img": "/images/pets/archive/pet_20260206_013142__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:31",
         "img": "/images/pets/archive/pet_20260206_013148__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260206_013026_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260206_013026__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260206_013038_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260206_013038__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260206_013044_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260206_013044__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:29",
         "img": "/images/pets/archive/pet_20260206_012922_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:29",
         "img": "/images/pets/archive/pet_20260206_012922__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:29",
         "img": "/images/pets/archive/pet_20260206_012933_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:29",
         "img": "/images/pets/archive/pet_20260206_012933__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:29",
         "img": "/images/pets/archive/pet_20260206_012939_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:29",
         "img": "/images/pets/archive/pet_20260206_012939__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:29",
         "img": "/images/pets/archive/pet_20260206_012956_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:29",
         "img": "/images/pets/archive/pet_20260206_012956__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:28",
         "img": "/images/pets/archive/pet_20260206_012817_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:28",
         "img": "/images/pets/archive/pet_20260206_012817__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:28",
         "img": "/images/pets/archive/pet_20260206_012828_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:28",
         "img": "/images/pets/archive/pet_20260206_012828__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:28",
         "img": "/images/pets/archive/pet_20260206_012834_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:28",
         "img": "/images/pets/archive/pet_20260206_012834__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:28",
         "img": "/images/pets/archive/pet_20260206_012851_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:28",
         "img": "/images/pets/archive/pet_20260206_012851__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:27",
         "img": "/images/pets/archive/pet_20260206_012712_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:27",
         "img": "/images/pets/archive/pet_20260206_012712__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:27",
         "img": "/images/pets/archive/pet_20260206_012724_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:27",
         "img": "/images/pets/archive/pet_20260206_012724__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:27",
         "img": "/images/pets/archive/pet_20260206_012729_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:27",
         "img": "/images/pets/archive/pet_20260206_012729__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:27",
         "img": "/images/pets/archive/pet_20260206_012746_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:27",
         "img": "/images/pets/archive/pet_20260206_012746__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:26",
         "img": "/images/pets/archive/pet_20260206_012607_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:26",
         "img": "/images/pets/archive/pet_20260206_012607__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:26",
         "img": "/images/pets/archive/pet_20260206_012619_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:26",
         "img": "/images/pets/archive/pet_20260206_012619__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:26",
         "img": "/images/pets/archive/pet_20260206_012624_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:26",
         "img": "/images/pets/archive/pet_20260206_012624__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:26",
         "img": "/images/pets/archive/pet_20260206_012642_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:26",
         "img": "/images/pets/archive/pet_20260206_012642__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:25",
         "img": "/images/pets/archive/pet_20260206_012502_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:25",
         "img": "/images/pets/archive/pet_20260206_012502__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:25",
         "img": "/images/pets/archive/pet_20260206_012514_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:25",
         "img": "/images/pets/archive/pet_20260206_012514__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:25",
         "img": "/images/pets/archive/pet_20260206_012520_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:25",
         "img": "/images/pets/archive/pet_20260206_012520__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:25",
         "img": "/images/pets/archive/pet_20260206_012537_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:25",
         "img": "/images/pets/archive/pet_20260206_012537__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:24",
         "img": "/images/pets/archive/pet_20260206_012409_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:24",
         "img": "/images/pets/archive/pet_20260206_012409__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:24",
         "img": "/images/pets/archive/pet_20260206_012415_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:24",
         "img": "/images/pets/archive/pet_20260206_012415__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:24",
         "img": "/images/pets/archive/pet_20260206_012432_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:24",
         "img": "/images/pets/archive/pet_20260206_012432__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:23",
         "img": "/images/pets/archive/pet_20260206_012304_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:23",
         "img": "/images/pets/archive/pet_20260206_012304__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:23",
         "img": "/images/pets/archive/pet_20260206_012310_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:23",
         "img": "/images/pets/archive/pet_20260206_012310__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:23",
         "img": "/images/pets/archive/pet_20260206_012327_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:23",
         "img": "/images/pets/archive/pet_20260206_012327__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:23",
         "img": "/images/pets/archive/pet_20260206_012358_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:23",
         "img": "/images/pets/archive/pet_20260206_012358__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:22",
         "img": "/images/pets/archive/pet_20260206_012200_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:22",
         "img": "/images/pets/archive/pet_20260206_012200__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:22",
         "img": "/images/pets/archive/pet_20260206_012205_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:22",
         "img": "/images/pets/archive/pet_20260206_012205__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:22",
         "img": "/images/pets/archive/pet_20260206_012223_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:22",
         "img": "/images/pets/archive/pet_20260206_012223__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:22",
         "img": "/images/pets/archive/pet_20260206_012253_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:22",
         "img": "/images/pets/archive/pet_20260206_012253__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:21",
         "img": "/images/pets/archive/pet_20260206_012100_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:21",
         "img": "/images/pets/archive/pet_20260206_012100__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:21",
         "img": "/images/pets/archive/pet_20260206_012118_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:21",
         "img": "/images/pets/archive/pet_20260206_012118__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:21",
         "img": "/images/pets/archive/pet_20260206_012148_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:21",
         "img": "/images/pets/archive/pet_20260206_012148__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:20",
         "img": "/images/pets/archive/pet_20260206_012013_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:20",
         "img": "/images/pets/archive/pet_20260206_012013__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:20",
         "img": "/images/pets/archive/pet_20260206_012043_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:20",
         "img": "/images/pets/archive/pet_20260206_012043__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:20",
         "img": "/images/pets/archive/pet_20260206_012055_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:20",
         "img": "/images/pets/archive/pet_20260206_012055__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:19",
         "img": "/images/pets/archive/pet_20260206_011908_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:19",
         "img": "/images/pets/archive/pet_20260206_011908__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:19",
         "img": "/images/pets/archive/pet_20260206_011938_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:19",
         "img": "/images/pets/archive/pet_20260206_011938__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:19",
         "img": "/images/pets/archive/pet_20260206_011950_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:19",
         "img": "/images/pets/archive/pet_20260206_011950__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:19",
         "img": "/images/pets/archive/pet_20260206_011956_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:19",
         "img": "/images/pets/archive/pet_20260206_011956__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:18",
         "img": "/images/pets/archive/pet_20260206_011804_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:18",
         "img": "/images/pets/archive/pet_20260206_011804__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:18",
         "img": "/images/pets/archive/pet_20260206_011833_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:18",
         "img": "/images/pets/archive/pet_20260206_011833__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:18",
         "img": "/images/pets/archive/pet_20260206_011845_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:18",
         "img": "/images/pets/archive/pet_20260206_011845__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:18",
         "img": "/images/pets/archive/pet_20260206_011851_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:18",
         "img": "/images/pets/archive/pet_20260206_011851__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:17",
         "img": "/images/pets/archive/pet_20260206_011729_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:17",
         "img": "/images/pets/archive/pet_20260206_011729__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:17",
         "img": "/images/pets/archive/pet_20260206_011741_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:17",
         "img": "/images/pets/archive/pet_20260206_011741__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:17",
         "img": "/images/pets/archive/pet_20260206_011746_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:17",
         "img": "/images/pets/archive/pet_20260206_011746__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:16",
         "img": "/images/pets/archive/pet_20260206_011624_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:16",
         "img": "/images/pets/archive/pet_20260206_011624__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:16",
         "img": "/images/pets/archive/pet_20260206_011636_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:16",
         "img": "/images/pets/archive/pet_20260206_011636__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:16",
         "img": "/images/pets/archive/pet_20260206_011641_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:16",
         "img": "/images/pets/archive/pet_20260206_011641__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:16",
         "img": "/images/pets/archive/pet_20260206_011659_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:16",
         "img": "/images/pets/archive/pet_20260206_011659__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -13371,245 +13371,245 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "01:15",
         "img": "/images/pets/archive/pet_20260206_011531_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:15",
         "img": "/images/pets/archive/pet_20260206_011531__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:15",
         "img": "/images/pets/archive/pet_20260206_011537_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:15",
         "img": "/images/pets/archive/pet_20260206_011537__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:15",
         "img": "/images/pets/archive/pet_20260206_011554_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:15",
         "img": "/images/pets/archive/pet_20260206_011554__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:14",
         "img": "/images/pets/archive/pet_20260206_011415_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:14",
         "img": "/images/pets/archive/pet_20260206_011415__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:14",
         "img": "/images/pets/archive/pet_20260206_011426_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:14",
         "img": "/images/pets/archive/pet_20260206_011426__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:14",
         "img": "/images/pets/archive/pet_20260206_011432_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:14",
         "img": "/images/pets/archive/pet_20260206_011432__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:14",
         "img": "/images/pets/archive/pet_20260206_011450_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:14",
         "img": "/images/pets/archive/pet_20260206_011450__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:13",
         "img": "/images/pets/archive/pet_20260206_011310_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:13",
         "img": "/images/pets/archive/pet_20260206_011310__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:13",
         "img": "/images/pets/archive/pet_20260206_011322_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:13",
         "img": "/images/pets/archive/pet_20260206_011322__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:13",
         "img": "/images/pets/archive/pet_20260206_011328_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:13",
         "img": "/images/pets/archive/pet_20260206_011328__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:13",
         "img": "/images/pets/archive/pet_20260206_011345_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:13",
         "img": "/images/pets/archive/pet_20260206_011345__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:12",
         "img": "/images/pets/archive/pet_20260206_011206_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:12",
         "img": "/images/pets/archive/pet_20260206_011206__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:12",
         "img": "/images/pets/archive/pet_20260206_011217_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:12",
         "img": "/images/pets/archive/pet_20260206_011217__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:12",
         "img": "/images/pets/archive/pet_20260206_011223__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:12",
         "img": "/images/pets/archive/pet_20260206_011240__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:11",
         "img": "/images/pets/archive/pet_20260206_011101__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:11",
         "img": "/images/pets/archive/pet_20260206_011113__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:11",
         "img": "/images/pets/archive/pet_20260206_011119__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:11",
         "img": "/images/pets/archive/pet_20260206_011136__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:10",
         "img": "/images/pets/archive/pet_20260206_011008__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:10",
         "img": "/images/pets/archive/pet_20260206_011014__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:10",
         "img": "/images/pets/archive/pet_20260206_011031__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -13623,651 +13623,651 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "01:09",
         "img": "/images/pets/archive/pet_20260206_010903__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:09",
         "img": "/images/pets/archive/pet_20260206_010909__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:09",
         "img": "/images/pets/archive/pet_20260206_010957__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:08",
         "img": "/images/pets/archive/pet_20260206_010805__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:08",
         "img": "/images/pets/archive/pet_20260206_010821__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:08",
         "img": "/images/pets/archive/pet_20260206_010852__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:07",
         "img": "/images/pets/archive/pet_20260206_010700_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:07",
         "img": "/images/pets/archive/pet_20260206_010700__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:07",
         "img": "/images/pets/archive/pet_20260206_010716_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:07",
         "img": "/images/pets/archive/pet_20260206_010716__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:07",
         "img": "/images/pets/archive/pet_20260206_010743__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:07",
         "img": "/images/pets/archive/pet_20260206_010747_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:07",
         "img": "/images/pets/archive/pet_20260206_010747__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:07",
         "img": "/images/pets/archive/pet_20260206_010758_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:07",
         "img": "/images/pets/archive/pet_20260206_010758__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:06",
         "img": "/images/pets/archive/pet_20260206_010612__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:06",
         "img": "/images/pets/archive/pet_20260206_010638__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:06",
         "img": "/images/pets/archive/pet_20260206_010643_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:06",
         "img": "/images/pets/archive/pet_20260206_010643__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:06",
         "img": "/images/pets/archive/pet_20260206_010654_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:06",
         "img": "/images/pets/archive/pet_20260206_010654__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:05",
         "img": "/images/pets/archive/pet_20260206_010507__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:05",
         "img": "/images/pets/archive/pet_20260206_010533__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:05",
         "img": "/images/pets/archive/pet_20260206_010538_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:05",
         "img": "/images/pets/archive/pet_20260206_010538__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:05",
         "img": "/images/pets/archive/pet_20260206_010549_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:05",
         "img": "/images/pets/archive/pet_20260206_010549__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:05",
         "img": "/images/pets/archive/pet_20260206_010555_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:05",
         "img": "/images/pets/archive/pet_20260206_010555__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:04",
         "img": "/images/pets/archive/pet_20260206_010403__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:04",
         "img": "/images/pets/archive/pet_20260206_010429__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:04",
         "img": "/images/pets/archive/pet_20260206_010434__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:04",
         "img": "/images/pets/archive/pet_20260206_010445__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:04",
         "img": "/images/pets/archive/pet_20260206_010451_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:04",
         "img": "/images/pets/archive/pet_20260206_010451__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:03",
         "img": "/images/pets/archive/pet_20260206_010324__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:03",
         "img": "/images/pets/archive/pet_20260206_010329__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:03",
         "img": "/images/pets/archive/pet_20260206_010340_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:03",
         "img": "/images/pets/archive/pet_20260206_010340__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:03",
         "img": "/images/pets/archive/pet_20260206_010346_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:03",
         "img": "/images/pets/archive/pet_20260206_010346__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:02",
         "img": "/images/pets/archive/pet_20260206_010220__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:02",
         "img": "/images/pets/archive/pet_20260206_010224_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:02",
         "img": "/images/pets/archive/pet_20260206_010224__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:02",
         "img": "/images/pets/archive/pet_20260206_010235__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:02",
         "img": "/images/pets/archive/pet_20260206_010241__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:02",
         "img": "/images/pets/archive/pet_20260206_010258__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:01",
         "img": "/images/pets/archive/pet_20260206_010115_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:01",
         "img": "/images/pets/archive/pet_20260206_010115__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:01",
         "img": "/images/pets/archive/pet_20260206_010120_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:01",
         "img": "/images/pets/archive/pet_20260206_010120__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:01",
         "img": "/images/pets/archive/pet_20260206_010131__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:01",
         "img": "/images/pets/archive/pet_20260206_010137_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:01",
         "img": "/images/pets/archive/pet_20260206_010137__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:01",
         "img": "/images/pets/archive/pet_20260206_010154_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:01",
         "img": "/images/pets/archive/pet_20260206_010154__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260206_010010_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260206_010010__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260206_010015_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260206_010015__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260206_010026__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260206_010028_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260206_010028__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260206_010032_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260206_010032__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260206_010049_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260206_010049__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:59",
         "img": "/images/pets/archive/pet_20260206_005906_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:59",
         "img": "/images/pets/archive/pet_20260206_005906__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:59",
         "img": "/images/pets/archive/pet_20260206_005911_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:59",
         "img": "/images/pets/archive/pet_20260206_005911__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:59",
         "img": "/images/pets/archive/pet_20260206_005921__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:59",
         "img": "/images/pets/archive/pet_20260206_005928__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:59",
         "img": "/images/pets/archive/pet_20260206_005944_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:59",
         "img": "/images/pets/archive/pet_20260206_005944__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:58",
         "img": "/images/pets/archive/pet_20260206_005801_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:58",
         "img": "/images/pets/archive/pet_20260206_005801__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:58",
         "img": "/images/pets/archive/pet_20260206_005806__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:58",
         "img": "/images/pets/archive/pet_20260206_005817__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:58",
         "img": "/images/pets/archive/pet_20260206_005823_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:58",
         "img": "/images/pets/archive/pet_20260206_005823__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:58",
         "img": "/images/pets/archive/pet_20260206_005840__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:57",
         "img": "/images/pets/archive/pet_20260206_005702_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:57",
         "img": "/images/pets/archive/pet_20260206_005702__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:57",
         "img": "/images/pets/archive/pet_20260206_005712__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:57",
         "img": "/images/pets/archive/pet_20260206_005719__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:57",
         "img": "/images/pets/archive/pet_20260206_005735__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:56",
         "img": "/images/pets/archive/pet_20260206_005607_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:56",
         "img": "/images/pets/archive/pet_20260206_005607__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:56",
         "img": "/images/pets/archive/pet_20260206_005614__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:56",
         "img": "/images/pets/archive/pet_20260206_005631_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:56",
         "img": "/images/pets/archive/pet_20260206_005631__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:56",
         "img": "/images/pets/archive/pet_20260206_005657__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -14281,175 +14281,175 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "00:55",
         "img": "/images/pets/archive/pet_20260206_005503__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:55",
         "img": "/images/pets/archive/pet_20260206_005510__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:55",
         "img": "/images/pets/archive/pet_20260206_005552__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:55",
         "img": "/images/pets/archive/pet_20260206_005557__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:54",
         "img": "/images/pets/archive/pet_20260206_005405_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:54",
         "img": "/images/pets/archive/pet_20260206_005405__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:54",
         "img": "/images/pets/archive/pet_20260206_005422__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:54",
         "img": "/images/pets/archive/pet_20260206_005447__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:54",
         "img": "/images/pets/archive/pet_20260206_005453__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:53",
         "img": "/images/pets/archive/pet_20260206_005301_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:53",
         "img": "/images/pets/archive/pet_20260206_005301__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:53",
         "img": "/images/pets/archive/pet_20260206_005317_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:53",
         "img": "/images/pets/archive/pet_20260206_005317__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:53",
         "img": "/images/pets/archive/pet_20260206_005343__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:53",
         "img": "/images/pets/archive/pet_20260206_005348__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:53",
         "img": "/images/pets/archive/pet_20260206_005358_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:53",
         "img": "/images/pets/archive/pet_20260206_005358__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:52",
         "img": "/images/pets/archive/pet_20260206_005213_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:52",
         "img": "/images/pets/archive/pet_20260206_005213__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:52",
         "img": "/images/pets/archive/pet_20260206_005238_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:52",
         "img": "/images/pets/archive/pet_20260206_005238__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:52",
         "img": "/images/pets/archive/pet_20260206_005243_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:52",
         "img": "/images/pets/archive/pet_20260206_005243__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:52",
         "img": "/images/pets/archive/pet_20260206_005253_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:52",
         "img": "/images/pets/archive/pet_20260206_005253__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -14470,2310 +14470,2310 @@ const petImagesData = {
         "date": "2026-02-06",
         "time": "00:51",
         "img": "/images/pets/archive/pet_20260206_005107__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:51",
         "img": "/images/pets/archive/pet_20260206_005134__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:51",
         "img": "/images/pets/archive/pet_20260206_005156__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:50",
         "img": "/images/pets/archive/pet_20260206_005003__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:50",
         "img": "/images/pets/archive/pet_20260206_005029__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:50",
         "img": "/images/pets/archive/pet_20260206_005034__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:50",
         "img": "/images/pets/archive/pet_20260206_005044__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:50",
         "img": "/images/pets/archive/pet_20260206_005052__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:49",
         "img": "/images/pets/archive/pet_20260206_004924__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:49",
         "img": "/images/pets/archive/pet_20260206_004929__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:49",
         "img": "/images/pets/archive/pet_20260206_004940__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:49",
         "img": "/images/pets/archive/pet_20260206_004947__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:48",
         "img": "/images/pets/archive/pet_20260206_004820__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:48",
         "img": "/images/pets/archive/pet_20260206_004825__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:48",
         "img": "/images/pets/archive/pet_20260206_004835__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:48",
         "img": "/images/pets/archive/pet_20260206_004842__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:48",
         "img": "/images/pets/archive/pet_20260206_004858__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:47",
         "img": "/images/pets/archive/pet_20260206_004715__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:47",
         "img": "/images/pets/archive/pet_20260206_004720__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:47",
         "img": "/images/pets/archive/pet_20260206_004730__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:47",
         "img": "/images/pets/archive/pet_20260206_004738__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:47",
         "img": "/images/pets/archive/pet_20260206_004754__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:46",
         "img": "/images/pets/archive/pet_20260206_004611__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:46",
         "img": "/images/pets/archive/pet_20260206_004616__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:46",
         "img": "/images/pets/archive/pet_20260206_004626__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:46",
         "img": "/images/pets/archive/pet_20260206_004633__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:46",
         "img": "/images/pets/archive/pet_20260206_004649__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:45",
         "img": "/images/pets/archive/pet_20260206_004506__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:45",
         "img": "/images/pets/archive/pet_20260206_004512_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:45",
         "img": "/images/pets/archive/pet_20260206_004512__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:45",
         "img": "/images/pets/archive/pet_20260206_004521_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:45",
         "img": "/images/pets/archive/pet_20260206_004521__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:45",
         "img": "/images/pets/archive/pet_20260206_004529__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:45",
         "img": "/images/pets/archive/pet_20260206_004544__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:44",
         "img": "/images/pets/archive/pet_20260206_004401_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:44",
         "img": "/images/pets/archive/pet_20260206_004401__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:44",
         "img": "/images/pets/archive/pet_20260206_004407__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:44",
         "img": "/images/pets/archive/pet_20260206_004417__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:44",
         "img": "/images/pets/archive/pet_20260206_004424__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:44",
         "img": "/images/pets/archive/pet_20260206_004440__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:43",
         "img": "/images/pets/archive/pet_20260206_004302_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:43",
         "img": "/images/pets/archive/pet_20260206_004302__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:43",
         "img": "/images/pets/archive/pet_20260206_004312_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:43",
         "img": "/images/pets/archive/pet_20260206_004312__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:43",
         "img": "/images/pets/archive/pet_20260206_004319_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:43",
         "img": "/images/pets/archive/pet_20260206_004319__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:43",
         "img": "/images/pets/archive/pet_20260206_004335__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:42",
         "img": "/images/pets/archive/pet_20260206_004207_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:42",
         "img": "/images/pets/archive/pet_20260206_004207__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:42",
         "img": "/images/pets/archive/pet_20260206_004215_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:42",
         "img": "/images/pets/archive/pet_20260206_004215__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:42",
         "img": "/images/pets/archive/pet_20260206_004231_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:42",
         "img": "/images/pets/archive/pet_20260206_004231__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:42",
         "img": "/images/pets/archive/pet_20260206_004257__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:41",
         "img": "/images/pets/archive/pet_20260206_004103_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:41",
         "img": "/images/pets/archive/pet_20260206_004103__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:41",
         "img": "/images/pets/archive/pet_20260206_004110__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:41",
         "img": "/images/pets/archive/pet_20260206_004126__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:41",
         "img": "/images/pets/archive/pet_20260206_004152_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:41",
         "img": "/images/pets/archive/pet_20260206_004152__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:41",
         "img": "/images/pets/archive/pet_20260206_004158__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:40",
         "img": "/images/pets/archive/pet_20260206_004006__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:40",
         "img": "/images/pets/archive/pet_20260206_004022__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:40",
         "img": "/images/pets/archive/pet_20260206_004048_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:40",
         "img": "/images/pets/archive/pet_20260206_004048__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:40",
         "img": "/images/pets/archive/pet_20260206_004053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:39",
         "img": "/images/pets/archive/pet_20260206_003901_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:39",
         "img": "/images/pets/archive/pet_20260206_003901__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:39",
         "img": "/images/pets/archive/pet_20260206_003917__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:39",
         "img": "/images/pets/archive/pet_20260206_003943__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:39",
         "img": "/images/pets/archive/pet_20260206_003948_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:39",
         "img": "/images/pets/archive/pet_20260206_003948__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:39",
         "img": "/images/pets/archive/pet_20260206_003958_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:39",
         "img": "/images/pets/archive/pet_20260206_003958__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:38",
         "img": "/images/pets/archive/pet_20260206_003812_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:38",
         "img": "/images/pets/archive/pet_20260206_003812__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:38",
         "img": "/images/pets/archive/pet_20260206_003839_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:38",
         "img": "/images/pets/archive/pet_20260206_003839__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:38",
         "img": "/images/pets/archive/pet_20260206_003844_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:38",
         "img": "/images/pets/archive/pet_20260206_003844__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:38",
         "img": "/images/pets/archive/pet_20260206_003853__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:37",
         "img": "/images/pets/archive/pet_20260206_003708__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:37",
         "img": "/images/pets/archive/pet_20260206_003734_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:37",
         "img": "/images/pets/archive/pet_20260206_003734__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:37",
         "img": "/images/pets/archive/pet_20260206_003739_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:37",
         "img": "/images/pets/archive/pet_20260206_003739__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:37",
         "img": "/images/pets/archive/pet_20260206_003749__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:37",
         "img": "/images/pets/archive/pet_20260206_003756_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:37",
         "img": "/images/pets/archive/pet_20260206_003756__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:36",
         "img": "/images/pets/archive/pet_20260206_003603_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:36",
         "img": "/images/pets/archive/pet_20260206_003603__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:36",
         "img": "/images/pets/archive/pet_20260206_003629_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:36",
         "img": "/images/pets/archive/pet_20260206_003629__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:36",
         "img": "/images/pets/archive/pet_20260206_003634_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:36",
         "img": "/images/pets/archive/pet_20260206_003634__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:36",
         "img": "/images/pets/archive/pet_20260206_003644_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:36",
         "img": "/images/pets/archive/pet_20260206_003644__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:36",
         "img": "/images/pets/archive/pet_20260206_003652_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:36",
         "img": "/images/pets/archive/pet_20260206_003652__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:35",
         "img": "/images/pets/archive/pet_20260206_003524__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:35",
         "img": "/images/pets/archive/pet_20260206_003530__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:35",
         "img": "/images/pets/archive/pet_20260206_003539__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:35",
         "img": "/images/pets/archive/pet_20260206_003547_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:35",
         "img": "/images/pets/archive/pet_20260206_003547__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:34",
         "img": "/images/pets/archive/pet_20260206_003420_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:34",
         "img": "/images/pets/archive/pet_20260206_003420__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:34",
         "img": "/images/pets/archive/pet_20260206_003421_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:34",
         "img": "/images/pets/archive/pet_20260206_003421__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:34",
         "img": "/images/pets/archive/pet_20260206_003435_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:34",
         "img": "/images/pets/archive/pet_20260206_003435__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:34",
         "img": "/images/pets/archive/pet_20260206_003442__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:34",
         "img": "/images/pets/archive/pet_20260206_003458_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:34",
         "img": "/images/pets/archive/pet_20260206_003458__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:33",
         "img": "/images/pets/archive/pet_20260206_003315__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:33",
         "img": "/images/pets/archive/pet_20260206_003316__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:33",
         "img": "/images/pets/archive/pet_20260206_003330_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:33",
         "img": "/images/pets/archive/pet_20260206_003330__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:33",
         "img": "/images/pets/archive/pet_20260206_003338_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:33",
         "img": "/images/pets/archive/pet_20260206_003338__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:33",
         "img": "/images/pets/archive/pet_20260206_003354_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:33",
         "img": "/images/pets/archive/pet_20260206_003354__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:32",
         "img": "/images/pets/archive/pet_20260206_003211_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:32",
         "img": "/images/pets/archive/pet_20260206_003211__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:32",
         "img": "/images/pets/archive/pet_20260206_003212_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:32",
         "img": "/images/pets/archive/pet_20260206_003212__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:32",
         "img": "/images/pets/archive/pet_20260206_003225__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:32",
         "img": "/images/pets/archive/pet_20260206_003233__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:32",
         "img": "/images/pets/archive/pet_20260206_003249_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:32",
         "img": "/images/pets/archive/pet_20260206_003249__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:31",
         "img": "/images/pets/archive/pet_20260206_003106__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:31",
         "img": "/images/pets/archive/pet_20260206_003107__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:31",
         "img": "/images/pets/archive/pet_20260206_003120_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:31",
         "img": "/images/pets/archive/pet_20260206_003120__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:31",
         "img": "/images/pets/archive/pet_20260206_003129_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:31",
         "img": "/images/pets/archive/pet_20260206_003129__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:31",
         "img": "/images/pets/archive/pet_20260206_003145_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:31",
         "img": "/images/pets/archive/pet_20260206_003145__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260206_003002_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260206_003002__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260206_003016_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260206_003016__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260206_003024_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260206_003024__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260206_003040_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260206_003040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260206_003045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:30",
         "img": "/images/pets/archive/pet_20260206_003045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:29",
         "img": "/images/pets/archive/pet_20260206_002911_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:29",
         "img": "/images/pets/archive/pet_20260206_002911__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:29",
         "img": "/images/pets/archive/pet_20260206_002919_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:29",
         "img": "/images/pets/archive/pet_20260206_002919__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:29",
         "img": "/images/pets/archive/pet_20260206_002936__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:28",
         "img": "/images/pets/archive/pet_20260206_002806_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:28",
         "img": "/images/pets/archive/pet_20260206_002806__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:28",
         "img": "/images/pets/archive/pet_20260206_002815_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:28",
         "img": "/images/pets/archive/pet_20260206_002815__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:28",
         "img": "/images/pets/archive/pet_20260206_002831_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:28",
         "img": "/images/pets/archive/pet_20260206_002831__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:28",
         "img": "/images/pets/archive/pet_20260206_002857_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:28",
         "img": "/images/pets/archive/pet_20260206_002857__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:28",
         "img": "/images/pets/archive/pet_20260206_002858_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:28",
         "img": "/images/pets/archive/pet_20260206_002858__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:27",
         "img": "/images/pets/archive/pet_20260206_002702_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:27",
         "img": "/images/pets/archive/pet_20260206_002702__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:27",
         "img": "/images/pets/archive/pet_20260206_002710_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:27",
         "img": "/images/pets/archive/pet_20260206_002710__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:27",
         "img": "/images/pets/archive/pet_20260206_002726_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:27",
         "img": "/images/pets/archive/pet_20260206_002726__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:27",
         "img": "/images/pets/archive/pet_20260206_002753_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:27",
         "img": "/images/pets/archive/pet_20260206_002753__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:26",
         "img": "/images/pets/archive/pet_20260206_002606__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:26",
         "img": "/images/pets/archive/pet_20260206_002622_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:26",
         "img": "/images/pets/archive/pet_20260206_002622__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:26",
         "img": "/images/pets/archive/pet_20260206_002648__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:26",
         "img": "/images/pets/archive/pet_20260206_002649__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:25",
         "img": "/images/pets/archive/pet_20260206_002501__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:25",
         "img": "/images/pets/archive/pet_20260206_002517__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:25",
         "img": "/images/pets/archive/pet_20260206_002543__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:25",
         "img": "/images/pets/archive/pet_20260206_002544__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:25",
         "img": "/images/pets/archive/pet_20260206_002557__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:24",
         "img": "/images/pets/archive/pet_20260206_002412_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:24",
         "img": "/images/pets/archive/pet_20260206_002412__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:24",
         "img": "/images/pets/archive/pet_20260206_002439_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:24",
         "img": "/images/pets/archive/pet_20260206_002439__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:24",
         "img": "/images/pets/archive/pet_20260206_002452_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:24",
         "img": "/images/pets/archive/pet_20260206_002452__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:23",
         "img": "/images/pets/archive/pet_20260206_002307_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:23",
         "img": "/images/pets/archive/pet_20260206_002307__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:23",
         "img": "/images/pets/archive/pet_20260206_002334__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:23",
         "img": "/images/pets/archive/pet_20260206_002335__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:23",
         "img": "/images/pets/archive/pet_20260206_002348_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:23",
         "img": "/images/pets/archive/pet_20260206_002348__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:23",
         "img": "/images/pets/archive/pet_20260206_002356_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:23",
         "img": "/images/pets/archive/pet_20260206_002356__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:22",
         "img": "/images/pets/archive/pet_20260206_002203_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:22",
         "img": "/images/pets/archive/pet_20260206_002203__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:22",
         "img": "/images/pets/archive/pet_20260206_002230_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:22",
         "img": "/images/pets/archive/pet_20260206_002230__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:22",
         "img": "/images/pets/archive/pet_20260206_002243_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:22",
         "img": "/images/pets/archive/pet_20260206_002243__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:22",
         "img": "/images/pets/archive/pet_20260206_002251_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:22",
         "img": "/images/pets/archive/pet_20260206_002251__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:21",
         "img": "/images/pets/archive/pet_20260206_002125__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:21",
         "img": "/images/pets/archive/pet_20260206_002139_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:21",
         "img": "/images/pets/archive/pet_20260206_002139__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:21",
         "img": "/images/pets/archive/pet_20260206_002147__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:20",
         "img": "/images/pets/archive/pet_20260206_002020__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:20",
         "img": "/images/pets/archive/pet_20260206_002021__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:20",
         "img": "/images/pets/archive/pet_20260206_002034__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:20",
         "img": "/images/pets/archive/pet_20260206_002042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:20",
         "img": "/images/pets/archive/pet_20260206_002058_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:20",
         "img": "/images/pets/archive/pet_20260206_002058__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:19",
         "img": "/images/pets/archive/pet_20260206_001916__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:19",
         "img": "/images/pets/archive/pet_20260206_001928_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:19",
         "img": "/images/pets/archive/pet_20260206_001928__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:19",
         "img": "/images/pets/archive/pet_20260206_001938__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:19",
         "img": "/images/pets/archive/pet_20260206_001954_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:19",
         "img": "/images/pets/archive/pet_20260206_001954__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:18",
         "img": "/images/pets/archive/pet_20260206_001811__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:18",
         "img": "/images/pets/archive/pet_20260206_001812__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:18",
         "img": "/images/pets/archive/pet_20260206_001824__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:18",
         "img": "/images/pets/archive/pet_20260206_001833_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:18",
         "img": "/images/pets/archive/pet_20260206_001833__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:18",
         "img": "/images/pets/archive/pet_20260206_001849__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:17",
         "img": "/images/pets/archive/pet_20260206_001706_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:17",
         "img": "/images/pets/archive/pet_20260206_001706__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:17",
         "img": "/images/pets/archive/pet_20260206_001707_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:17",
         "img": "/images/pets/archive/pet_20260206_001707__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:17",
         "img": "/images/pets/archive/pet_20260206_001719__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:17",
         "img": "/images/pets/archive/pet_20260206_001728__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:17",
         "img": "/images/pets/archive/pet_20260206_001744__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:16",
         "img": "/images/pets/archive/pet_20260206_001602__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:16",
         "img": "/images/pets/archive/pet_20260206_001614__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:16",
         "img": "/images/pets/archive/pet_20260206_001624__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:16",
         "img": "/images/pets/archive/pet_20260206_001640__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:15",
         "img": "/images/pets/archive/pet_20260206_001510_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:15",
         "img": "/images/pets/archive/pet_20260206_001510__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:15",
         "img": "/images/pets/archive/pet_20260206_001519__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:15",
         "img": "/images/pets/archive/pet_20260206_001535__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:14",
         "img": "/images/pets/archive/pet_20260206_001405__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:14",
         "img": "/images/pets/archive/pet_20260206_001415__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:14",
         "img": "/images/pets/archive/pet_20260206_001430__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:14",
         "img": "/images/pets/archive/pet_20260206_001457_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:14",
         "img": "/images/pets/archive/pet_20260206_001457__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:14",
         "img": "/images/pets/archive/pet_20260206_001458_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:14",
         "img": "/images/pets/archive/pet_20260206_001458__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:13",
         "img": "/images/pets/archive/pet_20260206_001301_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:13",
         "img": "/images/pets/archive/pet_20260206_001301__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:13",
         "img": "/images/pets/archive/pet_20260206_001310__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:13",
         "img": "/images/pets/archive/pet_20260206_001326__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:13",
         "img": "/images/pets/archive/pet_20260206_001353_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:13",
         "img": "/images/pets/archive/pet_20260206_001353__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:12",
         "img": "/images/pets/archive/pet_20260206_001206__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:12",
         "img": "/images/pets/archive/pet_20260206_001221__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:12",
         "img": "/images/pets/archive/pet_20260206_001248__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:12",
         "img": "/images/pets/archive/pet_20260206_001249__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:11",
         "img": "/images/pets/archive/pet_20260206_001101__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:11",
         "img": "/images/pets/archive/pet_20260206_001116__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:11",
         "img": "/images/pets/archive/pet_20260206_001144__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:11",
         "img": "/images/pets/archive/pet_20260206_001156_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:11",
         "img": "/images/pets/archive/pet_20260206_001156__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:10",
         "img": "/images/pets/archive/pet_20260206_001012_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:10",
         "img": "/images/pets/archive/pet_20260206_001012__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:10",
         "img": "/images/pets/archive/pet_20260206_001039__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:10",
         "img": "/images/pets/archive/pet_20260206_001052_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:10",
         "img": "/images/pets/archive/pet_20260206_001052__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:09",
         "img": "/images/pets/archive/pet_20260206_000907__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:09",
         "img": "/images/pets/archive/pet_20260206_000934__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:09",
         "img": "/images/pets/archive/pet_20260206_000935__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:09",
         "img": "/images/pets/archive/pet_20260206_000947_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:09",
         "img": "/images/pets/archive/pet_20260206_000947__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:09",
         "img": "/images/pets/archive/pet_20260206_000956__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:08",
         "img": "/images/pets/archive/pet_20260206_000802__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:08",
         "img": "/images/pets/archive/pet_20260206_000829__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:08",
         "img": "/images/pets/archive/pet_20260206_000830__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:08",
         "img": "/images/pets/archive/pet_20260206_000842__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:08",
         "img": "/images/pets/archive/pet_20260206_000852_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:08",
         "img": "/images/pets/archive/pet_20260206_000852__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:07",
         "img": "/images/pets/archive/pet_20260206_000725__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:07",
         "img": "/images/pets/archive/pet_20260206_000738__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:07",
         "img": "/images/pets/archive/pet_20260206_000747__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:06",
         "img": "/images/pets/archive/pet_20260206_000620_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:06",
         "img": "/images/pets/archive/pet_20260206_000620__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:06",
         "img": "/images/pets/archive/pet_20260206_000633_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:06",
         "img": "/images/pets/archive/pet_20260206_000633__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:06",
         "img": "/images/pets/archive/pet_20260206_000642_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:06",
         "img": "/images/pets/archive/pet_20260206_000642__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:06",
         "img": "/images/pets/archive/pet_20260206_000657__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:05",
         "img": "/images/pets/archive/pet_20260206_000515__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:05",
         "img": "/images/pets/archive/pet_20260206_000516__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:05",
         "img": "/images/pets/archive/pet_20260206_000529__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:05",
         "img": "/images/pets/archive/pet_20260206_000537__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:05",
         "img": "/images/pets/archive/pet_20260206_000553__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:04",
         "img": "/images/pets/archive/pet_20260206_000411__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:04",
         "img": "/images/pets/archive/pet_20260206_000420__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:04",
         "img": "/images/pets/archive/pet_20260206_000433__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:04",
         "img": "/images/pets/archive/pet_20260206_000448__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:03",
         "img": "/images/pets/archive/pet_20260206_000306_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:03",
         "img": "/images/pets/archive/pet_20260206_000306__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:03",
         "img": "/images/pets/archive/pet_20260206_000316_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:03",
         "img": "/images/pets/archive/pet_20260206_000316__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:03",
         "img": "/images/pets/archive/pet_20260206_000328__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:03",
         "img": "/images/pets/archive/pet_20260206_000343_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:03",
         "img": "/images/pets/archive/pet_20260206_000343__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:02",
         "img": "/images/pets/archive/pet_20260206_000201_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:02",
         "img": "/images/pets/archive/pet_20260206_000201__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:02",
         "img": "/images/pets/archive/pet_20260206_000211_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:02",
         "img": "/images/pets/archive/pet_20260206_000211__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:02",
         "img": "/images/pets/archive/pet_20260206_000223_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:02",
         "img": "/images/pets/archive/pet_20260206_000223__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:02",
         "img": "/images/pets/archive/pet_20260206_000239_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:02",
         "img": "/images/pets/archive/pet_20260206_000239__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260206_000106_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260206_000106__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260206_000118_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260206_000118__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260206_000121_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260206_000121__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260206_000134_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260206_000134__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260206_000002_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260206_000002__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260206_000014_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260206_000014__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260206_000030_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260206_000030__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260206_000056_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260206_000056__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260206_000057_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-06",
         "time": "00:00",
         "img": "/images/pets/archive/pet_20260206_000057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -16782,252 +16782,252 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:59",
         "img": "/images/pets/archive/pet_20260205_235909_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:59",
         "img": "/images/pets/archive/pet_20260205_235909__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:59",
         "img": "/images/pets/archive/pet_20260205_235925_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:59",
         "img": "/images/pets/archive/pet_20260205_235925__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:59",
         "img": "/images/pets/archive/pet_20260205_235951_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:59",
         "img": "/images/pets/archive/pet_20260205_235951__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:59",
         "img": "/images/pets/archive/pet_20260205_235952_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:59",
         "img": "/images/pets/archive/pet_20260205_235952__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:58",
         "img": "/images/pets/archive/pet_20260205_235804_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:58",
         "img": "/images/pets/archive/pet_20260205_235804__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:58",
         "img": "/images/pets/archive/pet_20260205_235820_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:58",
         "img": "/images/pets/archive/pet_20260205_235820__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:58",
         "img": "/images/pets/archive/pet_20260205_235847_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:58",
         "img": "/images/pets/archive/pet_20260205_235847__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:58",
         "img": "/images/pets/archive/pet_20260205_235857_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:58",
         "img": "/images/pets/archive/pet_20260205_235857__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:57",
         "img": "/images/pets/archive/pet_20260205_235700_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:57",
         "img": "/images/pets/archive/pet_20260205_235700__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:57",
         "img": "/images/pets/archive/pet_20260205_235715_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:57",
         "img": "/images/pets/archive/pet_20260205_235715__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:57",
         "img": "/images/pets/archive/pet_20260205_235742_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:57",
         "img": "/images/pets/archive/pet_20260205_235742__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:57",
         "img": "/images/pets/archive/pet_20260205_235752_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:57",
         "img": "/images/pets/archive/pet_20260205_235752__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:56",
         "img": "/images/pets/archive/pet_20260205_235611__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:56",
         "img": "/images/pets/archive/pet_20260205_235637__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:56",
         "img": "/images/pets/archive/pet_20260205_235648_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:56",
         "img": "/images/pets/archive/pet_20260205_235648__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:55",
         "img": "/images/pets/archive/pet_20260205_235506__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:55",
         "img": "/images/pets/archive/pet_20260205_235543__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:55",
         "img": "/images/pets/archive/pet_20260205_235555_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:55",
         "img": "/images/pets/archive/pet_20260205_235555__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:54",
         "img": "/images/pets/archive/pet_20260205_235401_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:54",
         "img": "/images/pets/archive/pet_20260205_235401__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:54",
         "img": "/images/pets/archive/pet_20260205_235438__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:54",
         "img": "/images/pets/archive/pet_20260205_235451__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17041,7 +17041,7 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:53",
         "img": "/images/pets/archive/pet_20260205_235346__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17062,7 +17062,7 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:52",
         "img": "/images/pets/archive/pet_20260205_235229__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17076,42 +17076,42 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:51",
         "img": "/images/pets/archive/pet_20260205_235136__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:51",
         "img": "/images/pets/archive/pet_20260205_235152__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:50",
         "img": "/images/pets/archive/pet_20260205_235020__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:50",
         "img": "/images/pets/archive/pet_20260205_235032__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:50",
         "img": "/images/pets/archive/pet_20260205_235047_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:50",
         "img": "/images/pets/archive/pet_20260205_235047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17139,91 +17139,91 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:48",
         "img": "/images/pets/archive/pet_20260205_234810__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:48",
         "img": "/images/pets/archive/pet_20260205_234823__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:48",
         "img": "/images/pets/archive/pet_20260205_234838__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:47",
         "img": "/images/pets/archive/pet_20260205_234706__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:47",
         "img": "/images/pets/archive/pet_20260205_234718__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:47",
         "img": "/images/pets/archive/pet_20260205_234733__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:46",
         "img": "/images/pets/archive/pet_20260205_234601__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:46",
         "img": "/images/pets/archive/pet_20260205_234613__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:46",
         "img": "/images/pets/archive/pet_20260205_234628_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:46",
         "img": "/images/pets/archive/pet_20260205_234628__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:45",
         "img": "/images/pets/archive/pet_20260205_234509_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:45",
         "img": "/images/pets/archive/pet_20260205_234509__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:45",
         "img": "/images/pets/archive/pet_20260205_234523__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17237,14 +17237,14 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:44",
         "img": "/images/pets/archive/pet_20260205_234419__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:44",
         "img": "/images/pets/archive/pet_20260205_234456__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17258,217 +17258,217 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:43",
         "img": "/images/pets/archive/pet_20260205_234352_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:43",
         "img": "/images/pets/archive/pet_20260205_234352__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:42",
         "img": "/images/pets/archive/pet_20260205_234209__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:42",
         "img": "/images/pets/archive/pet_20260205_234247_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:42",
         "img": "/images/pets/archive/pet_20260205_234247__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:42",
         "img": "/images/pets/archive/pet_20260205_234259__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:41",
         "img": "/images/pets/archive/pet_20260205_234105_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:41",
         "img": "/images/pets/archive/pet_20260205_234105__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:41",
         "img": "/images/pets/archive/pet_20260205_234142_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:41",
         "img": "/images/pets/archive/pet_20260205_234142__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:41",
         "img": "/images/pets/archive/pet_20260205_234155__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:40",
         "img": "/images/pets/archive/pet_20260205_234000_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:40",
         "img": "/images/pets/archive/pet_20260205_234000__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:40",
         "img": "/images/pets/archive/pet_20260205_234037__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:40",
         "img": "/images/pets/archive/pet_20260205_234050__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:39",
         "img": "/images/pets/archive/pet_20260205_233933_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:39",
         "img": "/images/pets/archive/pet_20260205_233933__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:39",
         "img": "/images/pets/archive/pet_20260205_233945_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:39",
         "img": "/images/pets/archive/pet_20260205_233945__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:38",
         "img": "/images/pets/archive/pet_20260205_233828_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:38",
         "img": "/images/pets/archive/pet_20260205_233828__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:38",
         "img": "/images/pets/archive/pet_20260205_233841_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:38",
         "img": "/images/pets/archive/pet_20260205_233841__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:38",
         "img": "/images/pets/archive/pet_20260205_233855_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:38",
         "img": "/images/pets/archive/pet_20260205_233855__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:37",
         "img": "/images/pets/archive/pet_20260205_233723_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:37",
         "img": "/images/pets/archive/pet_20260205_233723__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:37",
         "img": "/images/pets/archive/pet_20260205_233736_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:37",
         "img": "/images/pets/archive/pet_20260205_233736__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:37",
         "img": "/images/pets/archive/pet_20260205_233750_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:37",
         "img": "/images/pets/archive/pet_20260205_233750__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17489,14 +17489,14 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:36",
         "img": "/images/pets/archive/pet_20260205_233619_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:36",
         "img": "/images/pets/archive/pet_20260205_233619__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17510,21 +17510,21 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:35",
         "img": "/images/pets/archive/pet_20260205_233514__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:35",
         "img": "/images/pets/archive/pet_20260205_233541_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:35",
         "img": "/images/pets/archive/pet_20260205_233541__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17538,42 +17538,42 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:34",
         "img": "/images/pets/archive/pet_20260205_233419_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:34",
         "img": "/images/pets/archive/pet_20260205_233419__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:34",
         "img": "/images/pets/archive/pet_20260205_233423_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:34",
         "img": "/images/pets/archive/pet_20260205_233423__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:34",
         "img": "/images/pets/archive/pet_20260205_233436_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:34",
         "img": "/images/pets/archive/pet_20260205_233436__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17587,42 +17587,42 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:33",
         "img": "/images/pets/archive/pet_20260205_233305_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:33",
         "img": "/images/pets/archive/pet_20260205_233305__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:33",
         "img": "/images/pets/archive/pet_20260205_233315_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:33",
         "img": "/images/pets/archive/pet_20260205_233315__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:33",
         "img": "/images/pets/archive/pet_20260205_233318_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:33",
         "img": "/images/pets/archive/pet_20260205_233318__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17636,28 +17636,28 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:32",
         "img": "/images/pets/archive/pet_20260205_233210__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:32",
         "img": "/images/pets/archive/pet_20260205_233213__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:32",
         "img": "/images/pets/archive/pet_20260205_233227_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:32",
         "img": "/images/pets/archive/pet_20260205_233227__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17720,56 +17720,56 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:29",
         "img": "/images/pets/archive/pet_20260205_232913_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:29",
         "img": "/images/pets/archive/pet_20260205_232913__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:28",
         "img": "/images/pets/archive/pet_20260205_232808_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:28",
         "img": "/images/pets/archive/pet_20260205_232808__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:28",
         "img": "/images/pets/archive/pet_20260205_232846_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:28",
         "img": "/images/pets/archive/pet_20260205_232846__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:28",
         "img": "/images/pets/archive/pet_20260205_232857_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:28",
         "img": "/images/pets/archive/pet_20260205_232857__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17804,77 +17804,77 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:26",
         "img": "/images/pets/archive/pet_20260205_232633_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:26",
         "img": "/images/pets/archive/pet_20260205_232633__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:26",
         "img": "/images/pets/archive/pet_20260205_232635_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:26",
         "img": "/images/pets/archive/pet_20260205_232635__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:25",
         "img": "/images/pets/archive/pet_20260205_232528__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:25",
         "img": "/images/pets/archive/pet_20260205_232531_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:25",
         "img": "/images/pets/archive/pet_20260205_232531__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:25",
         "img": "/images/pets/archive/pet_20260205_232543_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:25",
         "img": "/images/pets/archive/pet_20260205_232543__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:25",
         "img": "/images/pets/archive/pet_20260205_232559_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:25",
         "img": "/images/pets/archive/pet_20260205_232559__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17902,14 +17902,14 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:24",
         "img": "/images/pets/archive/pet_20260205_232455_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:24",
         "img": "/images/pets/archive/pet_20260205_232455__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17937,14 +17937,14 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:23",
         "img": "/images/pets/archive/pet_20260205_232302_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:23",
         "img": "/images/pets/archive/pet_20260205_232302__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -17958,35 +17958,35 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:22",
         "img": "/images/pets/archive/pet_20260205_232213_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:22",
         "img": "/images/pets/archive/pet_20260205_232213__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:22",
         "img": "/images/pets/archive/pet_20260205_232214_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:22",
         "img": "/images/pets/archive/pet_20260205_232214__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:22",
         "img": "/images/pets/archive/pet_20260205_232245__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18007,28 +18007,28 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:21",
         "img": "/images/pets/archive/pet_20260205_232140_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:21",
         "img": "/images/pets/archive/pet_20260205_232140__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:21",
         "img": "/images/pets/archive/pet_20260205_232158_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:21",
         "img": "/images/pets/archive/pet_20260205_232158__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18049,28 +18049,28 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:20",
         "img": "/images/pets/archive/pet_20260205_232020_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:20",
         "img": "/images/pets/archive/pet_20260205_232020__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:20",
         "img": "/images/pets/archive/pet_20260205_232036_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:20",
         "img": "/images/pets/archive/pet_20260205_232036__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18105,42 +18105,42 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:18",
         "img": "/images/pets/archive/pet_20260205_231826_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:18",
         "img": "/images/pets/archive/pet_20260205_231826__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:18",
         "img": "/images/pets/archive/pet_20260205_231844_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:18",
         "img": "/images/pets/archive/pet_20260205_231844__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:18",
         "img": "/images/pets/archive/pet_20260205_231859_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:18",
         "img": "/images/pets/archive/pet_20260205_231859__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18175,7 +18175,7 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:17",
         "img": "/images/pets/archive/pet_20260205_231706__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18196,42 +18196,42 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:16",
         "img": "/images/pets/archive/pet_20260205_231601_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:16",
         "img": "/images/pets/archive/pet_20260205_231601__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:16",
         "img": "/images/pets/archive/pet_20260205_231617_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:16",
         "img": "/images/pets/archive/pet_20260205_231617__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:16",
         "img": "/images/pets/archive/pet_20260205_231634_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:16",
         "img": "/images/pets/archive/pet_20260205_231634__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18252,28 +18252,28 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:15",
         "img": "/images/pets/archive/pet_20260205_231512_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:15",
         "img": "/images/pets/archive/pet_20260205_231512__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:15",
         "img": "/images/pets/archive/pet_20260205_231529_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:15",
         "img": "/images/pets/archive/pet_20260205_231529__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18343,70 +18343,70 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:13",
         "img": "/images/pets/archive/pet_20260205_231302_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:13",
         "img": "/images/pets/archive/pet_20260205_231302__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:12",
         "img": "/images/pets/archive/pet_20260205_231215_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:12",
         "img": "/images/pets/archive/pet_20260205_231215__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:12",
         "img": "/images/pets/archive/pet_20260205_231230_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:12",
         "img": "/images/pets/archive/pet_20260205_231230__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:12",
         "img": "/images/pets/archive/pet_20260205_231231_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:12",
         "img": "/images/pets/archive/pet_20260205_231231__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:12",
         "img": "/images/pets/archive/pet_20260205_231247_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:12",
         "img": "/images/pets/archive/pet_20260205_231247__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18434,70 +18434,70 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:11",
         "img": "/images/pets/archive/pet_20260205_231158_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:11",
         "img": "/images/pets/archive/pet_20260205_231158__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:10",
         "img": "/images/pets/archive/pet_20260205_231006_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:10",
         "img": "/images/pets/archive/pet_20260205_231006__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:10",
         "img": "/images/pets/archive/pet_20260205_231021__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:10",
         "img": "/images/pets/archive/pet_20260205_231022__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:10",
         "img": "/images/pets/archive/pet_20260205_231038_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:10",
         "img": "/images/pets/archive/pet_20260205_231038__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:10",
         "img": "/images/pets/archive/pet_20260205_231053_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:10",
         "img": "/images/pets/archive/pet_20260205_231053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18532,7 +18532,7 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:09",
         "img": "/images/pets/archive/pet_20260205_230901__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18546,14 +18546,14 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:08",
         "img": "/images/pets/archive/pet_20260205_230812__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:08",
         "img": "/images/pets/archive/pet_20260205_230829__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18581,84 +18581,84 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:07",
         "img": "/images/pets/archive/pet_20260205_230724__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:07",
         "img": "/images/pets/archive/pet_20260205_230739__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:06",
         "img": "/images/pets/archive/pet_20260205_230602_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:06",
         "img": "/images/pets/archive/pet_20260205_230602__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:06",
         "img": "/images/pets/archive/pet_20260205_230603_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:06",
         "img": "/images/pets/archive/pet_20260205_230603__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:06",
         "img": "/images/pets/archive/pet_20260205_230619_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:06",
         "img": "/images/pets/archive/pet_20260205_230619__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:06",
         "img": "/images/pets/archive/pet_20260205_230634_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:06",
         "img": "/images/pets/archive/pet_20260205_230634__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:06",
         "img": "/images/pets/archive/pet_20260205_230652_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:06",
         "img": "/images/pets/archive/pet_20260205_230652__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18672,28 +18672,28 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:05",
         "img": "/images/pets/archive/pet_20260205_230515_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:05",
         "img": "/images/pets/archive/pet_20260205_230515__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:05",
         "img": "/images/pets/archive/pet_20260205_230529_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:05",
         "img": "/images/pets/archive/pet_20260205_230529__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18742,35 +18742,35 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "23:03",
         "img": "/images/pets/archive/pet_20260205_230319_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:03",
         "img": "/images/pets/archive/pet_20260205_230319__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:03",
         "img": "/images/pets/archive/pet_20260205_230337_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:03",
         "img": "/images/pets/archive/pet_20260205_230337__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "23:03",
         "img": "/images/pets/archive/pet_20260205_230353__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18875,7 +18875,7 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "22:59",
         "img": "/images/pets/archive/pet_20260205_225934__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18889,28 +18889,28 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "22:58",
         "img": "/images/pets/archive/pet_20260205_225829__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:57",
         "img": "/images/pets/archive/pet_20260205_225709_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:57",
         "img": "/images/pets/archive/pet_20260205_225709__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:57",
         "img": "/images/pets/archive/pet_20260205_225724__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -18973,91 +18973,91 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "22:51",
         "img": "/images/pets/archive/pet_20260205_225145__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:51",
         "img": "/images/pets/archive/pet_20260205_225159_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:51",
         "img": "/images/pets/archive/pet_20260205_225159__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:50",
         "img": "/images/pets/archive/pet_20260205_225040_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:50",
         "img": "/images/pets/archive/pet_20260205_225040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:50",
         "img": "/images/pets/archive/pet_20260205_225054_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:50",
         "img": "/images/pets/archive/pet_20260205_225054__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:50",
         "img": "/images/pets/archive/pet_20260205_225055_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:50",
         "img": "/images/pets/archive/pet_20260205_225055__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:49",
         "img": "/images/pets/archive/pet_20260205_224935_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:49",
         "img": "/images/pets/archive/pet_20260205_224935__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:49",
         "img": "/images/pets/archive/pet_20260205_224950_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:49",
         "img": "/images/pets/archive/pet_20260205_224950__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -19085,315 +19085,315 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "22:47",
         "img": "/images/pets/archive/pet_20260205_224740_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:47",
         "img": "/images/pets/archive/pet_20260205_224740__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:47",
         "img": "/images/pets/archive/pet_20260205_224741_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:47",
         "img": "/images/pets/archive/pet_20260205_224741__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:46",
         "img": "/images/pets/archive/pet_20260205_224621_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:46",
         "img": "/images/pets/archive/pet_20260205_224621__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:46",
         "img": "/images/pets/archive/pet_20260205_224635_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:46",
         "img": "/images/pets/archive/pet_20260205_224635__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:46",
         "img": "/images/pets/archive/pet_20260205_224636_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:46",
         "img": "/images/pets/archive/pet_20260205_224636__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:45",
         "img": "/images/pets/archive/pet_20260205_224516_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:45",
         "img": "/images/pets/archive/pet_20260205_224516__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:45",
         "img": "/images/pets/archive/pet_20260205_224531_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:45",
         "img": "/images/pets/archive/pet_20260205_224531__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:44",
         "img": "/images/pets/archive/pet_20260205_224411_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:44",
         "img": "/images/pets/archive/pet_20260205_224411__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:44",
         "img": "/images/pets/archive/pet_20260205_224426__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:43",
         "img": "/images/pets/archive/pet_20260205_224306__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:43",
         "img": "/images/pets/archive/pet_20260205_224321_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:43",
         "img": "/images/pets/archive/pet_20260205_224321__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:43",
         "img": "/images/pets/archive/pet_20260205_224322_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:43",
         "img": "/images/pets/archive/pet_20260205_224322__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:42",
         "img": "/images/pets/archive/pet_20260205_224201_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:42",
         "img": "/images/pets/archive/pet_20260205_224201__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:42",
         "img": "/images/pets/archive/pet_20260205_224217_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:42",
         "img": "/images/pets/archive/pet_20260205_224217__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:41",
         "img": "/images/pets/archive/pet_20260205_224112_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:41",
         "img": "/images/pets/archive/pet_20260205_224112__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:40",
         "img": "/images/pets/archive/pet_20260205_224007__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:40",
         "img": "/images/pets/archive/pet_20260205_224057_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:40",
         "img": "/images/pets/archive/pet_20260205_224057__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:39",
         "img": "/images/pets/archive/pet_20260205_223902_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:39",
         "img": "/images/pets/archive/pet_20260205_223902__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:39",
         "img": "/images/pets/archive/pet_20260205_223952_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:39",
         "img": "/images/pets/archive/pet_20260205_223952__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:38",
         "img": "/images/pets/archive/pet_20260205_223847__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:37",
         "img": "/images/pets/archive/pet_20260205_223742__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:37",
         "img": "/images/pets/archive/pet_20260205_223757_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:37",
         "img": "/images/pets/archive/pet_20260205_223757__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:36",
         "img": "/images/pets/archive/pet_20260205_223638_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:36",
         "img": "/images/pets/archive/pet_20260205_223638__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:36",
         "img": "/images/pets/archive/pet_20260205_223652_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:36",
         "img": "/images/pets/archive/pet_20260205_223652__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:36",
         "img": "/images/pets/archive/pet_20260205_223653_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:36",
         "img": "/images/pets/archive/pet_20260205_223653__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -19435,70 +19435,70 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "22:33",
         "img": "/images/pets/archive/pet_20260205_223323_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:33",
         "img": "/images/pets/archive/pet_20260205_223323__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:32",
         "img": "/images/pets/archive/pet_20260205_223218_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:32",
         "img": "/images/pets/archive/pet_20260205_223218__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:32",
         "img": "/images/pets/archive/pet_20260205_223233_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:32",
         "img": "/images/pets/archive/pet_20260205_223233__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:31",
         "img": "/images/pets/archive/pet_20260205_223114_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:31",
         "img": "/images/pets/archive/pet_20260205_223114__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:31",
         "img": "/images/pets/archive/pet_20260205_223128_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:31",
         "img": "/images/pets/archive/pet_20260205_223128__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -19519,469 +19519,469 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260205_223005_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:30",
         "img": "/images/pets/archive/pet_20260205_223005__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:29",
         "img": "/images/pets/archive/pet_20260205_222917_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:29",
         "img": "/images/pets/archive/pet_20260205_222917__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:29",
         "img": "/images/pets/archive/pet_20260205_222918_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:29",
         "img": "/images/pets/archive/pet_20260205_222918__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:29",
         "img": "/images/pets/archive/pet_20260205_222933_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:29",
         "img": "/images/pets/archive/pet_20260205_222933__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:28",
         "img": "/images/pets/archive/pet_20260205_222812_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:28",
         "img": "/images/pets/archive/pet_20260205_222812__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:28",
         "img": "/images/pets/archive/pet_20260205_222813_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:28",
         "img": "/images/pets/archive/pet_20260205_222813__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:28",
         "img": "/images/pets/archive/pet_20260205_222828_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:28",
         "img": "/images/pets/archive/pet_20260205_222828__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:27",
         "img": "/images/pets/archive/pet_20260205_222707_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:27",
         "img": "/images/pets/archive/pet_20260205_222707__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:27",
         "img": "/images/pets/archive/pet_20260205_222708_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:27",
         "img": "/images/pets/archive/pet_20260205_222708__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:27",
         "img": "/images/pets/archive/pet_20260205_222723_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:27",
         "img": "/images/pets/archive/pet_20260205_222723__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:26",
         "img": "/images/pets/archive/pet_20260205_222602_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:26",
         "img": "/images/pets/archive/pet_20260205_222602__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:26",
         "img": "/images/pets/archive/pet_20260205_222618_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:26",
         "img": "/images/pets/archive/pet_20260205_222618__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:25",
         "img": "/images/pets/archive/pet_20260205_222513_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:25",
         "img": "/images/pets/archive/pet_20260205_222513__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:24",
         "img": "/images/pets/archive/pet_20260205_222408_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:24",
         "img": "/images/pets/archive/pet_20260205_222408__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:24",
         "img": "/images/pets/archive/pet_20260205_222457_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:24",
         "img": "/images/pets/archive/pet_20260205_222457__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:24",
         "img": "/images/pets/archive/pet_20260205_222458_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:24",
         "img": "/images/pets/archive/pet_20260205_222458__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:23",
         "img": "/images/pets/archive/pet_20260205_222304_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:23",
         "img": "/images/pets/archive/pet_20260205_222304__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:23",
         "img": "/images/pets/archive/pet_20260205_222353_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:23",
         "img": "/images/pets/archive/pet_20260205_222353__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:22",
         "img": "/images/pets/archive/pet_20260205_222248_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:22",
         "img": "/images/pets/archive/pet_20260205_222248__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:21",
         "img": "/images/pets/archive/pet_20260205_222143_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:21",
         "img": "/images/pets/archive/pet_20260205_222143__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:21",
         "img": "/images/pets/archive/pet_20260205_222159_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:21",
         "img": "/images/pets/archive/pet_20260205_222159__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:20",
         "img": "/images/pets/archive/pet_20260205_222037_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:20",
         "img": "/images/pets/archive/pet_20260205_222037__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:20",
         "img": "/images/pets/archive/pet_20260205_222038_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:20",
         "img": "/images/pets/archive/pet_20260205_222038__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:20",
         "img": "/images/pets/archive/pet_20260205_222054_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:20",
         "img": "/images/pets/archive/pet_20260205_222054__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:19",
         "img": "/images/pets/archive/pet_20260205_221933__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:19",
         "img": "/images/pets/archive/pet_20260205_221949_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:19",
         "img": "/images/pets/archive/pet_20260205_221949__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:18",
         "img": "/images/pets/archive/pet_20260205_221828_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:18",
         "img": "/images/pets/archive/pet_20260205_221828__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:18",
         "img": "/images/pets/archive/pet_20260205_221843_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:18",
         "img": "/images/pets/archive/pet_20260205_221843__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:17",
         "img": "/images/pets/archive/pet_20260205_221723_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:17",
         "img": "/images/pets/archive/pet_20260205_221723__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:17",
         "img": "/images/pets/archive/pet_20260205_221739_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:17",
         "img": "/images/pets/archive/pet_20260205_221739__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:16",
         "img": "/images/pets/archive/pet_20260205_221618_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:16",
         "img": "/images/pets/archive/pet_20260205_221618__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:16",
         "img": "/images/pets/archive/pet_20260205_221634_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:16",
         "img": "/images/pets/archive/pet_20260205_221634__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:15",
         "img": "/images/pets/archive/pet_20260205_221513_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:15",
         "img": "/images/pets/archive/pet_20260205_221513__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:15",
         "img": "/images/pets/archive/pet_20260205_221529_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:15",
         "img": "/images/pets/archive/pet_20260205_221529__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -20002,14 +20002,14 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "22:14",
         "img": "/images/pets/archive/pet_20260205_221424_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:14",
         "img": "/images/pets/archive/pet_20260205_221424__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -20030,616 +20030,616 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "22:12",
         "img": "/images/pets/archive/pet_20260205_221215__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:11",
         "img": "/images/pets/archive/pet_20260205_221110_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:11",
         "img": "/images/pets/archive/pet_20260205_221110__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:11",
         "img": "/images/pets/archive/pet_20260205_221158_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:11",
         "img": "/images/pets/archive/pet_20260205_221158__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:11",
         "img": "/images/pets/archive/pet_20260205_221159_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:11",
         "img": "/images/pets/archive/pet_20260205_221159__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:10",
         "img": "/images/pets/archive/pet_20260205_221005_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:10",
         "img": "/images/pets/archive/pet_20260205_221005__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:10",
         "img": "/images/pets/archive/pet_20260205_221053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:10",
         "img": "/images/pets/archive/pet_20260205_221054__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:09",
         "img": "/images/pets/archive/pet_20260205_220901_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:09",
         "img": "/images/pets/archive/pet_20260205_220901__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:09",
         "img": "/images/pets/archive/pet_20260205_220948_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:09",
         "img": "/images/pets/archive/pet_20260205_220948__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:09",
         "img": "/images/pets/archive/pet_20260205_220949_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:09",
         "img": "/images/pets/archive/pet_20260205_220949__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:08",
         "img": "/images/pets/archive/pet_20260205_220843_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:08",
         "img": "/images/pets/archive/pet_20260205_220843__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:08",
         "img": "/images/pets/archive/pet_20260205_220844_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:08",
         "img": "/images/pets/archive/pet_20260205_220844__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:07",
         "img": "/images/pets/archive/pet_20260205_220739_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:07",
         "img": "/images/pets/archive/pet_20260205_220739__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:07",
         "img": "/images/pets/archive/pet_20260205_220756_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:07",
         "img": "/images/pets/archive/pet_20260205_220756__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:06",
         "img": "/images/pets/archive/pet_20260205_220634_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:06",
         "img": "/images/pets/archive/pet_20260205_220634__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:06",
         "img": "/images/pets/archive/pet_20260205_220651_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:06",
         "img": "/images/pets/archive/pet_20260205_220651__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:05",
         "img": "/images/pets/archive/pet_20260205_220529_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:05",
         "img": "/images/pets/archive/pet_20260205_220529__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:05",
         "img": "/images/pets/archive/pet_20260205_220546_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:05",
         "img": "/images/pets/archive/pet_20260205_220546__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:04",
         "img": "/images/pets/archive/pet_20260205_220424_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:04",
         "img": "/images/pets/archive/pet_20260205_220424__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:04",
         "img": "/images/pets/archive/pet_20260205_220441_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:04",
         "img": "/images/pets/archive/pet_20260205_220441__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:03",
         "img": "/images/pets/archive/pet_20260205_220319_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:03",
         "img": "/images/pets/archive/pet_20260205_220319__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:03",
         "img": "/images/pets/archive/pet_20260205_220320_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:03",
         "img": "/images/pets/archive/pet_20260205_220320__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:03",
         "img": "/images/pets/archive/pet_20260205_220336_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:03",
         "img": "/images/pets/archive/pet_20260205_220336__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:02",
         "img": "/images/pets/archive/pet_20260205_220214_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:02",
         "img": "/images/pets/archive/pet_20260205_220214__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:02",
         "img": "/images/pets/archive/pet_20260205_220215_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:02",
         "img": "/images/pets/archive/pet_20260205_220215__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:02",
         "img": "/images/pets/archive/pet_20260205_220231_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:02",
         "img": "/images/pets/archive/pet_20260205_220231__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260205_220109_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260205_220109__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260205_220110_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260205_220110__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260205_220127_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260205_220127__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:00",
         "img": "/images/pets/archive/pet_20260205_220005_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:00",
         "img": "/images/pets/archive/pet_20260205_220005__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:00",
         "img": "/images/pets/archive/pet_20260205_220022_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "22:00",
         "img": "/images/pets/archive/pet_20260205_220022__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:59",
         "img": "/images/pets/archive/pet_20260205_215917_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:59",
         "img": "/images/pets/archive/pet_20260205_215917__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:58",
         "img": "/images/pets/archive/pet_20260205_215812_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:58",
         "img": "/images/pets/archive/pet_20260205_215812__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:58",
         "img": "/images/pets/archive/pet_20260205_215859_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:58",
         "img": "/images/pets/archive/pet_20260205_215859__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:57",
         "img": "/images/pets/archive/pet_20260205_215707_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:57",
         "img": "/images/pets/archive/pet_20260205_215707__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:57",
         "img": "/images/pets/archive/pet_20260205_215754_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:57",
         "img": "/images/pets/archive/pet_20260205_215754__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:56",
         "img": "/images/pets/archive/pet_20260205_215602_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:56",
         "img": "/images/pets/archive/pet_20260205_215602__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:56",
         "img": "/images/pets/archive/pet_20260205_215649__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:55",
         "img": "/images/pets/archive/pet_20260205_215545_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:55",
         "img": "/images/pets/archive/pet_20260205_215545__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:54",
         "img": "/images/pets/archive/pet_20260205_215440_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:54",
         "img": "/images/pets/archive/pet_20260205_215440__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:54",
         "img": "/images/pets/archive/pet_20260205_215457_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:54",
         "img": "/images/pets/archive/pet_20260205_215457__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:53",
         "img": "/images/pets/archive/pet_20260205_215335_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:53",
         "img": "/images/pets/archive/pet_20260205_215335__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:53",
         "img": "/images/pets/archive/pet_20260205_215352_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:53",
         "img": "/images/pets/archive/pet_20260205_215352__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:52",
         "img": "/images/pets/archive/pet_20260205_215230__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:52",
         "img": "/images/pets/archive/pet_20260205_215247_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:52",
         "img": "/images/pets/archive/pet_20260205_215247__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:51",
         "img": "/images/pets/archive/pet_20260205_215125__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:51",
         "img": "/images/pets/archive/pet_20260205_215142_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:51",
         "img": "/images/pets/archive/pet_20260205_215142__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -20653,70 +20653,70 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "21:50",
         "img": "/images/pets/archive/pet_20260205_215020_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:50",
         "img": "/images/pets/archive/pet_20260205_215020__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:49",
         "img": "/images/pets/archive/pet_20260205_214915_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:49",
         "img": "/images/pets/archive/pet_20260205_214915__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:49",
         "img": "/images/pets/archive/pet_20260205_214932_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:49",
         "img": "/images/pets/archive/pet_20260205_214932__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:48",
         "img": "/images/pets/archive/pet_20260205_214810_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:48",
         "img": "/images/pets/archive/pet_20260205_214810__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:48",
         "img": "/images/pets/archive/pet_20260205_214828_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:48",
         "img": "/images/pets/archive/pet_20260205_214828__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -20730,7 +20730,7 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "21:47",
         "img": "/images/pets/archive/pet_20260205_214706__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -20744,7 +20744,7 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "21:46",
         "img": "/images/pets/archive/pet_20260205_214618__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -20758,420 +20758,420 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "21:44",
         "img": "/images/pets/archive/pet_20260205_214408_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:44",
         "img": "/images/pets/archive/pet_20260205_214408__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:44",
         "img": "/images/pets/archive/pet_20260205_214456_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:44",
         "img": "/images/pets/archive/pet_20260205_214456__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:43",
         "img": "/images/pets/archive/pet_20260205_214303_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:43",
         "img": "/images/pets/archive/pet_20260205_214303__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:43",
         "img": "/images/pets/archive/pet_20260205_214351_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:43",
         "img": "/images/pets/archive/pet_20260205_214351__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:42",
         "img": "/images/pets/archive/pet_20260205_214246_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:42",
         "img": "/images/pets/archive/pet_20260205_214246__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:41",
         "img": "/images/pets/archive/pet_20260205_214141_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:41",
         "img": "/images/pets/archive/pet_20260205_214141__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:41",
         "img": "/images/pets/archive/pet_20260205_214158_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:41",
         "img": "/images/pets/archive/pet_20260205_214158__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:40",
         "img": "/images/pets/archive/pet_20260205_214036_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:40",
         "img": "/images/pets/archive/pet_20260205_214036__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:40",
         "img": "/images/pets/archive/pet_20260205_214054_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:40",
         "img": "/images/pets/archive/pet_20260205_214054__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:39",
         "img": "/images/pets/archive/pet_20260205_213932_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:39",
         "img": "/images/pets/archive/pet_20260205_213932__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:39",
         "img": "/images/pets/archive/pet_20260205_213949_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:39",
         "img": "/images/pets/archive/pet_20260205_213949__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:38",
         "img": "/images/pets/archive/pet_20260205_213827_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:38",
         "img": "/images/pets/archive/pet_20260205_213827__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:38",
         "img": "/images/pets/archive/pet_20260205_213844_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:38",
         "img": "/images/pets/archive/pet_20260205_213844__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:37",
         "img": "/images/pets/archive/pet_20260205_213722_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:37",
         "img": "/images/pets/archive/pet_20260205_213722__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:37",
         "img": "/images/pets/archive/pet_20260205_213739_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:37",
         "img": "/images/pets/archive/pet_20260205_213739__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:36",
         "img": "/images/pets/archive/pet_20260205_213617_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:36",
         "img": "/images/pets/archive/pet_20260205_213617__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:36",
         "img": "/images/pets/archive/pet_20260205_213634_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:36",
         "img": "/images/pets/archive/pet_20260205_213634__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:35",
         "img": "/images/pets/archive/pet_20260205_213512_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:35",
         "img": "/images/pets/archive/pet_20260205_213512__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:35",
         "img": "/images/pets/archive/pet_20260205_213529_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:35",
         "img": "/images/pets/archive/pet_20260205_213529__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:34",
         "img": "/images/pets/archive/pet_20260205_213408_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:34",
         "img": "/images/pets/archive/pet_20260205_213408__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:34",
         "img": "/images/pets/archive/pet_20260205_213424_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:34",
         "img": "/images/pets/archive/pet_20260205_213424__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:33",
         "img": "/images/pets/archive/pet_20260205_213303_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:33",
         "img": "/images/pets/archive/pet_20260205_213303__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:33",
         "img": "/images/pets/archive/pet_20260205_213319_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:33",
         "img": "/images/pets/archive/pet_20260205_213319__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:32",
         "img": "/images/pets/archive/pet_20260205_213215_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:32",
         "img": "/images/pets/archive/pet_20260205_213215__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:31",
         "img": "/images/pets/archive/pet_20260205_213110_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:31",
         "img": "/images/pets/archive/pet_20260205_213110__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:31",
         "img": "/images/pets/archive/pet_20260205_213158_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:31",
         "img": "/images/pets/archive/pet_20260205_213158__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260205_213005_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260205_213005__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260205_213053_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260205_213053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:29",
         "img": "/images/pets/archive/pet_20260205_212948_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:29",
         "img": "/images/pets/archive/pet_20260205_212948__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:28",
         "img": "/images/pets/archive/pet_20260205_212843_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:28",
         "img": "/images/pets/archive/pet_20260205_212843__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -21185,448 +21185,448 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "21:26",
         "img": "/images/pets/archive/pet_20260205_212613_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:26",
         "img": "/images/pets/archive/pet_20260205_212613__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:26",
         "img": "/images/pets/archive/pet_20260205_212633_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:26",
         "img": "/images/pets/archive/pet_20260205_212633__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:25",
         "img": "/images/pets/archive/pet_20260205_212538_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:25",
         "img": "/images/pets/archive/pet_20260205_212538__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:24",
         "img": "/images/pets/archive/pet_20260205_212433_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:24",
         "img": "/images/pets/archive/pet_20260205_212433__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:23",
         "img": "/images/pets/archive/pet_20260205_212320_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:23",
         "img": "/images/pets/archive/pet_20260205_212320__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:23",
         "img": "/images/pets/archive/pet_20260205_212328_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:23",
         "img": "/images/pets/archive/pet_20260205_212328__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:23",
         "img": "/images/pets/archive/pet_20260205_212329_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:23",
         "img": "/images/pets/archive/pet_20260205_212329__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:22",
         "img": "/images/pets/archive/pet_20260205_212254_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:22",
         "img": "/images/pets/archive/pet_20260205_212254__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:21",
         "img": "/images/pets/archive/pet_20260205_212104_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:21",
         "img": "/images/pets/archive/pet_20260205_212104__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:21",
         "img": "/images/pets/archive/pet_20260205_212130_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:21",
         "img": "/images/pets/archive/pet_20260205_212130__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:21",
         "img": "/images/pets/archive/pet_20260205_212131_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:21",
         "img": "/images/pets/archive/pet_20260205_212131__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:21",
         "img": "/images/pets/archive/pet_20260205_212139_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:21",
         "img": "/images/pets/archive/pet_20260205_212139__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:20",
         "img": "/images/pets/archive/pet_20260205_212046_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:20",
         "img": "/images/pets/archive/pet_20260205_212046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:20",
         "img": "/images/pets/archive/pet_20260205_212048_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:20",
         "img": "/images/pets/archive/pet_20260205_212048__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:16",
         "img": "/images/pets/archive/pet_20260205_211627_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:16",
         "img": "/images/pets/archive/pet_20260205_211627__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:16",
         "img": "/images/pets/archive/pet_20260205_211651_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:16",
         "img": "/images/pets/archive/pet_20260205_211651__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:15",
         "img": "/images/pets/archive/pet_20260205_211552_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:15",
         "img": "/images/pets/archive/pet_20260205_211552__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:13",
         "img": "/images/pets/archive/pet_20260205_211304_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:13",
         "img": "/images/pets/archive/pet_20260205_211304__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:00",
         "img": "/images/pets/archive/pet_20260205_210005_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "21:00",
         "img": "/images/pets/archive/pet_20260205_210005__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260205_203005_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260205_203005__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260205_200005_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260205_200005__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260205_193005_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260205_193005__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260205_190006_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "19:00",
         "img": "/images/pets/archive/pet_20260205_190006__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "18:30",
         "img": "/images/pets/archive/pet_20260205_183006_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "18:30",
         "img": "/images/pets/archive/pet_20260205_183006__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "18:13",
         "img": "/images/pets/archive/pet_20260205_181329_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "18:13",
         "img": "/images/pets/archive/pet_20260205_181329__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:31",
         "img": "/images/pets/archive/pet_20260205_173109_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:31",
         "img": "/images/pets/archive/pet_20260205_173109__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:30",
         "img": "/images/pets/archive/pet_20260205_173028_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:30",
         "img": "/images/pets/archive/pet_20260205_173028__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:29",
         "img": "/images/pets/archive/pet_20260205_172949_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:29",
         "img": "/images/pets/archive/pet_20260205_172949__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:05",
         "img": "/images/pets/archive/pet_20260205_170510_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:05",
         "img": "/images/pets/archive/pet_20260205_170510__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:04",
         "img": "/images/pets/archive/pet_20260205_170446_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:04",
         "img": "/images/pets/archive/pet_20260205_170446__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:04",
         "img": "/images/pets/archive/pet_20260205_170457_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:04",
         "img": "/images/pets/archive/pet_20260205_170457__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:00",
         "img": "/images/pets/archive/pet_20260205_170004_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "17:00",
         "img": "/images/pets/archive/pet_20260205_170004__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -21640,294 +21640,294 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "16:30",
         "img": "/images/pets/archive/pet_20260205_163003_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "16:30",
         "img": "/images/pets/archive/pet_20260205_163003__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "16:13",
         "img": "/images/pets/archive/pet_20260205_161322_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "16:13",
         "img": "/images/pets/archive/pet_20260205_161322__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "16:11",
         "img": "/images/pets/archive/pet_20260205_161133_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "16:11",
         "img": "/images/pets/archive/pet_20260205_161133__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "16:10",
         "img": "/images/pets/archive/pet_20260205_161035_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "16:10",
         "img": "/images/pets/archive/pet_20260205_161035__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "16:09",
         "img": "/images/pets/archive/pet_20260205_160949_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "16:09",
         "img": "/images/pets/archive/pet_20260205_160949__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260205_160004_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260205_160004__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "15:30",
         "img": "/images/pets/archive/pet_20260205_153004_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "15:30",
         "img": "/images/pets/archive/pet_20260205_153004__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "15:00",
         "img": "/images/pets/archive/pet_20260205_150003_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "15:00",
         "img": "/images/pets/archive/pet_20260205_150003__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:56",
         "img": "/images/pets/archive/pet_20260205_145611_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:56",
         "img": "/images/pets/archive/pet_20260205_145611__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:52",
         "img": "/images/pets/archive/pet_20260205_145226_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:52",
         "img": "/images/pets/archive/pet_20260205_145226__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:51",
         "img": "/images/pets/archive/pet_20260205_145105_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:51",
         "img": "/images/pets/archive/pet_20260205_145105__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:51",
         "img": "/images/pets/archive/pet_20260205_145130_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:51",
         "img": "/images/pets/archive/pet_20260205_145130__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:50",
         "img": "/images/pets/archive/pet_20260205_145009_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:50",
         "img": "/images/pets/archive/pet_20260205_145009__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:50",
         "img": "/images/pets/archive/pet_20260205_145021_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:50",
         "img": "/images/pets/archive/pet_20260205_145021__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:50",
         "img": "/images/pets/archive/pet_20260205_145030_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:50",
         "img": "/images/pets/archive/pet_20260205_145030__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:50",
         "img": "/images/pets/archive/pet_20260205_145036_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:50",
         "img": "/images/pets/archive/pet_20260205_145036__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:49",
         "img": "/images/pets/archive/pet_20260205_144947_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "14:49",
         "img": "/images/pets/archive/pet_20260205_144947__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "11:31",
         "img": "/images/pets/archive/pet_20260205_113126__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "11:00",
         "img": "/images/pets/archive/pet_20260205_110045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "10:31",
         "img": "/images/pets/archive/pet_20260205_103125_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "10:31",
         "img": "/images/pets/archive/pet_20260205_103125__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "10:01",
         "img": "/images/pets/archive/pet_20260205_100115_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "10:01",
         "img": "/images/pets/archive/pet_20260205_100115__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "09:30",
         "img": "/images/pets/archive/pet_20260205_093028_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "09:30",
         "img": "/images/pets/archive/pet_20260205_093028__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -21941,168 +21941,168 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "08:30",
         "img": "/images/pets/archive/pet_20260205_083049_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "08:30",
         "img": "/images/pets/archive/pet_20260205_083049__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "08:01",
         "img": "/images/pets/archive/pet_20260205_080152_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "08:01",
         "img": "/images/pets/archive/pet_20260205_080152__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260205_073028_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "07:30",
         "img": "/images/pets/archive/pet_20260205_073028__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "07:02",
         "img": "/images/pets/archive/pet_20260205_070242_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "07:02",
         "img": "/images/pets/archive/pet_20260205_070242__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "06:31",
         "img": "/images/pets/archive/pet_20260205_063123_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "06:31",
         "img": "/images/pets/archive/pet_20260205_063123__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "06:00",
         "img": "/images/pets/archive/pet_20260205_060040_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "06:00",
         "img": "/images/pets/archive/pet_20260205_060040__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "05:31",
         "img": "/images/pets/archive/pet_20260205_053131_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "05:31",
         "img": "/images/pets/archive/pet_20260205_053131__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "04:31",
         "img": "/images/pets/archive/pet_20260205_043134_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "04:31",
         "img": "/images/pets/archive/pet_20260205_043134__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "04:00",
         "img": "/images/pets/archive/pet_20260205_040036_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "04:00",
         "img": "/images/pets/archive/pet_20260205_040036__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260205_033035_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260205_033035__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260205_030047_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260205_030047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260205_023039_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260205_023039__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -22116,28 +22116,28 @@ const petImagesData = {
         "date": "2026-02-05",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260205_010045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "01:00",
         "img": "/images/pets/archive/pet_20260205_010045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "00:31",
         "img": "/images/pets/archive/pet_20260205_003101_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-05",
         "time": "00:31",
         "img": "/images/pets/archive/pet_20260205_003101__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -22153,7 +22153,7 @@ const petImagesData = {
         "date": "2026-02-04",
         "time": "23:31",
         "img": "/images/pets/archive/pet_20260204_233111__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -22167,42 +22167,42 @@ const petImagesData = {
         "date": "2026-02-04",
         "time": "22:31",
         "img": "/images/pets/archive/pet_20260204_223128_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "22:31",
         "img": "/images/pets/archive/pet_20260204_223128__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260204_220108_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "22:01",
         "img": "/images/pets/archive/pet_20260204_220108__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260204_213034_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260204_213034__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -22216,385 +22216,385 @@ const petImagesData = {
         "date": "2026-02-04",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260204_203054_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "20:30",
         "img": "/images/pets/archive/pet_20260204_203054__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260204_200032_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "20:00",
         "img": "/images/pets/archive/pet_20260204_200032__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260204_193051_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "19:30",
         "img": "/images/pets/archive/pet_20260204_193051__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "18:31",
         "img": "/images/pets/archive/pet_20260204_183101_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "18:31",
         "img": "/images/pets/archive/pet_20260204_183101__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "18:01",
         "img": "/images/pets/archive/pet_20260204_180134_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "18:01",
         "img": "/images/pets/archive/pet_20260204_180134__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "17:00",
         "img": "/images/pets/archive/pet_20260204_170046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "16:31",
         "img": "/images/pets/archive/pet_20260204_163104__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "16:00",
         "img": "/images/pets/archive/pet_20260204_160029__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "15:30",
         "img": "/images/pets/archive/pet_20260204_153035__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "15:01",
         "img": "/images/pets/archive/pet_20260204_150113__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "14:30",
         "img": "/images/pets/archive/pet_20260204_143042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "14:01",
         "img": "/images/pets/archive/pet_20260204_140115__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "13:30",
         "img": "/images/pets/archive/pet_20260204_133047__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "13:01",
         "img": "/images/pets/archive/pet_20260204_130116_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "13:01",
         "img": "/images/pets/archive/pet_20260204_130116__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "12:30",
         "img": "/images/pets/archive/pet_20260204_123039__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "12:01",
         "img": "/images/pets/archive/pet_20260204_120137__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "11:31",
         "img": "/images/pets/archive/pet_20260204_113121__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "11:00",
         "img": "/images/pets/archive/pet_20260204_110058__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "10:30",
         "img": "/images/pets/archive/pet_20260204_103050__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "10:26",
         "img": "/images/pets/archive/pet_20260204_102612__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "10:03",
         "img": "/images/pets/archive/dog_20260204_100319__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "10:02",
         "img": "/images/pets/archive/dog_20260204_100200__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "10:01",
         "img": "/images/pets/archive/panorama_center_20260204_100150__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "09:01",
         "img": "/images/pets/archive/ezviz_BD0673744_20260204_090130_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "09:01",
         "img": "/images/pets/archive/ezviz_BD0673744_20260204_090130__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "08:03",
         "img": "/images/pets/archive/dog_20260204_080315_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "08:03",
         "img": "/images/pets/archive/dog_20260204_080315__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "07:32",
         "img": "/images/pets/archive/dog_20260204_073209_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "07:32",
         "img": "/images/pets/archive/dog_20260204_073209__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "07:02",
         "img": "/images/pets/archive/left_20260204_070255_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "07:02",
         "img": "/images/pets/archive/left_20260204_070255__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "06:32",
         "img": "/images/pets/archive/dog_20260204_063224_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "06:32",
         "img": "/images/pets/archive/dog_20260204_063224__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "06:01",
         "img": "/images/pets/archive/dog_20260204_060114_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "06:01",
         "img": "/images/pets/archive/dog_20260204_060114__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "05:01",
         "img": "/images/pets/archive/dog_20260204_050111_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "05:01",
         "img": "/images/pets/archive/dog_20260204_050111__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "03:31",
         "img": "/images/pets/archive/cat_20260204_033155_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "03:31",
         "img": "/images/pets/archive/cat_20260204_033155__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "03:02",
         "img": "/images/pets/archive/dog_20260204_030211_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "03:02",
         "img": "/images/pets/archive/dog_20260204_030211__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "02:01",
         "img": "/images/pets/archive/dog_20260204_020146_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "02:01",
         "img": "/images/pets/archive/dog_20260204_020146__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "01:03",
         "img": "/images/pets/archive/dog_20260204_010306_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "01:03",
         "img": "/images/pets/archive/dog_20260204_010306__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "01:03",
         "img": "/images/pets/archive/dog_20260204_010335__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "01:02",
         "img": "/images/pets/archive/dog_20260204_010231__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "01:01",
         "img": "/images/pets/archive/dog_20260204_010156_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-04",
         "time": "01:01",
         "img": "/images/pets/archive/dog_20260204_010156__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -22603,161 +22603,161 @@ const petImagesData = {
         "date": "2026-02-03",
         "time": "18:33",
         "img": "/images/pets/archive/dog_20260203_183313_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "18:33",
         "img": "/images/pets/archive/dog_20260203_183313__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "18:03",
         "img": "/images/pets/archive/pet_20260203_180310_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "18:03",
         "img": "/images/pets/archive/pet_20260203_180310__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "17:05",
         "img": "/images/pets/archive/pet_20260203_170501_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "17:05",
         "img": "/images/pets/archive/pet_20260203_170501__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "16:31",
         "img": "/images/pets/archive/panorama_right_20260203_163108__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "16:31",
         "img": "/images/pets/archive/panorama_up_20260203_163135__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "16:30",
         "img": "/images/pets/archive/panorama_center_20260203_163048__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "16:02",
         "img": "/images/pets/archive/patrol_01_20260203_160236__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "16:02",
         "img": "/images/pets/archive/patrol_02_20260203_160240__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "16:02",
         "img": "/images/pets/archive/patrol_03_20260203_160244__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "16:02",
         "img": "/images/pets/archive/patrol_04_20260203_160249__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "16:02",
         "img": "/images/pets/archive/patrol_05_20260203_160253__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "16:02",
         "img": "/images/pets/archive/patrol_06_20260203_160258__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "15:33",
         "img": "/images/pets/archive/pet_20260203_153336_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "15:33",
         "img": "/images/pets/archive/pet_20260203_153336__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "15:02",
         "img": "/images/pets/archive/pet_20260203_150244_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "15:02",
         "img": "/images/pets/archive/pet_20260203_150244__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "14:30",
         "img": "/images/pets/archive/pet_20260203_143045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "14:30",
         "img": "/images/pets/archive/pet_20260203_143045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "14:03",
         "img": "/images/pets/archive/pet_20260203_140348_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "14:03",
         "img": "/images/pets/archive/pet_20260203_140348__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -22778,385 +22778,385 @@ const petImagesData = {
         "date": "2026-02-03",
         "time": "13:44",
         "img": "/images/pets/archive/patrol_01_20260203_134417__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "13:44",
         "img": "/images/pets/archive/patrol_03_20260203_134440__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "13:44",
         "img": "/images/pets/archive/patrol_06_20260203_134453__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "13:34",
         "img": "/images/pets/archive/pet_20260203_133418_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "13:34",
         "img": "/images/pets/archive/pet_20260203_133418__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "13:03",
         "img": "/images/pets/archive/pet_20260203_130311_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "13:03",
         "img": "/images/pets/archive/pet_20260203_130311__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "12:35",
         "img": "/images/pets/archive/panorama_down_20260203_123502__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "12:34",
         "img": "/images/pets/archive/panorama_center_20260203_123418__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "12:34",
         "img": "/images/pets/archive/panorama_left_20260203_123423__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "12:34",
         "img": "/images/pets/archive/panorama_right_20260203_123428__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "12:34",
         "img": "/images/pets/archive/panorama_up_20260203_123457__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "12:30",
         "img": "/images/pets/archive/pet_20260203_123058_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "12:30",
         "img": "/images/pets/archive/pet_20260203_123058__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "12:00",
         "img": "/images/pets/archive/pet_20260203_120054_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "12:00",
         "img": "/images/pets/archive/pet_20260203_120054__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "11:30",
         "img": "/images/pets/archive/pet_20260203_113043_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "11:30",
         "img": "/images/pets/archive/pet_20260203_113043__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "11:08",
         "img": "/images/pets/archive/patrol_04_20260203_110803__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "11:08",
         "img": "/images/pets/archive/patrol_05_20260203_110807__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "11:08",
         "img": "/images/pets/archive/patrol_06_20260203_110811__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "11:07",
         "img": "/images/pets/archive/patrol_02_20260203_110754__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "11:07",
         "img": "/images/pets/archive/patrol_03_20260203_110759__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "11:02",
         "img": "/images/pets/archive/pet_20260203_110200_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "11:02",
         "img": "/images/pets/archive/pet_20260203_110200__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:53",
         "img": "/images/pets/archive/panorama_right_20260203_105324__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:53",
         "img": "/images/pets/archive/panorama_up_20260203_105351__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:52",
         "img": "/images/pets/archive/panorama_center_20260203_105251__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:43",
         "img": "/images/pets/archive/panorama_center_20260203_104307__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:43",
         "img": "/images/pets/archive/panorama_left_20260203_104312__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:43",
         "img": "/images/pets/archive/panorama_right_20260203_104317__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:43",
         "img": "/images/pets/archive/panorama_up_20260203_104344__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:42",
         "img": "/images/pets/archive/panorama_center_20260203_104233__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:42",
         "img": "/images/pets/archive/panorama_down_20260203_104253__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:42",
         "img": "/images/pets/archive/panorama_down_20260203_104254__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:42",
         "img": "/images/pets/archive/panorama_left_20260203_104238__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:42",
         "img": "/images/pets/archive/panorama_left_20260203_104239__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:42",
         "img": "/images/pets/archive/panorama_right_20260203_104243__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:42",
         "img": "/images/pets/archive/panorama_up_20260203_104248__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:42",
         "img": "/images/pets/archive/panorama_up_20260203_104249__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:36",
         "img": "/images/pets/archive/panorama_right_20260203_103618__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:35",
         "img": "/images/pets/archive/panorama_center_20260203_103556__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:33",
         "img": "/images/pets/archive/pet_20260203_103300_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:33",
         "img": "/images/pets/archive/pet_20260203_103300__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:01",
         "img": "/images/pets/archive/pet_20260203_100143_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "10:01",
         "img": "/images/pets/archive/pet_20260203_100143__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "09:58",
         "img": "/images/pets/archive/dog_20260203_095816_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "09:58",
         "img": "/images/pets/archive/dog_20260203_095816__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "09:31",
         "img": "/images/pets/archive/pet_20260203_093105_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "09:31",
         "img": "/images/pets/archive/pet_20260203_093105__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "09:00",
         "img": "/images/pets/archive/pet_20260203_090046_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "09:00",
         "img": "/images/pets/archive/pet_20260203_090046__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "08:30",
         "img": "/images/pets/archive/panorama_right_20260203_083012__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "08:30",
         "img": "/images/pets/archive/pet_20260203_083055_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "08:30",
         "img": "/images/pets/archive/pet_20260203_083055__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -23170,273 +23170,273 @@ const petImagesData = {
         "date": "2026-02-03",
         "time": "08:29",
         "img": "/images/pets/archive/panorama_down_20260203_082904__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "08:29",
         "img": "/images/pets/archive/panorama_up_20260203_082900__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "08:28",
         "img": "/images/pets/archive/panorama_center_20260203_082844__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "08:28",
         "img": "/images/pets/archive/panorama_left_20260203_082848__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "08:28",
         "img": "/images/pets/archive/panorama_right_20260203_082853__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "08:03",
         "img": "/images/pets/archive/pet_20260203_080346_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "08:03",
         "img": "/images/pets/archive/pet_20260203_080346__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "07:31",
         "img": "/images/pets/archive/pet_20260203_073102_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "07:31",
         "img": "/images/pets/archive/pet_20260203_073102__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260203_070117_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "07:01",
         "img": "/images/pets/archive/pet_20260203_070117__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "06:30",
         "img": "/images/pets/archive/pet_20260203_063044_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "06:30",
         "img": "/images/pets/archive/pet_20260203_063044__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "06:01",
         "img": "/images/pets/archive/pet_20260203_060101_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "06:01",
         "img": "/images/pets/archive/pet_20260203_060101__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "05:31",
         "img": "/images/pets/archive/pet_20260203_053102_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "05:31",
         "img": "/images/pets/archive/pet_20260203_053102__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "05:00",
         "img": "/images/pets/archive/pet_20260203_050056_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "05:00",
         "img": "/images/pets/archive/pet_20260203_050056__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260203_043036_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "04:30",
         "img": "/images/pets/archive/pet_20260203_043036__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "04:00",
         "img": "/images/pets/archive/pet_20260203_040037_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "04:00",
         "img": "/images/pets/archive/pet_20260203_040037__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260203_033032_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "03:30",
         "img": "/images/pets/archive/pet_20260203_033032__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260203_030041_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "03:00",
         "img": "/images/pets/archive/pet_20260203_030041__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260203_023042_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "02:30",
         "img": "/images/pets/archive/pet_20260203_023042__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260203_020045_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "02:00",
         "img": "/images/pets/archive/pet_20260203_020045__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260203_013032_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "01:30",
         "img": "/images/pets/archive/pet_20260203_013032__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "01:01",
         "img": "/images/pets/archive/pet_20260203_010130_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "01:01",
         "img": "/images/pets/archive/pet_20260203_010130__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "00:31",
         "img": "/images/pets/archive/pet_20260203_003100_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "00:31",
         "img": "/images/pets/archive/pet_20260203_003100__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260203_000104_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-03",
         "time": "00:01",
         "img": "/images/pets/archive/pet_20260203_000104__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -23445,28 +23445,28 @@ const petImagesData = {
         "date": "2026-02-02",
         "time": "23:31",
         "img": "/images/pets/archive/pet_20260202_233140_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "23:31",
         "img": "/images/pets/archive/pet_20260202_233140__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "23:01",
         "img": "/images/pets/archive/pet_20260202_230122_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "23:01",
         "img": "/images/pets/archive/pet_20260202_230122__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
@@ -23480,238 +23480,238 @@ const petImagesData = {
         "date": "2026-02-02",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260202_213059_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "21:30",
         "img": "/images/pets/archive/pet_20260202_213059__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "21:01",
         "img": "/images/pets/archive/cat_20260202_210127_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "21:01",
         "img": "/images/pets/archive/cat_20260202_210127__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "20:30",
         "img": "/images/pets/archive/cat_20260202_203052_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "20:30",
         "img": "/images/pets/archive/cat_20260202_203052__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "20:01",
         "img": "/images/pets/archive/cat_20260202_200159_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "20:01",
         "img": "/images/pets/archive/cat_20260202_200159__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "19:31",
         "img": "/images/pets/archive/cat_20260202_193114_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "19:31",
         "img": "/images/pets/archive/cat_20260202_193114__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "19:00",
         "img": "/images/pets/archive/cat_20260202_190053_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "19:00",
         "img": "/images/pets/archive/cat_20260202_190053__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "18:01",
         "img": "/images/pets/archive/cat_20260202_180137_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "18:01",
         "img": "/images/pets/archive/cat_20260202_180137__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "17:31",
         "img": "/images/pets/archive/dog_20260202_173112_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "17:31",
         "img": "/images/pets/archive/dog_20260202_173112__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "17:01",
         "img": "/images/pets/archive/dog_20260202_170113_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "17:01",
         "img": "/images/pets/archive/dog_20260202_170113__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "15:46",
         "img": "/images/pets/archive/dog_20260202_154648_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "15:46",
         "img": "/images/pets/archive/dog_20260202_154648__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "15:31",
         "img": "/images/pets/archive/dog_20260202_153120_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "15:31",
         "img": "/images/pets/archive/dog_20260202_153120__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "15:17",
         "img": "/images/pets/archive/pet_20260202_151742_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "15:17",
         "img": "/images/pets/archive/pet_20260202_151742__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "15:11",
         "img": "/images/pets/archive/dog_20260202_151112_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "15:11",
         "img": "/images/pets/archive/dog_20260202_151112__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "15:10",
         "img": "/images/pets/archive/dog_20260202_151025_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "15:10",
         "img": "/images/pets/archive/dog_20260202_151025__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "15:02",
         "img": "/images/pets/archive/dog_20260202_150206_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "15:02",
         "img": "/images/pets/archive/dog_20260202_150206__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "14:19",
         "img": "/images/pets/archive/dog_20260202_141903_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "14:19",
         "img": "/images/pets/archive/dog_20260202_141903__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "14:10",
         "img": "/images/pets/archive/dog_20260202_141029_1__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       },
       {
         "date": "2026-02-02",
         "time": "14:10",
         "img": "/images/pets/archive/dog_20260202_141029__dup1.jpg",
-        "type": "pet",
+        "type": "other",
         "found": false
       }
     ],
@@ -24652,8 +24652,8 @@ const petImagesData = {
         "date": "2026-02-23",
         "time": "11:36",
         "img": "/images/pets/20260223-113620-BD0673744.jpg",
-        "type": "pet",
-        "found": true
+        "type": "other",
+        "found": false
       }
     ]
   },
@@ -24662,21 +24662,21 @@ const petImagesData = {
       "date": "2026-03-01",
       "time": "23:00",
       "img": "/images/pets/20260301-230018-BD0673744.jpg",
-      "type": "pet",
+      "type": "other",
       "found": false
     },
     {
       "date": "2026-03-01",
       "time": "23:00",
       "img": "/images/pets/20260301-230018-BD0673744.jpg",
-      "type": "pet",
+      "type": "other",
       "found": false
     },
     {
       "date": "2026-03-01",
       "time": "23:30",
       "img": "/images/pets/archive/20260301-233000-BD0673744.jpg",
-      "type": "pet",
+      "type": "other",
       "found": false
     }
   ],

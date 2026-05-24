@@ -4,28 +4,9 @@ date: 2026-03-01T09:01:59.343Z
 updated: 2026-03-01T09:01:59.343Z
 layout: page
 comments: false
+toc:
+  enable: false
 ---
-
-<style>
-.wb-wrap{max-width:980px;margin:0 auto;padding:8px 4px 24px;}
-.wb-hero{background:linear-gradient(135deg,#f7fafc,#eef4ff);border:1px solid #d7e3ff;border-radius:18px;padding:18px 20px;margin-bottom:16px;}
-.wb-hero h1{margin:0;font-size:28px;line-height:1.1;letter-spacing:.2px;}
-.wb-meta{margin-top:8px;color:#4d5e7a;font-size:13px;}
-.wb-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;}
-.wb-card{border:1px solid #dfe7f3;border-radius:16px;padding:14px;background:#fff;box-shadow:0 8px 20px rgba(21,38,77,.06);}
-.wb-head{display:flex;align-items:baseline;justify-content:space-between;gap:8px;margin-bottom:10px;}
-.wb-head h2{margin:0;font-size:22px;font-weight:800;color:#16263f;}
-.wb-phonetic{font-size:13px;color:#506486;background:#edf3ff;padding:3px 8px;border-radius:999px;}
-.wb-meanings{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px;}
-.wb-chip{display:inline-block;border-radius:999px;background:#17233a;color:#f7fbff;padding:5px 10px;font-size:12px;}
-.wb-example{padding:10px;border:1px solid #e8eef8;border-radius:12px;background:#fafcff;margin-bottom:8px;}
-.wb-example:last-child{margin-bottom:0;}
-.wb-en,.wb-zh{line-height:1.5;margin-bottom:6px;color:#24344f;}
-.wb-zh{margin-bottom:4px;}
-.wb-link{font-size:12px;color:#0b65d8;text-decoration:none;font-weight:700;}
-.wb-link:hover{text-decoration:underline;}
-.wb-mark{background:#ffe083;padding:0 3px;border-radius:3px;}
-</style>
 
 <div class="wb-wrap">
 <div class="wb-hero">

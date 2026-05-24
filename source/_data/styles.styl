@@ -103,6 +103,63 @@ a
   border-color: var(--bs-green)
   color: var(--bs-green)
 
+.posts-expand .post-block
+  padding: clamp(20px, 3vw, 32px)
+  margin-bottom: 16px
+
+.posts-expand .post-header
+  margin-bottom: 14px
+
+.posts-expand .post-title-link
+  color: var(--bs-ink)
+  background: none
+  border-bottom: 1px solid transparent
+
+.posts-expand .post-title-link:hover
+  color: var(--bs-green)
+  border-bottom-color: rgba(47, 125, 92, 0.35)
+
+.posts-expand .post-eof
+  display: none
+
+.post-button
+  margin-top: 14px
+
+.post-button .btn
+  padding: 8px 14px
+  color: var(--bs-green)
+  background: #fff
+  border: 1px solid rgba(47, 125, 92, 0.28)
+  font-weight: 700
+
+.collection-title
+  margin-bottom: 16px
+  color: var(--bs-ink)
+
+.collection-title h1,
+.collection-title h2
+  font-size: clamp(28px, 4vw, 44px)
+  letter-spacing: 0
+
+.posts-collapse
+  background: var(--bs-surface)
+  border: 1px solid var(--bs-line)
+  border-radius: var(--bs-radius)
+  box-shadow: var(--bs-shadow)
+  padding: 10px 14px
+
+.posts-collapse .post-header
+  border-bottom-color: var(--bs-line)
+
+.posts-collapse .post-title a
+  color: var(--bs-ink)
+
+.posts-collapse .post-title a:hover
+  color: var(--bs-green)
+
+.pagination
+  margin-top: 18px
+
 .home-directory
   display: grid
   gap: 18px
@@ -293,6 +350,114 @@ a
   text-decoration: none
   font-weight: 700
 
+.wb-wrap
+  max-width: 1080px
+  margin: 0 auto
+  padding: 4px 0 24px
+
+.wb-hero
+  background: var(--bs-surface)
+  border: 1px solid var(--bs-line)
+  border-radius: var(--bs-radius)
+  box-shadow: var(--bs-shadow)
+  padding: clamp(20px, 4vw, 42px)
+  margin-bottom: 14px
+
+.wb-hero h1
+  margin: 0
+  font-size: clamp(32px, 5vw, 56px)
+  line-height: 1
+  letter-spacing: 0
+
+.wb-meta
+  margin-top: 10px
+  color: var(--bs-muted)
+  font-size: 14px
+
+.wb-grid
+  display: grid
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))
+  gap: 14px
+
+.wb-card
+  min-width: 0
+  border: 1px solid var(--bs-line)
+  border-radius: var(--bs-radius)
+  padding: 16px
+  background: var(--bs-surface)
+  box-shadow: var(--bs-shadow)
+
+.wb-head
+  display: grid
+  gap: 8px
+  margin-bottom: 10px
+
+.wb-head h2
+  margin: 0
+  color: var(--bs-ink)
+  font-size: 22px
+  font-weight: 850
+  line-height: 1.24
+  letter-spacing: 0
+  overflow-wrap: anywhere
+
+.wb-phonetic
+  width: fit-content
+  max-width: 100%
+  color: var(--bs-muted)
+  background: var(--bs-surface-soft)
+  border: 1px solid var(--bs-line)
+  padding: 3px 8px
+  border-radius: 999px
+  font-size: 13px
+
+.wb-meanings
+  display: flex
+  flex-wrap: wrap
+  gap: 8px
+  margin-bottom: 10px
+
+.wb-chip
+  display: inline-block
+  border-radius: 999px
+  background: #ecf5ef
+  border: 1px solid #cce0d2
+  color: var(--bs-green)
+  padding: 4px 10px
+  font-size: 12px
+  font-weight: 800
+
+.wb-example
+  padding: 11px
+  border: 1px solid var(--bs-line)
+  border-radius: var(--bs-radius)
+  background: #fbfcf8
+  margin-bottom: 8px
+
+.wb-example:last-child
+  margin-bottom: 0
+
+.wb-en,
+.wb-zh
+  line-height: 1.62
+  margin-bottom: 7px
+  color: #2c382f
+  overflow-wrap: anywhere
+
+.wb-link
+  font-size: 12px
+  color: var(--bs-green)
+  text-decoration: none
+  font-weight: 800
+
+.wb-link:hover
+  text-decoration: underline
+
+.wb-mark
+  background: #ffe6a7
+  padding: 0 3px
+  border-radius: 3px
+
 @media (max-width: 991px)
   .home-hero
     grid-template-columns: 1fr
@@ -323,3 +488,9 @@ a
     display: block
   .idea-card-title
     font-size: 18px
+  .wb-grid
+    grid-template-columns: 1fr
+  .wb-card
+    padding: 14px
+  .wb-head h2
+    font-size: 20px

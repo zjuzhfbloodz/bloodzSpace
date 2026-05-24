@@ -1,0 +1,37 @@
+---
+title: '2026-05-25 宠物生活日记'
+date: '2026-05-25 00:46:45'
+updated: '2026-05-25 00:46:45'
+permalink: /post/pets-lifelog-2026-05-25.html
+comments: true
+toc: true
+categories: ['宠物日记']
+tags: ['mango', 'moni', 'ywu', '生活记录']
+---
+# 2026-05-25 宠物生活日记
+
+## 今天的小记
+
+今天从 00:35 到 00:36，摄像头一共记下 3 个片段。最有存在感的是 ywu，家里这些零零碎碎的小画面，看起来很像平常上班时它们自己过的小日子。
+
+00:35，ywu 在台面附近坐着玩了一会儿，像是在拨弄玩具。 00:35，镜头扫到室内活动区，能看到家里的布置和宠物用品，但没有清楚认出是哪位小朋友。 00:36，镜头扫到客厅或玩耍区，能看到家里的布置和宠物用品，但没有清楚认出是哪位小朋友。
+
+## 出镜统计
+
+- ywu：出镜 1 次
+
+## 常见活动
+
+- ywu 玩了一会儿：1 次
+
+## 时间线
+
+- **00:35** ywu 在台面附近坐着玩了一会儿，像是在拨弄玩具。
+
+  ![00:35 的监控截图](https://raw.githubusercontent.com/zjuzhfbloodz/bloodzSpace/main/source/images/pets-lifelog/2026-05-25/003509.jpg)
+- **00:35** 镜头扫到室内活动区，能看到家里的布置和宠物用品，但没有清楚认出是哪位小朋友。
+
+  ![00:35 的监控截图](https://raw.githubusercontent.com/zjuzhfbloodz/bloodzSpace/main/source/images/pets-lifelog/2026-05-25/003549.jpg)
+- **00:36** 镜头扫到客厅或玩耍区，能看到家里的布置和宠物用品，但没有清楚认出是哪位小朋友。
+
+  ![00:36 的监控截图](https://raw.githubusercontent.com/zjuzhfbloodz/bloodzSpace/main/source/images/pets-lifelog/2026-05-25/003626.jpg)

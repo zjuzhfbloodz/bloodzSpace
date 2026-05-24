@@ -1,7 +1,7 @@
 ---
 title: '2026-05-25 宠物生活日记'
-date: '2026-05-25 00:46:45'
-updated: '2026-05-25 00:46:45'
+date: '2026-05-25 00:51:54'
+updated: '2026-05-25 00:51:54'
 permalink: /post/pets-lifelog-2026-05-25.html
 comments: true
 toc: true
@@ -28,10 +28,10 @@ tags: ['mango', 'moni', 'ywu', '生活记录']
 
 - **00:35** ywu 在台面附近坐着玩了一会儿，像是在拨弄玩具。
 
-  ![00:35 的监控截图](https://raw.githubusercontent.com/zjuzhfbloodz/bloodzSpace/main/source/images/pets-lifelog/2026-05-25/003509.jpg)
+  ![00:35 的监控截图](/images/pets-lifelog/2026-05-25/003509.jpg)
 - **00:35** 镜头扫到室内活动区，能看到家里的布置和宠物用品，但没有清楚认出是哪位小朋友。
 
-  ![00:35 的监控截图](https://raw.githubusercontent.com/zjuzhfbloodz/bloodzSpace/main/source/images/pets-lifelog/2026-05-25/003549.jpg)
+  ![00:35 的监控截图](/images/pets-lifelog/2026-05-25/003549.jpg)
 - **00:36** 镜头扫到客厅或玩耍区，能看到家里的布置和宠物用品，但没有清楚认出是哪位小朋友。
 
-  ![00:36 的监控截图](https://raw.githubusercontent.com/zjuzhfbloodz/bloodzSpace/main/source/images/pets-lifelog/2026-05-25/003626.jpg)
+  ![00:36 的监控截图](/images/pets-lifelog/2026-05-25/003626.jpg)

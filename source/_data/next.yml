@@ -31,8 +31,9 @@ gitalk:
 
 menu:
   home: / || fa fa-compass
-  ideas: /ideas/ || fa fa-lightbulb
+  blog: /blog/ || fa fa-book-open
   pets: /pets/ || fa fa-paw
   words: /words/ || fa fa-language
-  blog: /blog/ || fa fa-book-open
+  ideas: /ideas/ || fa fa-lightbulb
+  stock: /stock/ || fa fa-chart-line
   archives: /archives/ || fa fa-archive

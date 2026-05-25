@@ -1,267 +1,443 @@
 :root
-  --bs-bg: #f7f8f4
-  --bs-surface: #ffffff
-  --bs-surface-soft: #f1f5ee
-  --bs-ink: #17211b
-  --bs-muted: #66736a
-  --bs-line: #dce5da
-  --bs-green: #2f7d5c
-  --bs-coral: #d86f4c
-  --bs-gold: #b7892f
-  --bs-shadow: 0 18px 48px rgba(23, 33, 27, 0.08)
+  --bs-bg: #ffffff
+  --bs-paper: #f7f9fb
+  --bs-ink: #111317
+  --bs-text: #2f343b
+  --bs-muted: #757d88
+  --bs-line: #e5e9ef
+  --bs-line-strong: #cbd2dc
+  --bs-red: #b72c35
+  --bs-cyan: #dff5fa
+  --bs-blue: #315d7d
+  --bs-shadow: 0 24px 80px rgba(17, 19, 23, 0.08)
   --bs-radius: 8px
+  --bs-max: 1160px
 
 html
   background: var(--bs-bg)
+  scroll-behavior: smooth
 
 body
-  color: var(--bs-ink)
+  color: var(--bs-text)
   background:
-    linear-gradient(180deg, rgba(247, 248, 244, 0.95), rgba(247, 248, 244, 1)),
-    radial-gradient(900px 420px at 12% -10%, rgba(47, 125, 92, 0.13), transparent 70%),
-    radial-gradient(760px 360px at 92% 0%, rgba(216, 111, 76, 0.12), transparent 65%)
+    linear-gradient(90deg, rgba(17,19,23,0.035) 1px, transparent 1px) 0 0 / 72px 72px,
+    linear-gradient(180deg, rgba(17,19,23,0.028) 1px, transparent 1px) 0 0 / 72px 72px,
+    var(--bs-bg)
   font-family: "Avenir Next", "Inter", "PingFang SC", "Noto Sans SC", sans-serif
   letter-spacing: 0
 
-a
-  color: var(--bs-green)
+body::before
+  content: ""
+  position: fixed
+  inset: 0
+  pointer-events: none
+  z-index: -1
+  background:
+    linear-gradient(110deg, transparent 0 48%, rgba(223,245,250,0.7) 48% 58%, transparent 58%),
+    radial-gradient(680px 360px at 90% 8%, rgba(183,44,53,0.08), transparent 70%)
 
-.header,
-.sidebar,
-.main-inner,
-.content-wrap,
+a
+  color: var(--bs-ink)
+  text-decoration-color: rgba(183,44,53,0.28)
+  text-underline-offset: 0.18em
+
+a:hover
+  color: var(--bs-red)
+  text-decoration-color: var(--bs-red)
+
+.headband
+  display: none
+
+.header
+  background: rgba(255,255,255,0.9)
+  border-bottom: 1px solid var(--bs-line)
+  backdrop-filter: blur(18px)
+
+.header-inner
+  max-width: var(--bs-max)
+  margin: 0 auto
+  padding: 14px 0 12px
+
+.site-brand-container
+  display: flex
+  align-items: baseline
+  justify-content: space-between
+  gap: 24px
+
+.site-meta
+  text-align: left
+
+.brand
+  color: var(--bs-ink)
+  letter-spacing: 0
+  background: none !important
+
+.site-title
+  display: inline
+  font-family: Georgia, "Times New Roman", "Songti SC", serif
+  font-weight: 700
+  letter-spacing: 0
+  color: var(--bs-ink) !important
+  background: transparent !important
+  padding: 0 !important
+
+.site-subtitle
+  color: var(--bs-muted)
+  font-size: 13px
+  margin: 2px 0 0
+
+.logo-line-before,
+.logo-line-after
+  display: none
+
+.menu .menu-item a
+  border-radius: 0
+  color: var(--bs-muted)
+  font-size: 13px
+  font-weight: 700
+  letter-spacing: 0
+  padding-inline: 8px
+  transition: color 160ms ease, background-size 180ms ease
+  background-image: linear-gradient(var(--bs-red), var(--bs-red))
+  background-repeat: no-repeat
+  background-position: 0 100%
+  background-size: 0 1px
+
+.menu .menu-item a:hover
+  color: var(--bs-ink)
+  background-color: transparent
+  background-size: 100% 1px
+
+.main-inner
+  max-width: var(--bs-max)
+  margin: 0 auto
+
+.content-wrap
+  background: transparent
+
 .post-block,
 .comments,
 .tabs-comment
   border-radius: var(--bs-radius)
-
-.header
-  background: rgba(255,255,255,0.82)
-  border-bottom: 1px solid var(--bs-line)
-  backdrop-filter: blur(18px)
-
-.brand
-  color: var(--bs-ink)
-  font-weight: 800
-  letter-spacing: 0
-
-.site-subtitle
-  color: var(--bs-muted)
-
-.menu .menu-item a
-  color: var(--bs-muted)
-  border-radius: 8px
-  transition: color 160ms ease, background 160ms ease
-
-.menu .menu-item a:hover
-  color: var(--bs-ink)
-  background: rgba(47, 125, 92, 0.08)
-
-.post-block,
-.comments,
-.tabs-comment
-  background: rgba(255,255,255,0.9)
   border: 1px solid var(--bs-line)
+  background: rgba(255,255,255,0.92)
+  box-shadow: none
+
+.use-motion .brand,
+.use-motion .site-title,
+.use-motion .site-subtitle,
+.use-motion .menu-item,
+.use-motion .post-block,
+.use-motion .post-header,
+.use-motion .post-body,
+.use-motion .pagination,
+.use-motion .comments,
+.use-motion .collection-header
+  opacity: 1 !important
+
+.posts-expand .post-block
+  padding: clamp(22px, 4vw, 42px)
+  margin-bottom: 18px
+  transition: border-color 180ms ease, transform 180ms ease, box-shadow 180ms ease
+
+.posts-expand .post-block:hover
+  border-color: var(--bs-line-strong)
+  transform: translateY(-2px)
   box-shadow: var(--bs-shadow)
 
 .post-title,
 .posts-expand .post-title
   color: var(--bs-ink)
-  font-weight: 800
+  font-family: Georgia, "Times New Roman", "Songti SC", serif
+  font-weight: 700
   letter-spacing: 0
+
+.posts-expand .post-title-link
+  color: var(--bs-ink)
+  background: none
+
+.posts-expand .post-title-link:hover
+  color: var(--bs-red)
 
 .post-meta,
 .post-meta a
   color: var(--bs-muted)
+  font-size: 12px
 
 .post-body
-  color: #273129
+  color: var(--bs-text)
   font-size: 16px
-  line-height: 1.86
+  line-height: 1.88
 
 .post-body h1,
 .post-body h2,
 .post-body h3
   color: var(--bs-ink)
+  font-family: Georgia, "Times New Roman", "Songti SC", serif
   letter-spacing: 0
 
 .post-body img
-  max-width: 720px
-  width: 100%
+  width: min(100%, 760px)
   height: auto
   border-radius: var(--bs-radius)
+  border: 1px solid var(--bs-line)
 
 .post-button .btn,
 .pagination .page-number,
 .pagination .extend
-  border-radius: 8px
+  border-radius: 999px
   border-color: var(--bs-line)
+  background: #fff
 
 .post-button .btn:hover,
 .pagination .page-number:hover,
 .pagination .extend:hover
-  border-color: var(--bs-green)
-  color: var(--bs-green)
-
-.posts-expand .post-block
-  padding: clamp(20px, 3vw, 32px)
-  margin-bottom: 16px
-
-.posts-expand .post-header
-  margin-bottom: 14px
-
-.posts-expand .post-title-link
-  color: var(--bs-ink)
-  background: none
-  border-bottom: 1px solid transparent
-
-.posts-expand .post-title-link:hover
-  color: var(--bs-green)
-  border-bottom-color: rgba(47, 125, 92, 0.35)
+  border-color: var(--bs-red)
+  color: var(--bs-red)
 
 .posts-expand .post-eof
   display: none
 
-.post-button
-  margin-top: 14px
-
-.post-button .btn
-  padding: 8px 14px
-  color: var(--bs-green)
-  background: #fff
-  border: 1px solid rgba(47, 125, 92, 0.28)
-  font-weight: 700
-
-.collection-title
-  margin-bottom: 16px
-  color: var(--bs-ink)
-
-.collection-title h1,
-.collection-title h2
-  font-size: clamp(28px, 4vw, 44px)
-  letter-spacing: 0
-
 .posts-collapse
-  background: var(--bs-surface)
+  background: #fff
   border: 1px solid var(--bs-line)
   border-radius: var(--bs-radius)
-  box-shadow: var(--bs-shadow)
-  padding: 10px 14px
+  padding: 10px 16px
 
 .posts-collapse .post-header
   border-bottom-color: var(--bs-line)
 
-.posts-collapse .post-title a
-  color: var(--bs-ink)
-
 .posts-collapse .post-title a:hover
-  color: var(--bs-green)
+  color: var(--bs-red)
 
-.pagination
-  margin-top: 18px
+.collection-title h1,
+.collection-title h2
+  font-family: Georgia, "Times New Roman", "Songti SC", serif
+  font-size: clamp(32px, 5vw, 58px)
+  letter-spacing: 0
+
+.footer
+  color: var(--bs-muted)
+
+.sidebar,
+.sidebar-toggle,
+.sidebar-dimmer
+  display: none !important
+
+.main
+  padding-top: 42px
+  padding-bottom: 48px
+
+.main-inner
+  display: block
+
+.menu .fa,
+.menu i,
+.menu-item a i
+  display: none !important
+
+.site-nav
+  margin-top: 8px
+
+.post-block:has(.home-directory)
+  padding: 0
+  border: 0
+  background: transparent
+
+.post-block:has(.home-directory):hover
+  transform: none
+  box-shadow: none
+
+.post-block:has(.home-directory) .post-header,
+.post-block:has(.home-directory) + .breadcrumb,
+.post-block:has(.home-directory) ~ .breadcrumb
+  display: none
+
+.post-body:has(.home-directory)
+  margin: 0
+  padding: 0
 
 .home-directory
   display: grid
-  gap: 18px
+  gap: 22px
 
 .home-hero
+  min-height: auto
   display: grid
-  grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.9fr)
-  gap: 18px
+  grid-template-columns: minmax(0, 1.15fr) minmax(320px, 0.85fr)
+  gap: clamp(20px, 4vw, 54px)
   align-items: stretch
-  min-height: 520px
-  border: 1px solid var(--bs-line)
-  border-radius: var(--bs-radius)
-  background: var(--bs-surface)
-  box-shadow: var(--bs-shadow)
-  overflow: hidden
+  border-top: 1px solid var(--bs-ink)
+  border-bottom: 1px solid var(--bs-line)
+  padding: clamp(36px, 6vw, 78px) 0 clamp(42px, 6vw, 86px)
 
 .home-hero-copy
-  padding: clamp(24px, 5vw, 58px)
   display: flex
   flex-direction: column
   justify-content: center
 
 .home-hero h1
   margin: 0
-  font-size: clamp(38px, 7vw, 76px)
-  line-height: 0.96
-  font-weight: 850
+  color: var(--bs-ink)
+  font-family: Georgia, "Times New Roman", "Songti SC", serif
+  font-size: clamp(52px, 8vw, 98px)
+  line-height: 0.92
   letter-spacing: 0
 
 .home-subtitle
-  max-width: 560px
-  margin: 22px 0 0
-  color: var(--bs-muted)
-  font-size: 18px
-  line-height: 1.8
+  max-width: 620px
+  margin: 24px 0 0
+  color: var(--bs-text)
+  font-size: clamp(17px, 2vw, 22px)
+  line-height: 1.75
 
 .home-actions
   display: flex
   flex-wrap: wrap
-  gap: 10px
-  margin-top: 28px
+  gap: 12px
+  margin-top: 34px
 
 .home-actions a
+  min-height: 42px
   display: inline-flex
   align-items: center
   justify-content: center
-  min-height: 40px
-  padding: 0 16px
-  border-radius: 8px
-  border: 1px solid var(--bs-line)
+  padding: 0 18px
+  border: 1px solid var(--bs-ink)
+  border-radius: 999px
+  color: var(--bs-ink)
   text-decoration: none
-  font-size: 14px
-  font-weight: 700
+  font-size: 13px
+  font-weight: 800
+  transition: transform 160ms ease, background 160ms ease, color 160ms ease
 
 .home-actions a:first-child
   color: #fff
-  background: var(--bs-green)
-  border-color: var(--bs-green)
+  background: var(--bs-ink)
 
-.home-photo
-  width: 100%
-  height: 100%
-  min-height: 520px
-  object-fit: cover
-  display: block
+.home-actions a:hover
+  transform: translateY(-2px)
+  color: #fff
+  background: var(--bs-red)
+  border-color: var(--bs-red)
 
-.home-grid
+.home-index
+  align-self: center
+  border-left: 1px solid var(--bs-line)
+  padding-left: clamp(18px, 3vw, 34px)
   display: grid
-  grid-template-columns: repeat(3, minmax(0, 1fr))
-  gap: 12px
+  gap: 16px
 
-.home-card
-  display: block
-  min-height: 168px
-  border: 1px solid var(--bs-line)
-  border-radius: var(--bs-radius)
-  background: var(--bs-surface)
-  padding: 20px
-  box-shadow: var(--bs-shadow)
+.home-index-item
+  display: grid
+  grid-template-columns: 70px minmax(0, 1fr)
+  gap: 14px
+  padding-bottom: 16px
+  border-bottom: 1px solid var(--bs-line)
   color: inherit
   text-decoration: none
-  transition: transform 160ms ease, border-color 160ms ease
 
-.home-card:hover
-  transform: translateY(-2px)
-  border-color: rgba(47, 125, 92, 0.45)
+.home-index-item:last-child
+  border-bottom: 0
 
-.home-card span
-  color: var(--bs-coral)
-  font-size: 13px
-  font-weight: 800
+.home-index-item span
+  color: var(--bs-red)
+  font-size: 12px
+  font-weight: 900
+  text-transform: uppercase
 
-.home-card h2
-  margin: 10px 0 8px
+.home-index-item h2
+  margin: 0 0 6px
   color: var(--bs-ink)
-  font-size: 21px
-  line-height: 1.3
+  font-size: 19px
+  line-height: 1.35
 
-.home-card p
+.home-index-item p
   margin: 0
   color: var(--bs-muted)
+  font-size: 14px
+  line-height: 1.65
+
+.home-lanes
+  display: grid
+  grid-template-columns: minmax(0, 1.2fr) minmax(300px, 0.8fr)
+  gap: 18px
+
+.home-panel
+  padding: clamp(20px, 3vw, 34px)
+  border: 1px solid var(--bs-line)
+  background: rgba(255,255,255,0.86)
+
+.home-panel h2
+  margin: 0 0 16px
+  color: var(--bs-ink)
+  font-family: Georgia, "Times New Roman", "Songti SC", serif
+  font-size: clamp(26px, 3vw, 42px)
+  letter-spacing: 0
+
+.home-panel p
+  color: var(--bs-muted)
   line-height: 1.75
+
+.home-stream
+  display: grid
+  gap: 0
+
+.home-row
+  display: grid
+  grid-template-columns: 120px minmax(0, 1fr)
+  gap: 18px
+  padding: 16px 0
+  border-top: 1px solid var(--bs-line)
+  color: inherit
+  text-decoration: none
+
+.home-row time
+  color: var(--bs-muted)
+  font-size: 13px
+
+.home-row strong
+  color: var(--bs-ink)
+  font-size: 18px
+  line-height: 1.35
+
+.home-row:hover strong
+  color: var(--bs-red)
+
+.home-side
+  display: grid
+  gap: 18px
+
+.home-note
+  min-height: 180px
+  border: 1px solid var(--bs-line)
+  background: var(--bs-paper)
+  padding: 20px
+  color: inherit
+  text-decoration: none
+  position: relative
+  overflow: hidden
+
+.home-note::after
+  content: ""
+  position: absolute
+  width: 160px
+  height: 160px
+  right: -76px
+  bottom: -76px
+  border: 1px solid rgba(183,44,53,0.38)
+  transform: rotate(18deg)
+
+.home-note span
+  color: var(--bs-red)
+  font-size: 12px
+  font-weight: 900
+
+.home-note h3
+  margin: 10px 0 8px
+  color: var(--bs-ink)
+  font-size: 22px
+  line-height: 1.3
 
 .idea-media
   display: flex
@@ -269,23 +445,20 @@ a
   align-items: flex-start
   margin: 1.2em 0
 
-.idea-media-images
-  flex: 0 0 auto
-  width: min(32%, 260px)
-  display: flex
-  flex-direction: column
-  gap: 10px
-
+.idea-media-images,
 .idea-media-image
   flex: 0 0 auto
   width: min(32%, 260px)
-  display: block
+
+.idea-media-images
+  display: flex
+  flex-direction: column
+  gap: 10px
 
 .idea-media-images .idea-media-image
   width: 100%
 
 .idea-media-image img
-  max-width: 100%
   width: 100%
   height: auto
   border-radius: var(--bs-radius)
@@ -294,7 +467,6 @@ a
   flex: 1 1 auto
   min-width: 0
   line-height: 1.8
-  color: #333
 
 .ideas-feed
   display: grid
@@ -303,14 +475,13 @@ a
 .idea-card
   border: 1px solid var(--bs-line)
   border-radius: var(--bs-radius)
-  padding: 18px
-  background: var(--bs-surface)
-  box-shadow: var(--bs-shadow)
+  padding: 20px
+  background: rgba(255,255,255,0.9)
   transition: transform 160ms ease, border-color 160ms ease
 
 .idea-card:hover
   transform: translateY(-2px)
-  border-color: rgba(216, 111, 76, 0.38)
+  border-color: var(--bs-line-strong)
 
 .idea-card-header
   display: flex
@@ -321,7 +492,7 @@ a
 
 .idea-card-title
   margin: 0
-  font-size: 22px
+  font-size: 23px
   line-height: 1.35
 
 .idea-card-title-link
@@ -330,25 +501,14 @@ a
 
 .idea-card-date
   color: var(--bs-muted)
-  font-size: 13px
+  font-size: 12px
   white-space: nowrap
 
-.idea-card-body
-  margin: 0
-  color: #1f2937
-
-.use-motion .ideas-feed .idea-card .post-body
-  opacity: 1
-
-.idea-card-footer
-  margin-top: 10px
-
 .idea-card-read
-  display: inline-block
   font-size: 13px
-  color: var(--bs-green)
+  color: var(--bs-red)
   text-decoration: none
-  font-weight: 700
+  font-weight: 800
 
 .wb-wrap
   max-width: 1080px
@@ -356,36 +516,41 @@ a
   padding: 4px 0 24px
 
 .wb-hero
-  background: var(--bs-surface)
-  border: 1px solid var(--bs-line)
-  border-radius: var(--bs-radius)
-  box-shadow: var(--bs-shadow)
-  padding: clamp(20px, 4vw, 42px)
-  margin-bottom: 14px
+  border-top: 1px solid var(--bs-ink)
+  border-bottom: 1px solid var(--bs-line)
+  padding: clamp(24px, 5vw, 56px) 0
+  margin-bottom: 18px
 
 .wb-hero h1
   margin: 0
-  font-size: clamp(32px, 5vw, 56px)
-  line-height: 1
+  color: var(--bs-ink)
+  font-family: Georgia, "Times New Roman", "Songti SC", serif
+  font-size: clamp(40px, 6vw, 76px)
+  line-height: 0.95
   letter-spacing: 0
 
 .wb-meta
-  margin-top: 10px
+  margin-top: 12px
   color: var(--bs-muted)
   font-size: 14px
 
 .wb-grid
-  display: grid
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))
-  gap: 14px
+  columns: 2 320px
+  column-gap: 14px
 
 .wb-card
+  break-inside: avoid
   min-width: 0
   border: 1px solid var(--bs-line)
   border-radius: var(--bs-radius)
   padding: 16px
-  background: var(--bs-surface)
-  box-shadow: var(--bs-shadow)
+  margin: 0 0 14px
+  background: rgba(255,255,255,0.92)
+  transition: transform 160ms ease, border-color 160ms ease
+
+.wb-card:hover
+  transform: translateY(-2px)
+  border-color: var(--bs-line-strong)
 
 .wb-head
   display: grid
@@ -395,21 +560,22 @@ a
 .wb-head h2
   margin: 0
   color: var(--bs-ink)
+  font-family: Georgia, "Times New Roman", "Songti SC", serif
   font-size: 22px
-  font-weight: 850
-  line-height: 1.24
+  font-weight: 700
+  line-height: 1.2
   letter-spacing: 0
   overflow-wrap: anywhere
 
 .wb-phonetic
   width: fit-content
   max-width: 100%
-  color: var(--bs-muted)
-  background: var(--bs-surface-soft)
-  border: 1px solid var(--bs-line)
+  color: var(--bs-blue)
+  background: var(--bs-cyan)
+  border: 1px solid #c8e8ef
   padding: 3px 8px
   border-radius: 999px
-  font-size: 13px
+  font-size: 12px
 
 .wb-meanings
   display: flex
@@ -420,64 +586,75 @@ a
 .wb-chip
   display: inline-block
   border-radius: 999px
-  background: #ecf5ef
-  border: 1px solid #cce0d2
-  color: var(--bs-green)
+  background: #fff
+  border: 1px solid var(--bs-line)
+  color: var(--bs-ink)
   padding: 4px 10px
   font-size: 12px
   font-weight: 800
 
 .wb-example
-  padding: 11px
-  border: 1px solid var(--bs-line)
-  border-radius: var(--bs-radius)
-  background: #fbfcf8
+  padding: 12px
+  border-left: 2px solid var(--bs-red)
+  background: var(--bs-paper)
   margin-bottom: 8px
-
-.wb-example:last-child
-  margin-bottom: 0
 
 .wb-en,
 .wb-zh
-  line-height: 1.62
+  line-height: 1.65
   margin-bottom: 7px
-  color: #2c382f
+  color: var(--bs-text)
   overflow-wrap: anywhere
 
 .wb-link
   font-size: 12px
-  color: var(--bs-green)
+  color: var(--bs-red)
   text-decoration: none
   font-weight: 800
 
-.wb-link:hover
-  text-decoration: underline
-
 .wb-mark
-  background: #ffe6a7
+  background: var(--bs-cyan)
   padding: 0 3px
-  border-radius: 3px
+
+.reveal
+  opacity: 0
+  transform: translateY(18px)
+  transition: opacity 520ms ease, transform 520ms ease
+
+.reveal.is-visible
+  opacity: 1
+  transform: translateY(0)
+
+@media (prefers-reduced-motion: reduce)
+  *,
+  *::before,
+  *::after
+    animation-duration: 0.001ms !important
+    transition-duration: 0.001ms !important
+    scroll-behavior: auto !important
 
 @media (max-width: 991px)
-  .home-hero
+  .home-hero,
+  .home-lanes
     grid-template-columns: 1fr
-    min-height: 0
-  .home-photo
-    min-height: 360px
-  .home-grid
-    grid-template-columns: repeat(2, minmax(0, 1fr))
+  .home-index
+    border-left: 0
+    padding-left: 0
+  .main-inner,
+  .header-inner
+    max-width: calc(100% - 28px)
 
 @media (max-width: 767px)
   .post-body
     font-size: 15px
-  .home-hero-copy
-    padding: 24px
+  .home-hero
+    min-height: 0
   .home-hero h1
-    font-size: 40px
-  .home-subtitle
-    font-size: 16px
-  .home-grid
+    font-size: 48px
+  .home-index-item,
+  .home-row
     grid-template-columns: 1fr
+    gap: 6px
   .idea-media
     display: block
   .idea-media-images,
@@ -486,11 +663,5 @@ a
     margin-bottom: 8px
   .idea-card-header
     display: block
-  .idea-card-title
-    font-size: 18px
   .wb-grid
-    grid-template-columns: 1fr
-  .wb-card
-    padding: 14px
-  .wb-head h2
-    font-size: 20px
+    columns: 1

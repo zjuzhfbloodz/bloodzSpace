@@ -1,6 +1,18 @@
 const petDiaryData = {
   "diaries": [
     {
+      "date": "2026-06-05",
+      "title": "2026-06-05 宠物生活日记",
+      "url": "/post/pets-lifelog-2026-06-05.html",
+      "cover": "/images/pets-lifelog/2026-06-05/094232.jpg",
+      "summary": "记录到 mango、moni 的居家片段，共 22 次画面。",
+      "eventCount": 22,
+      "pets": [
+        "mango",
+        "moni"
+      ]
+    },
+    {
       "date": "2026-06-04",
       "title": "2026-06-04 宠物生活日记",
       "url": "/post/pets-lifelog-2026-06-04.html",
